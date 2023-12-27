@@ -1,0 +1,9 @@
+5_B :_B G_B S_B Z_B a_B a:_B b_B c_B d_B dZ_B e_B e:_B f_B g_B gj_B h_B i_B i:_B j_B k_B ks_B l_B m_B n_B o_B o:_B p_B r_B s_B t_B tS_B u_B u:_B v_B w_B y_B y:_B z_B 1_B 2_B 1:_B 2:_B N_B 1j_B a::_B 
+5_E :_E G_E S_E Z_E a_E a:_E b_E c_E d_E dZ_E e_E e:_E f_E g_E gj_E h_E i_E i:_E j_E k_E ks_E l_E m_E n_E o_E o:_E p_E r_E s_E t_E tS_E u_E u:_E v_E w_E y_E y:_E z_E 1_E 2_E 1:_E 2:_E N_E 1j_E a::_E 
+5_I :_I G_I S_I Z_I a_I a:_I b_I c_I d_I dZ_I e_I e:_I f_I g_I gj_I h_I i_I i:_I j_I k_I ks_I l_I m_I n_I o_I o:_I p_I r_I s_I t_I tS_I u_I u:_I v_I w_I y_I y:_I z_I 1_I 2_I 1:_I 2:_I N_I 1j_I a::_I 
+5_S :_S G_S S_S Z_S a_S a:_S b_S c_S d_S dZ_S e_S e:_S f_S g_S gj_S h_S i_S i:_S j_S k_S ks_S l_S m_S n_S o_S o:_S p_S r_S s_S t_S tS_S u_S u:_S v_S w_S y_S y:_S z_S 1_S 2_S 1:_S 2:_S N_S 1j_S a::_S 
+SIL SPN 
+SIL_B SPN_B 
+SIL_E SPN_E 
+SIL_I SPN_I 
+SIL_S SPN_S 
