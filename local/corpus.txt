@@ -29568,9 +29568,9 @@ vertebra korpus yükseklikleri disk aralıkları disk sinyal intensiteleri norma
 prostatın seminal veziküllerle yapıtığı açı korunmaktadır
 böbreklerin yer  şekil ve büyüklükleri normaldir
 ultrasonografik ve renkli doppler us tetkikte
-vertebra    korpus yükseklikleri  disk aralıkları  posterolateral elemanlar ve servikal lo lordoz normaldir
-vertebra    korpus yükseklikleri  disk aralıkları ve lumbal lordoz normaldi
-vertebra    end plateleri    ve korpus yükseklikleri     dizilimleri    normaldir
+vertebra korpus yükseklikleri disk aralıkları  posterolateral elemanlar ve servikal lo lordoz normaldir
+vertebra korpus yükseklikleri  disk aralıkları ve lumbal lordoz normaldi
+vertebra end plateleri ve korpus yükseklikleri  dizilimleri normaldir
 diafram konturları düzgündür
 her iki göz küresi normal anatomik morfoloji ve boyutlardadır
 görüntülerde her iki bulbus oküli normaldir
@@ -29588,7 +29588,7 @@ pankreas normal kontur ve büyüklüktedir
 mesane normal konturlarda ve hacimdedir
 karpal kemiklerin dizilim ve sinyal intensitesi normaldir
 dural sak ve sinir kökleri normaldir
-faset eklemler    ve spinal kanal normaldir
+faset eklemler ve spinal kanal normaldir
 faset eklemler normaldir
 konkalar normaldi
 kardiotorasik oran normaldir
@@ -29678,7 +29678,7 @@ femur başlarında avasküler nekroz bulgusu saptanmamıştır
 nöral bası saptanmamıştır
 plevral sıvı saptanmamıştır
 ekstrensek bası saptanmamıştır
-nöral bası      saptanmamıştır
+nöral bası  saptanmamıştır
 brakiosefalik ve mediastinal vasküler yapılar  kalp ve perikard normaldir
 parankim ve sinüs ekoları tabiidir
 aksiyel ve koronal paranazal sinüs bt
@@ -29688,7 +29688,7 @@ derin ven trombozu ya da anlamlı yetmezlik bulgusu saptanmadı
 orta kulak ve mastoid havalanmaları normal olarak izlenmektedir
 üretra yolu ile kontrast madde verilmiştir
 prevertabral yumuşak doku mesafesinin genişliği olağandır
-bez parankimi içinde    üç uzunluğunda solid nodüller izlendi
+bez parankimi içinde üç uzunluğunda solid nodüller izlendi
 mesane orta hattadır
 subaraknoid mesafeler doğal görünümdedir
 lateral ventriküller simetrik yerleşimli ve normal genişliktedir
@@ -29768,7 +29768,7 @@ normal sınırlarda beyin bt
 normal sınırlarda toraks bt
 normal sınırlarda kontrastlı beyin bt incelemesi
 normal sınırlarda lomber mr incelemesi
-tiroid bezi boyutları normalden büyüktür  yaklaşık olarak sağ lob dört     
+tiroid bezi boyutları normalden büyüktür  yaklaşık olarak sağ lob dört  
 tiroid bezinin intratorasik uzanımı izlenmedi
 l5 s1 seviyesinde disk aralığı normaldir
 perikardium normal kalınlıktadır
@@ -29815,7 +29815,7 @@ uterus ve endometrial kavite normal olarak izlenmektedir
 myometrium homojendir
 dural sak normal morfolojidedir
 normal toraks bt anatomi
-sonuç     normal sınırlarda beyin mrg incelemesi
+sonuç  normal sınırlarda beyin mrg incelemesi
 sonuç normal sınırlarda abdominopelvik bt tetkiki
 portal sistem tüm düzeylerde olağan kalibrasyondadır
 karpal tünelde yer kaplayan oluşum saptanmamış
@@ -29838,8 +29838,8 @@ beyin sapı kompartmanları normaldir
 sat a göre haftalık  tek  canlı  gebelik yaşıyla uyumlu ölçümlerde fetus
 bu segmentlerde anlamlı arteriyel lümen çapı daralması saptanmamıştır
 skrotal cilt kalınlığı normal sınırlarda ve simetriktir
-mandibula başı  temporal eminencia    ve    artiküler fossa    normaldir
-spinal kanal genişliği    normaldir
+mandibula başı  temporal eminencia ve artiküler fossa normaldir
+spinal kanal genişliği normaldir
 mediastinal ana vasküler yapılar ve kalp kompartmanları olağandır
 tetkike dahil diğer mediastinal ana vasküler yapılar normal göünümdedir
 uterin arter dalga formlarında diastolik çentik izlenmedi
@@ -29857,14 +29857,14 @@ intraskrotal sıvı miktarı doğal sınırlardadır
 hava sıvı seviyesi veya diafram altında serbest hava saptan
 nöral bası saptanmamıştır
 striktür saptanmamıştır
-nöral bası      saptanmamıştır
+nöral bası  saptanmamıştır
 sakral foramenler olağan görünümdedir
 pankreasta kitlesel lezyon saptanmamıştır
 brakiosefalik ve mediastinal vasküler yapılar  kalp ve perikard normaldir
 parankim ekoları tabiidir
 temporal kemik bt
 kafa kaidesi kemik oluşumları ve paranazal sinüsler normaldir
-grafiye dahil    kranial kemikler normaldir
+grafiye dahil kranial kemikler normaldir
 kalça eklem ilişkileri normaldir
 trakea ve ana bronşlar açık olup  mediastinal patolojik boyutta lenf nodu ayırt edilmemiştir
 orta kulak ve mastoid havalanmaları normal olarak izlenmektedir
@@ -29872,7 +29872,7 @@ bilateral mastoid sellülerin havalanması normaldir
 hastaya bt eşliğinde girişim uygulanmış ve alınan materyal patolojiye gönderil
 üretra yolu ile kontrast madde verilmiştir
 inceleme dahilindeki metatars ve falankslar  eklem ilişkileri normal sınırlardadır
-bez parankimi içinde    üç uzunluğunda solid nodüller izlendi
+bez parankimi içinde üç uzunluğunda solid nodüller izlendi
 mesane orta hattadır
 lateral ventriküller simetrik yerleşimli ve normal genişliktedir
 alt ekstremıte arter sistemi
@@ -30005,11 +30005,11 @@ ulkus ile uyumlu baryum takıntısı  mukozal patoloji saptanmamıştır
 batın içi kollateral yapı saptanmamıştır
 piramidal lob uzanımı gözlenmedi
 karın yumuşak dokuları  gaz ve gaita dağılımı normaldir
-sağ böbrek altı  cm  sol böbrek altı cm uzunlukta olup  ortalama parankim kalınlıkları sağda altı mm  solda  altı    mm ölçüldü
+sağ böbrek altı cm sol böbrek altı cm uzunlukta olup ortalama parankim kalınlıkları sağda altı mm solda altı mm ölçüldü
 inceleme yapılan düzeylerde hemodinamik anlamlı olan darlık izlenmedi
 nukkal kıvrım kalınlığı normal sınırlardadır
 otik kapsül  labirent oluşumları  fasiyal kanal ve iç kulak yolları iki taraflı normaldir
-spinal kanal genişliği    normaldir
+spinal kanal genişliği normaldir
 uterin arter dalga formlarında diastolik çentik izlenmedi
 nazofarinks hava sütunu ve parafaringeal yumuşak dokular normaldir
 nazofarinks  orofarinks hipofarinks hava sütunu normaldir
@@ -30034,7 +30034,7 @@ kafa kaidesi kemik oluşumları ve paranazal sinüsler normaldir
 kalça eklemlerinde effüzyon bulgusu saptanmamıştır
 kalça eklem ilişkileri normaldir
 oral yoldan verilen kontrast maddenin özefagustan pasajı takıntısız ve normaldir
-anormammo meme yapısı skleroze  liposkleroze  lipomatö
+anormammo meme yapısı skleroze liposkleroze lipomatö
 orta kulak ve mastoid havalanmaları normal olarak izlenmektedir
 postvoiding rezidü saptanmamıştır
 mesane orta hattadır
@@ -30097,7 +30097,7 @@ bulgular karaciger normal kontur ve büyüklüktedir
 pankreas normal kontur ve büyüklüktedir
 dalak normal büyüklükte olup  parankimi normal görünümdedir
 mesane normal konturlarda ve hacimdedir
-nöral foramenler ve faset eklemler        normal olarak izlenmektedir
+nöral foramenler ve faset eklemler  normal olarak izlenmektedir
 kardiotorasik oran normaldir
 normal sınırlarda beyin bt
 normal pelvik ultrasonografi bulguları bayan
@@ -30175,7 +30175,7 @@ akım hızları ve dalga formları doğal değerlendirildi
 meniskal yapılar  ligamanlar normal olarak değerlendirildi
 beyin sapı kompartmanları normaldir
 diyafragma ve kostofrenik sinüsler  toraks duvarı kemik yapıları ve yumuşak dokuları  grafiye dahil karın organları normaldir
-spinal kanal    normaldir
+spinal kanal normaldir
 mediastinal ana vasküler yapılar ve kalp normal olarak izlenmektedir
 mediastinal ana vasküler yapılar ve kalp kompartmanları olağandır
 odontoid c2 ve atlas c1 ilişkisi normaldir
@@ -30193,7 +30193,7 @@ obstrüksiyon saptanmamıştır
 plevral sıvı saptanmamıştır
 ekstrensek bası saptanmamıştır
 striktür saptanmamıştır
-normal bası      saptanmamıştır
+normal bası  saptanmamıştır
 maksiller sinüs ostiumları açıktır
 sakral foramenler olağan görünümdedir
 brakiosefalik ve mediastinal vasküler yapılar  kalp ve mediasten normaldir
@@ -30274,8 +30274,8 @@ normal pulmoner mr anjiyografi bulguları
 normal sınırlarda paranazal sinüs tetkiki
 normal bulgular
 intestinal segmentler normal duvar kalınlığı ve kalibrasyondadır
-tiroid bezi boyutları normalden büyüktür  yaklaşık olarak sağ lob dört     
-tiroid bezi boyutları normalden büyüktür  yaklaşık olarak sağ lob üç   sol üç lob      istmus üç    cm
+tiroid bezi boyutları normalden büyüktür  yaklaşık olarak sağ lob dört  
+tiroid bezi boyutları normalden büyüktür  yaklaşık olarak sağ lob üç   sol üç lob   istmus üç cm
 tiroid bezinin intratorasik uzanımı gözlenmedi
 tiroid bezinin intratorasik uzanımı izlenmedi
 perikardium normal kalınlıktadır
@@ -30333,11 +30333,11 @@ yer kaplayıcı lezyon ya da fraktür saptanmamıştır
 kemik yapılar  eklem ilişkileri yaşla uyumlu görünümdedir
 prifom sinüsler ve vallekulalar doğaldır
 yumuşak dokularda kitle lezyonu ayırdedilmemiştir
-disk herniasyonu ile uyumlu      görünüm izlenmemiştir
+disk herniasyonu ile uyumlu  görünüm izlenmemiştir
 parankim alanlarında patoloji saptanmadı
 timpanik kavite olağandır
 tetkik başlangıcında mesane distandü idi
-kontrol amaçlı yapılan bu incelemede    önceki incelemeden farklı bir bulgu saptanmadı
+kontrol amaçlı yapılan bu incelemede önceki incelemeden farklı bir bulgu saptanmadı
 kemik yapılar normaldir
 maksillofasiyal kemik yapılar normaldir
 kemik yapılar normal morfolojidedir
@@ -30361,7 +30361,7 @@ nodül saptanmamıştır
 nöral bası saptanmamıştır
 ekstrensek bası saptanmamıştır
 striktür saptanmamıştır
-nöral bası      saptanmamıştır
+nöral bası  saptanmamıştır
 pankreasta kitlesel lezyon saptanmamıştır
 elektrod sabitlemesi yapıldı
 cilt cilt altı dikişler yapılarak işleme son verildi
@@ -30370,7 +30370,7 @@ komplikasyon olmadı
 kültür sonucu  flora bakterileri üredi
 anjina ve iskemi gelişmedi
 anlamlı aritmi gelişmedi
-atrial septum  intakt   ventriküler septum  intakt      mitral kapak normal  regürjitan akım yok
+atrial septum  intakt   ventriküler septum  intakt   mitral kapak normal  regürjitan akım yok
 sonuç elektrofizyolojık bulgular normal sınırlar içerisinde bulunmuştur
 alınan örnekler altta   sıralanmıştır
 uyku etkinliği yüzde 98 bulundu
@@ -30407,7 +30407,7 @@ endometrium kalınlığı   15 mm ölçülmüştür ve normal sınırlardadır
 her iki over normal lokalizasyon ve boyutlardadır
 her iki overde en büyüğü 12  13 mm boyutlarında ölçülen multipl folliküller görülmektedir
 grafide rezidüel idrar kalmadığı anlaşılmaktadır
-konturları muntazamdır    her iki vertebral arter açıktır
+konturları muntazamdır   her iki vertebral arter açıktır
 akım yönleri fizyolojiktir
 normal voiding sistoüretrografi incelemesi  vur saptanmamıştır
 her iki frontal sinüslerin normaldir
@@ -30422,7 +30422,7 @@ kese içinde yer kaplayıcı patoloji görülmemiştir
 her iki adneksiyal lojda belirgin solid kistik lezyon saptanmadı
 konturları muntazamdır
 parankim ekojenitesi homojen  eko yapısı normaldir
-hastanızın akciğer grafisinde    trakea orta hattadır ve normal izlenmektedir
+hastanızın akciğer grafisinde   trakea orta hattadır ve normal izlenmektedir
 her iki hilus doğal görünümdedir
 diafragma konturlar düzgündür
 yumuşak dokular ve kemik yaplar doğal görünümdedir
@@ -30480,7 +30480,7 @@ hastanızın baryumlu çift kontrast kolon incelemesinde
 opak madde ilioçekal valvden terminal ileuma geçmiştir
 normal sınırlarda çift kontrastlı kolon incelemesi
 lümen genişlikleri normaldir
-sonuç       bilateral alt ekstremite arterleri normal olarak değerlendirildi
+sonuç   bilateral alt ekstremite arterleri normal olarak değerlendirildi
 sakroiliak eklemler çevresinde yumuşak doku şişliği saptanmamıştır
 eklem aralıkları normal görünümdedir
 yumuşak dokular doğaldır virgül normal sınırlarda diz grafisi
@@ -30520,7 +30520,7 @@ hedef kalp hızına yüzde 100 oranında ulaşıldı
 efora tansiyon ve nabız cevabı normal
 anlamlı aritmi gelişmedi
 koh  ile yapılan incelemede mantar elemanları görülemedi
-sonuç    normal ekokardiyografik tetkik
+sonuç   normal ekokardiyografik tetkik
 median sinir duyu ve motor ileti hızları iki yanlı normal degerlerde bulundu
 bileteral ulnar sinir duyu ve motor ileti hızları normal degerlerde bulundu
 bulgular duvarı kas kemik oluşumlar olağandır
@@ -30553,8 +30553,8 @@ endometrium kalınlığı   15 mm ölçülmüştür ve normal sınırlardadır
 her iki over normal lokalizasyon ve boyutlardadır
 her iki overde en büyüğü on iki on üç mm boyutlarında ölçülen multipl folliküller görülmektedir
 normal voiding sistoüretrografi incelemesi  vur saptanmamıştır
-konturları muntazamdır    her iki vertebral arter açıktır
-sonuç       normal sınırlarda vertebral arter renkli doppler bulguları
+konturları muntazamdır   her iki vertebral arter açıktır
+sonuç   normal sınırlarda vertebral arter renkli doppler bulguları
 grafide rezidüel idrar kalmadığı anlaşılmaktadır
 hastanızın waters pozisyonunda paranazal sinüs grafisinde septum orta hattadır
 her iki nazal konka normal görünümdedir
@@ -30620,7 +30620,7 @@ normal sınırlarda sakroiliak eklem bt incelemesi
 patellofemoral eklem aralıkları normal görünümdedir
 grafide rezidüel idrar kalmadığı anlaşılmaktadır
 konturları muntazamdır  her iki vertebral arter açıktır
-hastanızın voiding sistoüretrografi incelemesinde     mesane lokalizasyonu  boyutu ve trabekülasyonu normaldir
+hastanızın voiding sistoüretrografi incelemesinde   mesane lokalizasyonu  boyutu ve trabekülasyonu normaldir
 her iki frontal sinüslerin normaldir
 bilateral maksiller sinüs normal olarak değerlendirilmiştir
 normal sınırlarda waters grafisi
@@ -30633,7 +30633,7 @@ dalak boyutlardadır ve parankim eko yapısı doğaldır
 mesane homojen dolmuş olup konturları muntazamdır
 kese içerisinde yer kaplayıcı patoloji görülmemiştir
 prostat gland boyutları ve parankim ekojenitesi doğaldır
-hastanızın akciğer grafisinde     trakea orta hattadır ve normal izlenmektedir
+hastanızın akciğer grafisinde   trakea orta hattadır ve normal izlenmektedir
 kardiotorasik indeks fizyolojik sınırlardadır
 diafragma konturlar düzgündür
 her iki memede kistik veya solid yer kaplayan lezyon saptanmamış
@@ -30643,9 +30643,561 @@ planimetrik kapak alanı birinci
 6 cm kare bulundu
 ve interatriyal septumlar intakttır
 aynı kesitte aort kök genişliği 35 mm ile normal bulundu
-sonuç     hafif mitral ve triküspit yetersizliği
+sonuç   hafif mitral ve triküspit yetersizliği
 bu kesitten hesaplanan ef yüzde 60 olarak saptandı
 assendan aorta kırk dört mm ile genişlemiştir
 sağ ventrikül ve sağ atriyum normaldir
 aort kapak üç kuspisli  fibrotik görünümdedir
 cw doppler akım örneğinde ileri akım hızı bir
+skapholunat ligaman ve triangüler fibro kartilaj kompleks normaldir
+kalça eklemlerinde effüzyon bulgusu saptanmamıştır
+oral yoldan verilen kontrast maddenin özefagustan pasajı skopik olarak normaldir
+t1 ve t2 ağırlıklı pre ve postkontrast multiplanar görüntüler elde olunmuştur
+teknik bilgi intravenöz kontrast madde enjeksiyonu ardından beş mm kesit kalınlığı ile aksiyel planda görüntüler elde edilmiştir
+trakea ve ana bronşlar açık olup hrct sınırlarında mediastinal patolojik boyutta lenf nodu ayırt edilmemiştir
+orta kulak ve mastoid havalanmaları normal olarak izlenmektedir
+bilateral mastoid sellülerin havalanması normaldir
+üretra yolu ile kontrast madde verilmiştir
+bez parankimi içinde üç uzunluğunda solid nodüller izlendi
+lateral ventriküller simetrik yerleşimli ve normal genişliktedir
+bilateral dirsek eklem genişlikleri olağandır
+ana renal arterlerde anlamlı darlık bulgusu saptanmadı
+majör intrakranial arteriyal oluşumlar ve dural venöz sinüsler sinyalsiz olarak izlenmektedir
+rektum ve perirektal yağ planları normaldir
+mesane normaldir
+parotid ve submandibuler bezler normaldir
+fetus normal fenotipinde gözlendi
+diffüz multinodüler guatr
+petroperitoneal yada intra abdominal lap saptanmamıştır
+intra ve ekstrahepatik safra yolları olağandır
+her iki böbreğin boyutu yerleşimi parankim kalınlığı dansitesi ve toplayıcı yapıları normaldir
+her iki dış kulak yolu normaldir
+her iki ekleme bakan komşu kemik yüzeyler tabiidir
+her iki sürrenal lojda patolojik bulgu saptanmamıştır
+mesane duvar yapısı ve lümeni doğal olarak değerlendirilmiştir
+mide mukozası konturları ve sekresyonu normaldir
+karaciğer boyut ve parankim ekosu doğaldır
+heriki böbrek normal boyutlardadır
+pulpa homojen ve normal yoğunluk değerlerindedir
+postkontrast patolojik kontrast tutulumu izlenmedi
+patolojik nitelikte dolum defekti ya da fazlalığı mevcut değildir
+böbreküstü bezleri normal boyut ve yapıdadır
+pankreas boyutları ve dansitesi normaldir
+dural sak ve sinir kökleri normal morfolojidedir
+nöral foramenler ve faset eklemler normal olarak izlenmektedir
+sinir kökleri normaldir
+servikal lordoz normaldir
+normal sınırlarda toraks bt
+normal sınırlarda lomber spiral bt tetkiki
+normal sınırlarda hrct tetkiki
+normal sınırlarda servikal bt incelemesi
+normal sınırlarda kontrastsız beyin bt incelemesi
+normal sınırlarda miksiyon sisto üreterografi tetkiki
+tiroid ultrasonografisi
+normal vsug bulguları
+normal sınırlarda el bileği mrg
+servikal bölgede lap izlenmedi
+paranazal sinüslerin aerasyonları olağandır
+batında serbest sıvı us ile ölçülebilir kitle izlenmedi
+normal sınırlarda skrotal renkli doppler us bulguları
+surrenal yerleşimlerinde us ile saptanabilir boyutta kitle patolojisi izlenmemiştir
+normal sınırlarda üste ekstremiteye ait uzun kemik grafileri
+normal sınırlarda kalça eklemi grafisi
+normal sınırlarda özofagus pasaj incelemesi sineözofagografisi
+normal sınırlarda dört yönlü lumbal vertebra grafileri
+normal sınırlarda iki yönlü servikal vertebra grafileri
+normal sınırlarda ap diz grafileri
+normal sınırlarda kolon incelemesi
+normal sınırlarda düs grafisi
+normal sınırlarda lateral boyun grafisi
+böbrek parankim korteks ekoları doğal görünümdedir
+olfaktör oluk derinliği keros üç ile uyumludur
+uterus ve endometrial kavite normal olarak izlenmektedir
+fokal lezyon saptanmamıştır
+karpal tünelde yer kaplayan oluşum saptanmamıştır
+yumuşak dokularda kitle lezyonu ayırdedilmemiştir
+kemik yapılarda patolojik bulgu saptanmamıştır
+anlamlı darlık ya da hemodinamik patoloji saptanmadı
+kranyum kemik yapıları doğal görünümdedir
+beş nolu kitle lokalizasyonunda boyutlarında kistik solid mix yapıda olup ile uyumludur
+barsakların batın içi dağılımı çapları ve duvar kalınlıkları inceleme sınırlarında normaldir
+akım hızları ve dalga formları doğal değerlendirildi
+batın içi intestinal gaz dağılımları ve yumuşak doku gölgeleri normaldir
+skrotal cilt kalınlığı normal sınırlarda ve simetriktir
+tetkike dahil diğer mediastinal ana vasküler yapılar normal göünümdedir
+epiglotun şekil ve şekli ve vallekula genişliği olağan
+nazofarenks orofarenks hipofarenks trakea ve larenks hava sütunları normal olarak izlenmiştir
+taş solid kitle hidronefroz gözlenmedi
+batın içerisinde serbest ya da loküle sıvı saptanmamıştır
+batında serbest sıvı sonografik olarak ölçülebilir kitle gözlenmedi
+bez içinde belirgin sınır ya da eko farkı veren nodüler oluşum saptanmadı
+intraskrotal sıvı miktarı doğal sınırlardadır
+t1a ve t2 a sekanslarda multiplanar görüntüler elde olunmuştur
+hastaya bt eşliğinde girişim uygulanmış ve alınan materyal patolojiye gönderilmiştir
+orta hat oluşumları lateral ventriküller simetrik yerleşimli ve normal genişliktedir
+üst ekstremıte arter sistemi renkli doppler us
+tiroid bezi renkli doppler us
+orta hat oluşumları normaldir
+bilateral asetabuler açılar normal sınırlardadır
+aorta pulmoner konus her iki pulmoner arter ve vena cava superior normal olarak izlenmektedir
+parankimi homojen ve normaldir
+internal genital organlar normaldir
+bilateral üreterler distale kadar normal olarak izlenmektedir
+peritoneal yağ çizgileri açıktır
+özefagustan pasaj takıntısız ve normaldir
+safra kesesi duvar kalınlığı ve transvers çapı normaldir
+her iki hilus yerleşimi ve genişliği olağandır
+her iki akciğer hilusu normal genişliktedir
+mesanenin doldurulması sırasında ve miksiyon esnasında veziko üreteral reflü saptanmamıştır
+her iki submandibuler bez ve parotid bez yüzeyel lobları olağandır
+mesane duvar yapısı duvar kalınlığı hacim ve içeriği normaldir
+konturları düzgün duvar kalınlığı normaldir
+böbreklerin yer şekil büyüklükleri ve us görünümü normal
+torakal yumuşak dokular ve kemik yapılar olağandır
+her iki göz küresi normal anatomik morfoloji ve boyutlardadır
+pulpa homojen ve normal yoğunluk değerlerindedir
+boyunda kitle lezyonu ya da patolojik boyutlu lenf nodu saptanmamış
+spondilolistezis saptanmamıştır
+parotid ve submandibuler bezler normal morfoloji ve sinyal yapısındadır
+pankreas normal kontur ve büyüklüktedir
+servikal lordoz normaldir
+normal sınırlarda tüm vücut bt anatomi
+normal toraks bt anjiyografi bulguları
+normal sınırlarda temporal kemik bt
+retrobulber yağlı alan normal izlenmiştir
+normal sınırlarda beyin bt incelemesi
+normal sınırlarda servikal mr incelemesi
+normal sınırlarda kontrastsız beyin bt incelemesi
+normal sınırlarda paranazal sinüs tetkiki
+bilateral tuba uterinalar normal genişliktedir
+l4 5 seviyesinde disk aralığı normal genişliktedir
+tiroid sağ lobu üç mm sol lobu dört mm boyutlarında isthmus iki mm kalınlıktadır
+tiroid bezinin intratorasik uzanımı gözlenmedi
+klinik bilgi inceleme notu parametreler radyolojik bulgular
+mukayeseli ap diz grafileri
+amnion sıvı miktarı normal sınırlarda olup virgül amniotik indeks parantez içinde ai normal olarak bulundu
+kti normal sınırlardadır
+normal sınırlarda toraks mr bulguları
+batında serbest sıvı us ile ölçülebilir kitle izlenmedi
+normal sınırlarda karotis ve vertebral arter renkli doppler us bulguları
+normal sınırlarda kalça eklemi grafisi
+normal sınırlarda dört yönlü lumbal vertebra grafileri
+normal sınırlarda iki yönlü servikal vertebra grafileri
+normal sınırlarda kolon incelemesi
+normal sınırlarda ayakta direk batın grafisi
+normal sınırlarda düs grafisi
+olfaktor oluk keros ı ıı ııı sınıflamasına uymaktadır
+olfaktör oluk derinliği keros ııı ile uyumludur
+normal paranasal sinüs bt morfoloji
+üst ekstremite grafileri normal morfolojidedir
+boyunda yer kaplayan patolojik oluşum saptanmamıştır
+yer kaplayıcı oluşum izlenmemektedir
+kemik yapılar eklem ilişkileri yaşla uyumlu görünümdedir
+porifom sinüsler ve vallekulalar doğaldır
+disk herniasyonu ile uyumlu görünüm izlenmemiştir
+anlamlı darlık ya da hemodinamik patoloji saptanmadı
+kontrol amaçlı yapılan bu incelemede önceki incelemeden farklı bir bulgu saptanmadı
+bulgular olağan sınırlardadır
+nukkal kıvrım kalınlığı normal sınırlardadır
+tüm kolon segmentlerinin kalibrasyonları haustrasyonları ve ekspansiyonları normaldir
+odontoid c2 ve atlas c1 ilişkisi normaldir
+hepatik ve portal venöz dağılım ile kalibrasyon normaldir
+nazofarinks orofarinks ve hipofarinks havasütunu olağandır
+kolon mukozası ve duvar yapısı normaldir
+bez içinde belirgin sınır ya da eko farkı veren nodüler oluşum saptanmadı
+sonografik olarak belirgin sınır veya eko farklılığı gösteren kitle patolojisi saptanmadı
+ekstrensek bası saptanmamıştır
+brakiosefalik vasküler yapılar trakea ve özofagus normal olarak izlenmektedir
+grafiye dahil eklemler normal morfoloji ve ilişkidedir
+kalça eklemleri çevresinde yumuşak dokularda patolojik sinyal değişikliği ayırdedilmemiştir
+t1 ve t2 ağırlıklı pre ve postkontrast multiplanar görüntüler elde olunmuştur
+t1a ve t2 a sekanslarda multiplanar görüntüler elde olunmuştur
+postvoiding rezidü saptanmamıştır
+prevertabral yumuşak doku mesafesinin genişliği olağandır
+uterus ve overler yaşla uyumlu görünüm özelliklerine sahiptir
+portal venöz sistem ve ana hepatik venler normal görünümdedir
+nazal septum ve konkalar normaldir
+yumuşak doku planları olağandır
+parotid ve submandibuler bezler normaldir
+hepatik ve portal venler normaldir
+petröz apeks ve petröz kemik dansitesi normal sınırlarda değerlendirilmiştir
+akciğer havalanma ve damarlanması normal sınırlardadır
+her iki dış kulak yolu normaldir
+her iki perkin’s hattı proksimal femur metafizi ile kesişmektedir
+mesanenin doldurulması sırasında ve miksiyon esnasında veziko üreteral reflü saptanmamıştır
+orbita içerikleri kesitlere dahil serebellar ve serebral yapılar ve nazofarinks normaldir
+her iki sürrenal lojda patolojik bulgu saptanmamıştır
+her iki sürrenal lojda patolojik bulgu saptanmadı
+sella parasellar oluşumlar her iki orbita olağan görünümdedir
+konturları düzgün duvar kalınlığı normaldir
+bez konturları düzenlidir
+vertebra korpus yükseklikleri intervertebral disk aralıkları normaldir
+prostatın seminal veziküllerle yapıtığı açı korunmaktadır
+kontur özellikleri ve mukozası normaldir
+ovarial adneksiyal patoloji görüntülenmemiştir
+intra okuler patoloji mevcut değildir
+postkontrast patolojik kontrast tutulumu izlenmedi
+intrakranyal patolojik kontrast tutulumu izlenmemiştir
+pankreas boyutları ve dansitesi normaldir
+dalak normal boyutlarda homojen olarak izlenmektedir
+bulbus duodeni normal lokalizasyonunda ve normal anatomik konfigürasyonu ile izlenmektedir
+kalp ve mediasten normal olarak izlenmektedir
+karpal kemiklerin dizilim ve sinyal intensitesi normaldir
+nöral foramenler ve faset eklemler normal olarak izlenmektedir
+faset eklemler ve spinal kanal normaldir
+üretra konturu normaldir
+normal sınırlarda orbita mrg
+normal sınırlarda servikal bt incelemesi
+normal sınırlarda lomber bt incelemesi
+intestinal segmentler normal duvar kalınlığı ve kalibrasyondadır
+tiroid bezi boyutları normalden büyüktür yaklaşık olarak sağ lob dört 
+l5 s1 seviyesinde disk aralığı normaldir
+intestinel segmentler normal duvar kalınlığı ve kalbirasyon göstermektedir
+klinik bilgi radyolojik bulgular
+normal ivp bulguları
+normal tiroid us bulguları
+normal sınırlarda hsg incelemesi
+bulgular mediasten normal genişliktedir
+servikal bölgede lap izlenmedi
+servikal bölgede lenfadenopati izlenmedi
+paranazal sinüsler normaldir
+normal sınrılarda kemik survey
+diafragmalar normal konumdadır
+normal sınırlarda alt ekstremite derin ven sistemi bulguları
+normal sınırlarda her iki üst ekstremite arter sistemi renkli doppler us bulguları
+normal sınırlarda towne grafisi
+normal sınırlarda ap lateral sakrum grafisi
+iskelet sistemi yapıları normal strüktür morfoloji ve mineralizasyondadır
+orta kulak kemikçikleri normal dizin ve mineralizasyondadır
+maksillo fasial kemik yapılar normal strüktür morfoloji ve mineralizasyondadır
+sfenoidal sinüs ostiumları açıktır
+olfaktör oluk derinliği keros ııı ile uyumludur
+vertebral kolon normal dizin ve morfolojidedir
+boyunda yer kaplayan patolojik oluşum saptanmadı
+barsakların batın içi dağılımı çapları ve duvar kalınlıkları inceleme sınırlarında normal
+sağ böbrek üç  sol böbrek üç cm boyutlarında olup ortalama parankim kalınlıkları sağda üç  solda üç mm ölçüldü
+bu segmentlerde anlamlı arteriyel lümen çapı daralması saptanmamıştır
+oro ve hipofarinks hava sütunu olağandır
+özefagus motilitesi mukozası kontur özellikleri normaldir
+batın içerisinde serbest ya da loküle sıvı saptanmamıştır
+sonografik olarak belirgin sınır veya eko farklılığı gösteren kitle patolojisi saptanmadı
+ekstrensek bası saptanmamıştır
+aksiyel ve koronal paranazal sinüs bt
+sağ veya sol dirseğe yönelik dual spır koronal ve aksiel t1 tse koronal ve aksiel planda görüntüler elde edilmiştir
+prevertabral yumuşak doku mesafesinin genişliği olağandır
+alt ekstremıte derin ven sistemi renkli doppler us
+bilateral kardiofrenik ve kostofrenik sinüsler açık olarak izlenmiştir
+portal venöz sistem ve ana hepatik venler normal görünümdedir
+üreterin pelvik seyirleri normaldir
+nazal septum ve konkalar normaldir
+epidural yağ ventralde ve dorsalde normaldir
+yumuşak doku planları olağandır
+mesane normaldir
+parotid ve submandibuler bezler normaldir
+tiroid bezi vaskülaritesi normaldir
+retro yada intraperitoneal lap saptanmamıştır
+trakea ve ana bronşlar açıktır
+safra kesesi intra ve ekstra hepatik safra yolları normaldir
+bilateral ekstra okuler kaslar normaldir
+her iki akciğer hilusu akciğer havalanma ve damarlanması normaldir
+her iki dış kulak yolu normaldir
+her iki tarafta v.safena magna kranial segmentleri açık izlendi
+her iki sürrenal lojda patolojik bulgu saptanmadı
+konturları düzgün duvar kalınlığı normaldir
+vertebraların ve disk aralıklarının yükseklikleri olağandır
+özofagogastrik bileşke normaldir
+vertebra korpus yükseklikleri disk aralıkları posterolateral elemanlar ve servikal lordoz normaldir
+heriki böbrek normal boyutlardadır
+parankımal yoğunluk değerleri homojen ve normal bulunmuştur
+patolojik boyutlara ulaşan lenf nodu ayırt edilmemiştir
+mediastende patolojik boyutta lenf nodu ayırt edilmemiştir
+boyunda kitle lezyonu ya da patolojik boyutlu lenf nodu saptanmamıştır
+postkontrast patolojik kontrast tutulumu izlenmedi
+kalp ve mediasten normal olarak izlenmektedir
+normal sınırlarda toraks bt
+normal sınırlarda miksiyon sisto üreterografi tetkiki
+akciğer grafisi pa ve lateral
+mikrokalsifikasyonlar yok kitle lezyonu yok aksiller bölgede lenf nodu yok cilt normal pektoral kas normal
+rutin beyin bt incelemesi
+post voiding rezidu mevcut degildir
+normal sınırlarda temporal mr grafisi
+bulgular mediasten normal genişliktedir
+servikal vasküler yapılar olagandır
+normal sınrılarda kemik survey
+normal sınırlarda her iki üst ekstremite arter sistemi renkli doppler us bulguları
+batında serbest sıvı us ile ölçülebilir kitle izlenmedi
+normal sınırlarda iki yönlü servikal vertebra grafileri
+ekstra oküler kaslar normal morfoloji ve sinyal yapısındadır
+olfaktör oluk derinliği keros ııı ile uyumludur
+sonuç normal sınırlarda beyin mr incelemesi
+yer kaplayıcı lezyon ya da fraktür saptanmamıştır
+eklem aralığında patolojik sıvı ya da kontrastlanma izlenmedi
+kortikal eko artımı saptanmadı
+barsakların batın içi dağılımı çapları ve duvar kalınlıkları inceleme sınırlarında normaldir
+batın içi intestinal gaz dağılımları ve yumuşak doku gölgeleri normaldir
+çıkan arkus ve torakal inen aorta kalibrasyonları damar duvar kalınlıkları ve konturları normaldir
+skrotal cilt kalınlığı normal sınırlarda ve simetriktir
+spinal kanal genişliği normaldir
+nazofarenks orofarenks hipofarenks trakea ve larenks hava sütunları normal olarak izlenmiştir
+taş solid kitle veya hidronefroz bulgusu yoktur
+özefagus motilitesi mukozası kontur özellikleri normaldir
+posterior fossa oluşumları normaldir
+batında serbest sıvı sonografik olarak ölçülebilir kitle izlenmedi
+brakiosefalik ve mediastinal vasküler yapılar kalp ve perikard normal
+kalça eklemleri çevresinde yumuşak dokularda patolojik sinyal değişikliği ayırdedilmemiştir
+kalça eklem ilişkileri normaldir
+mesane orta hattadır
+bilateral dirsek eklem genişlikleri olağandır
+bilateral femoro tibial eklem genişlikleri olağandır
+aorta vena kava inferior ve diğer abdominal ana vasküler yapılar normal sınırlardadır
+nazal septum normaldir
+servikal vertebralar ve paravertebral yumuşak dokular normaldir
+perirektal yağ planları normaldir
+tiroid bezi parankim ekojenitesi homojen ve normaldir
+plevra ve intralober fissürler normaldir
+doppler incelemesinde tiroid bezi vaskülaritesi normaldir
+retro yada intraperitoneal lap saptanmamıştır
+safra yolları ve safra kesesi normadir
+safra kesesi duvar kalınlığı ve transvers çapı normaldir
+parafaringeal alan simetrik olagandır
+akciğer havalanma ve damarlanması normal sınırlardadır
+her iki tarafta internal akustik kanal genişliği normaldir
+miksiyon sonrası mesanede üç idrar kaldı
+orbita içerikleri kesitlere dahil serebellar ve serebral yapılar ve nazofarinks normaldir
+kranyo grafilerde sütür ve fontaneller açıktır
+vertebra korpus yükseklikleri intervertebral disk aralıkları normaldir
+karaciğer normal boyutlarda ve homojen yoğunluktadır
+spondilolistezis saptanmamıştır
+sinir kökleri normaldir
+bilateral tuba uterinalar normal genişliktedir
+rektum ve rektosigmoid kolon normal duvar kalınlığı ve kalibrasyondadır
+klinik bilgi inceleme notu radyolojik bulgular
+özefagus mide duodenum ömd grafisi
+normal ömd incelemesi
+ana vasküler yapılar normaldir
+normal sınırlarda toraks mr bulguları
+normal sınırlarda skrotal renkli doppler us bulguları
+normal sınırlarda tüm abdomen us bulguları bayan
+normal sınırlarda retrograd pyelografi üretrografi
+normal sınırlarda ayakta direk batın grafisi
+maksillo fasial kemik yapılar normal strüktür morfoloji ve mineralizasyondadır
+böbrek parankim korteks ekoları doğal görünümdedir
+mediastende kitle ya da patolojik boyutlarda lenf bezi saptanmamıştır
+fokal lezyon saptanmamıştır
+karpal tünelde yer kaplayan oluşum saptanmamıştır
+kemik yapılarda patolojik bulgu saptanmamıştır
+kemik yapıların morfoloji ve sinyal intensitesi normaldir
+inceleme elektif şartlarda yüksek frekanslı ve rezolüsyonlu probla gerektiğinde doku harmonik görüntüleme ile gerçekleştirildi
+inceleme yapılan düzeylerde hemodinamik anlamlı darlık izlenmedi
+skrotal cilt kalınlığı normal sınırlarda ve simetriktir
+mandibula başı temporal eminencia ve artiküler fossa normaldir
+uterin arter dalga formlarında diastolik çentik izlenmedi
+hepatik ve portal venöz dağılım ile kalibrasyon normaldir
+vokal kordlar epiglot ario epiglottik katlantılar priform sinüsler ve vallekülalar olağan görünümdedir
+taş solid kitle veya hidronefroz bulgusu yoktur
+intraskrotal sıvı miktarı doğal sınırlardadır
+sol subklavyan bölgede jeneratör için cep açıldı
+ponksiyonun birinden sağ ventrikül apeksine ventriküler elektrod yerleştirildi
+fs bir etkide bulunmamış
+iskemi açısından negatif efor testi
+sonuç normal ekokardiyografik tetkik
+median sinir duyu ve motor ileti hızları iki yanlı normal degerlerde bulundu
+5f tıger kateterleri ile girilerek değişik pozisyonlarında sol ve sağ koroner arteriografi yapıldı işleme son verildi
+trakea ve ana bronşlar açıktır
+kortikal subkortikal ve derin ak maddeye ait patolojik sinyal değişimi saptanmadı
+kranium kemiklerinde patoloji saptanmamıştır
+paranazal sinüslerin ve mastoid selüllerin aerasyonu tabiidir
+post travmatik patoloji saptanmamış
+travmatik osseöz patoloji saptanmamıştır
+her iki glob normal olarak izlendi
+damar cidarları düzenlidir stenotik segment lümende plak oluşumu mevcut değildir
+çevresel yumuşak dokularda patolojik kalsifikasyon ve yumuşak doku lezyonu izlenmedi
+infrapopliteal bölgede anterior ve posterior tibial arter dorsalis pedis arterleri patenttir ve lümen geninormaldir
+yumuşak dokular doğaldır normal sınırlarda diz grafisi
+eklem aralıkları normal görünümdedir
+normal sınırlarda waters grafisi
+tedavi sonrasında klinik gereklilik halinde mr inceleme önerilir
+her iki böbrek konturu muntazam boyutu ve kortikomedüller parankim eko paterni normal
+dalak normal boyutlardadır ve parankim eko yapısı olağandır
+pankreas baş gövde bölgesi sonografik olarak doğal izlenmiş
+kese içinde yer kaplayıcı patoloji görülmemiştir
+her iki kostofrenik sinüs aktır
+sonuç normal sınırlarda akciğer grafisi
+kistik veya solid yer kaplayan lezyon saptanmamıştır
+bu kesitten hesaplanan ef yüzde altmış ile normal olarak saptandı
+triküspit kapak normal anatomik yapısında olup hareket paterni ve açılımı normaldir
+sonuç hafif romatizmal mitral darlığı ve yetersizliği orta derecede aort yetersizliği
+mitral kapak normal yapıda olup hareket paterni ve açılımı normaldir
+renkli ve spektral doppler incelemede ileri akım normal olup hafif regürjitan akım saptandı
+elektrod sabitlemesi yapıldı
+hastaya ddr planlandı
+cilt cilt altı dikişler yapılarak işleme son verildi
+fs bir etkide bulunmamıştır
+kültür sonucu salmonella shigella cinsi bakteri üremedi
+yumuşak dokular normal görünümdedir
+çekum normal görünümdedir appendiks vizüalize olmuştur
+hemodinamik bozukluğa yol açan stenoz veya oklüzyon saptanmamıştır
+normal sınırlarda sakroiliak eklem bt incelemesi
+endometrium kalınlığı on beş mm ölçülmüştür ve normal sınırlardadır
+mesane homojen dolmuş olup konturları muntazamdır
+intra ve ekstrahepatik safra kanallarının genişliği normaldir
+kardiotorasik indeks fizyolojik sınırlardadır
+eko skoru 6 7
+planimetrik kapak alanı 1
+renkli ve spektral doppler incelemede hafif regürjitan akım alındı
+pulmoner kapak normal anatomik yapısında olup hareket paterni ve açılımı normaldir
+aynı kesitte aort kök genişliği otuz beş mm ile normal bulundu
+kapak açılımı yirmi üç mm ile normal
+mitral kapak normal yapıda olup hareket paterni ve açılımı normaldir
+sonuç hafif mitral ve triküspit yetersizliği
+bu kesitten hesaplanan ef yüzde altmış olarak saptandı
+aort kapak üç kuspisli fibrotik görünümde
+otuz iki m/sn ile normal olup renkli ve spektral doppler incelemede hafif regürjitan akım alındı
+iki adet solsubklavyen vene ponksiyon yapıldı
+ancak hastada ponksiyon ven tortıyozitesi yüzünden ikinci lead takılamadı
+kültür sonucu flora bakterileri üredi
+apne hipopne indeksi 5,3
+sonuç normal sınırlarda inceleme
+mediastinal ve hiler patolojik boyutta lenf nodu saptanmamıştır
+hastanızın mandibula iki yönlü grafi incelemesinde kemik yapı ve strüktürü doğaldır
+post travmatik patoloji saptanmamıştır
+normal sınırlarda orbita bt incelemesi
+hastanın her iki el a.p ve lateral grafilerinde
+bilateral maksiller sinüs normal olarak değerlendirilmiştir
+hastanızın yüzeysel doku ultrasonografik incelemesinde teknik 6 15 mhz prob ile inceleme yapılmıştır
+kese içinde yer kaplayıcı patoloji görülmedi
+diafragma konturlar düzgündür
+sonuç normal sınırlarda bilateral alt ekstremite venz sistem renkli doppler usg incelemesi
+bilateral retroareolar duktuslar tabiidir
+parankimal distorsiyon alan saptanmamıştır
+planimetrik kapak alanı birinci
+renkli ve spektral doppler incelemede hafif regürjitan akım alındı
+sol subklavyan bölgede jeneratör için cep açıldı
+hedef kalp hızına yüzde 100 oranında ulaşıldı
+iskemi açısından negatif efor testi
+alınan örnekler altta sıralanmıştır
+kalp boyutları ve konfigürasyonu tabiidir
+bilateral akciğer parankimine ait patoloji izlenmedi
+polinöropati bulgusuna rastlanmamıştır
+uyku etkinliği yüzde 98,1 bulundu
+hastanızın a.p ve lateral servikal vertebra grafilerinde
+orbita duvarını oluşturan kemik yapılarda patolojik görünüm saptanmadı
+çekum normal görünümdedir appendiks vizüalize olmuştur
+bilateral common femoral arter cfa süperficial femoral arter sfa popliteal arter pa patenttir
+hemodinamik bozukluğa yol açan stenoz veya oklüzyon saptanmamıştır
+hastanızın el a.p ve lateral grafilsinde görülebilen kemik yapıların strüktürleri normaldir
+sonuç normal sınırlarda el grafisi incelemesi
+her iki over normal lokalizasyon ve boyutlardadır
+doppler incelemede her iki over ve uterus myometrium ile endometriumunda patolojik akım saptanmamıştır
+grafide rezidüel idrar kalmadığı anlaşılmaktadır
+normal voiding sistoüretrografi incelemesi vur saptanmamıştır
+tendon yapışma yerinde intakt izlenmektedir
+kese içinde yer kaplayıcı patoloji görülmemiştir
+mediasten tabii görünümdedir
+sonuç normal sınırlarda akciğer grafisi
+bilateral retroareolar duktuslar tabiidir
+her iki axillada patolojik morfolojide lam görüntülenmiştir
+bu kesitten hesaplanan ef yüzde altmış dört ile normal olarak saptandı
+aort kapak üç kuspisli fibrotik yapıdadır
+pulmoner kapak normal anatomik yapısında olup hareket paterni ve açılımı normaldir
+renkli ve spektral doppler incelemede ileri akım normal olup hafif regürjitan akım saptandı
+hastanın fiziki muayenesi
+fiziki muayenesi
+fiziki muayene
+hastanın laboratuvar notları
+lab notları
+laboratuvar notları
+hastanın radyoloji notları
+radyo notları
+nabız
+e nabız
+reçete
+e reçete
+e reçeteli
+yeşil reçete
+renkli reçete
+kodla ara
+kod ile ara
+tetkik sekmesi
+tetkik sayfası
+genel muayene
+genel muayeneye dön
+muayene sayfası
+hastanın tedavisi
+hasta tedavisi
+hasta ayakta tedavi edildi
+cerrahi müdahale ve veya ameliyat gerekiyor
+tedavisi gerçekleştirildi
+medikal tedavi önerildi
+muayene açıklama
+muayene açıklaması
+hastanın şikayeti
+hasta şikayeti dinlendi
+hasta şikayet
+hastanın hikayesi
+hasta hikayesi
+hasta hikaye
+hastanın fiziki muayenesi
+fiziki muayenesi
+fiziki muayene
+hastanın laboratuvar notları
+lab notları
+laboratuvar notları
+hastanın radyoloji notları
+radyo notları
+e nabız
+nabız
+reçete
+e reçete
+e reçeteli
+yeşil reçete
+renkli reçete
+kodla ara
+kod ile ara
+tetkik sekmesi
+tetkik sayfası
+genel muayene
+genel muayeneye dön
+muayene sayfası
+hastanın tedavisi
+hasta tedavisi
+hasta ayakta tedavi edildi
+tedavisi gerçekleştirildi
+cerrahi müdahale ve veya ameliyat gerekiyor
+medikal tedavi önerildi
+muayene açıklama
+muayene açıklaması
+hastanın şikayeti
+hastanın hikayesi
+hasta şikayet
+hasta şikayeti dinlendi
+hasta hikayesi
+hasta hikaye
+hastanın fiziki muayenesi
+fiziki muayenesi
+fiziki muayene
+hastanın laboratuvar notları
+lab notları
+hastanın radyoloji notları
+laboratuvar notları
+radyo notları
+nabız
+reçete
+e reçete
+e nabız
+e reçeteli
+yeşil reçete
+renkli reçete
+kodla ara
+kod ile ara
+tetkik sekmesi
+tetkik sayfası
+genel muayene
+genel muayeneye dön
+muayene sayfası
+hastanın tedavisi
+hasta tedavisi
+hasta ayakta tedavi edildi
+tedavisi gerçekleştirildi
+cerrahi müdahale ve veya ameliyat gerekiyor
+medikal tedavi önerildi
