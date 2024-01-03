@@ -1,4 +1,5 @@
 -pau-
+1
 100
 12
 13
@@ -15,15 +16,19 @@
 40
 44
 5
+5,3
 5f
 6
 60
 64
+7
 98
+98,1
 </s>
 <s>
 <unk>
 a
+a.p
 aaa
 aaah
 aah
@@ -273,6 +278,7 @@ ahıra
 ahırda
 ahırını
 ahşap
+ai
 aidim
 aile
 ailedensin
@@ -359,6 +365,7 @@ aksamak
 aksaraya
 aksediyordu
 aksi
+aksiel
 aksilla
 aksiller
 aksine
@@ -374,6 +381,7 @@ aktör
 aktörlerle
 aktörüm
 aktı
+aktır
 aktığı
 akustik
 akut
@@ -695,7 +703,6 @@ altınları
 altını
 altının
 altısı
-altı 
 alçacık
 alçak
 alçaklara
@@ -820,6 +827,8 @@ amfizematöz
 amin
 amir
 amma
+amnion
+amniotik
 ampisilin
 ampulü
 amuca
@@ -1131,10 +1140,12 @@ apartman
 apartmanda
 apartmanın
 apaçık
+apeks
 apeksine
 apikal
 apikoposterior
 apne
+appendiks
 aptal
 aptala
 aptalca
@@ -1317,6 +1328,7 @@ arefe
 arenstorf
 arif
 arife
+ario
 aritmetikten
 aritmi
 arka
@@ -1387,6 +1399,7 @@ arkasındaydı
 arkasını
 arkaya
 arkbaşında
+arkus
 arlanmaz
 arlanır
 armağanı
@@ -1417,6 +1430,7 @@ artarak
 arter
 artere
 arterial
+arteriografi
 arteriovenöz
 arteriyal
 arteriyel
@@ -1485,6 +1499,7 @@ asarız
 asayişten
 asayım
 asendan
+asetabuler
 asfalt
 asfalta
 asfaltı
@@ -1758,6 +1773,7 @@ avı
 avımı
 avına
 avından
+axillada
 ay
 aya
 ayak
@@ -2083,6 +2099,7 @@ açıkçası
 açılacak
 açılacağı
 açılan
+açılar
 açılarak
 açıldı
 açıldıktan
@@ -2500,6 +2517,7 @@ bakmış
 bakmışsın
 bakmıştı
 baksana
+bakteri
 bakterileri
 baktı
 baktık
@@ -2640,6 +2658,7 @@ barların
 barmen
 barsak
 barsakderesi
+barsakların
 barselona’ya
 barut
 baryum
@@ -2712,7 +2731,6 @@ basıp
 basıyor
 basıyordu
 basıyordum
-bası 
 bata
 bataklık
 bataklıklar
@@ -4294,6 +4312,7 @@ bulunmadığını
 bulunmak
 bulunmaktadır
 bulunmalıydı
+bulunmamış
 bulunmamıştır
 bulunması
 bulunmasının
@@ -4468,6 +4487,7 @@ böbreklerin
 böbrekte
 böbreküstü
 böbreği
+böbreğin
 böbreğinizde
 böcek
 böceklerin
@@ -4808,6 +4828,7 @@ cariyelerimi
 carolina’nın
 carousel
 casus
+cava
 cavit
 caz
 cazibe
@@ -4903,6 +4924,7 @@ cezası
 cezasını
 cezasının
 cezaya
+cfa
 charterhouseda
 cherokeedir
 chris
@@ -4972,6 +4994,7 @@ ciğerlerine
 clapton
 cm
 come
+common
 como
 cornelldeki
 cosmotenin
@@ -5044,7 +5067,6 @@ dahilindeki
 dahiliye
 dahiliğinde
 dahilsin
-dahil 
 dahisin
 daily
 daima
@@ -5396,6 +5418,7 @@ defterler
 defterleri
 defterlerimize
 degerlerde
+degildir
 deh
 dehaletimi
 dehşet
@@ -6008,6 +6031,7 @@ dinlemiyorlar
 dinlemiyorsun
 dinlemiyorum
 dinlen
+dinlendi
 dinlendikten
 dinlendim
 dinlendirmeden
@@ -6082,6 +6106,7 @@ dirlik
 dirsek
 dirsekleri
 dirseklerini
+dirseğe
 dirseğime
 dirseğiyle
 diseksiyon
@@ -6139,7 +6164,7 @@ dizginsiz
 dizi
 dizilerek
 dizilim
-dizilimleri 
+dizilimleri
 dizilmiş
 dizime
 dizin
@@ -6306,6 +6331,7 @@ doldurmalı
 doldurmaya
 doldurmaz
 doldurmuşlardı
+doldurulması
 doldurulmuş
 doldurulmuştur
 doldurun
@@ -6366,6 +6392,7 @@ donuyorum
 doppler
 dorsal
 dorsalde
+dorsalis
 doru
 dorusu
 doruya
@@ -6486,6 +6513,7 @@ dramatik
 dramlar
 dua
 duacısı
+dual
 dualarımızı
 duamın
 duamızı
@@ -6533,6 +6561,7 @@ dumanı
 dumanını
 dumanıyla
 duodenal
+duodeni
 duodenum
 dur
 durabilir
@@ -6877,7 +6906,6 @@ dört
 dörtnala
 dörtten
 dörtyol
-dört 
 döv
 dövdürmezdi
 döveceklerdi
@@ -6967,6 +6995,7 @@ dürzi
 dürülmüş
 dürüst
 dürüstçe
+düs
 düsg
 düsünüyorsun
 düt
@@ -7352,6 +7381,7 @@ edilmiyor
 edilmiyordum
 edilmiş
 edilmişti
+edilmiştir
 edin
 edince
 edindi
@@ -7400,6 +7430,7 @@ efenin
 efes
 efeye
 effüzyon
+efor
 efora
 efradı
 efradından
@@ -7440,8 +7471,8 @@ ekleme
 eklemi
 eklemini
 eklemler
+eklemleri
 eklemlerinde
-eklemler 
 eklendi
 eklenmiş
 ekme
@@ -7478,6 +7509,7 @@ ekseri
 ekseriyetle
 eksik
 eksiğini
+ekspansiyonları
 ekspedisyon
 ekspiratuvar
 ekstansiyon
@@ -7521,6 +7553,7 @@ eldivenler
 ele
 elebaşı
 elebaşısı
+elektif
 elektrik
 elektrikleri
 elektriklerin
@@ -7622,7 +7655,7 @@ emindi
 emindim
 emine
 eminem
-eminencia 
+eminencia
 eminenin
 emineyi
 emine’yi
@@ -7688,6 +7721,7 @@ endişeliyim
 endişeyi
 endometrial
 endometrium
+endometriumunda
 endüstriyel
 enerji
 enfeksiyon
@@ -7715,6 +7749,7 @@ eniştelerimden
 eniştem
 eniştemdendi
 eniştemin
+enjeksiyonu
 enkazdan
 enseme
 ensesinden
@@ -7732,6 +7767,8 @@ epeydir
 epidural
 epifiz
 epifizi
+epiglot
+epiglottik
 epiglotun
 er
 erde
@@ -8315,6 +8352,7 @@ farklılık
 farklılıklar
 farklılıkları
 farklılıkların
+farklılığı
 farklısın
 farklıydı
 farklıyım
@@ -8330,6 +8368,7 @@ farmasötik
 farsça
 farz
 faset
+fasial
 fasiyal
 fasulye
 fasulyeler
@@ -8371,6 +8410,7 @@ felek
 felsefe
 felsefemiz
 felsefi
+femoral
 femoro
 femur
 fen
@@ -8421,6 +8461,7 @@ fevkine
 fezlekeler
 fiberler
 fiberlerdir
+fibro
 fibrotik
 fidan
 fidanlarının
@@ -8494,6 +8535,7 @@ fiyatarda
 fiyatı
 fiyatına
 fizik
+fiziki
 fiziksel
 fizyoloji
 fizyolojik
@@ -8512,6 +8554,7 @@ folliküller
 fonksiyonları
 fonlar
 fonların
+fontaneller
 fontlar
 fonun
 fora
@@ -8526,7 +8569,6 @@ formlarında
 formula
 fossa
 fossadan
-fossa 
 fotokimyasal
 fotokopi
 fotoğraf
@@ -8545,6 +8587,7 @@ fransız
 fransızca
 frau
 fred
+frekanslı
 frenklere
 frenkçe
 frontal
@@ -8941,6 +8984,7 @@ genelde
 genellikle
 general
 genili
+geninormaldir
 genital
 geniş
 genişlediği
@@ -8955,7 +8999,6 @@ genişlikleri
 genişliktedir
 genişliği
 genişliğindeki
-genişliği 
 geniştir
 genzi
 genzini
@@ -8994,6 +9037,7 @@ gerekse
 gerektirdiğine
 gerektirir
 gerektiği
+gerektiğinde
 gerektiğini
 gerekçe
 gereği
@@ -9040,6 +9084,7 @@ gerçekler
 gerçekleşmesi
 gerçekleşmeyecek
 gerçekleşti
+gerçekleştirildi
 gerçekleştirilir
 gerçekmiş
 gerçekten
@@ -9397,6 +9442,7 @@ girerse
 girersen
 girersin
 gireyim
+girilerek
 girilmez
 girin
 girince
@@ -9582,8 +9628,10 @@ graduate
 graf
 grafi
 grafide
+grafilerde
 grafileri
 grafilerinde
+grafilsinde
 grafisi
 grafisinde
 grafiye
@@ -9692,6 +9740,7 @@ gönderil
 gönderildi
 gönderildiler
 gönderilecek
+gönderilmiştir
 gönderir
 gönderiyordu
 gönderiyorum
@@ -9854,6 +9903,7 @@ görsem
 görsün
 görücü
 görüldü
+görülebilen
 görülebilir
 görülecek
 görülemedi
@@ -9902,10 +9952,13 @@ görünmüş
 görünmüştü
 görüntü
 görüntüle
+görüntüleme
 görüntülenmemiştir
+görüntülenmiştir
 görüntüler
 görüntülerde
 görünüm
+görünümde
 görünümdedir
 görünümleri
 görünümü
@@ -10449,6 +10502,7 @@ hacca
 hacer
 hacere
 hacet
+hacim
 hacimdedir
 hacmi
 hacı
@@ -10779,6 +10833,7 @@ harmanı
 harmanım
 harmanın
 harmanında
+harmonik
 harp
 harpers
 harpte
@@ -10871,6 +10926,7 @@ hatice
 hatları
 hatta
 hattadır
+hattı
 hattın
 hatın
 hatır
@@ -10917,6 +10973,7 @@ hatırım
 hatırımı
 hatırını
 hatırınız
+haustrasyonları
 haustrasyonu
 hava
 havaalanı
@@ -11294,6 +11351,7 @@ hiperat
 hiperdens
 hipertansiyon
 hipodens
+hipofarenks
 hipofarinks
 hipofiz
 hipokalemi
@@ -11846,6 +11904,7 @@ iliği
 ilişen
 ilişerek
 ilişince
+ilişkidedir
 ilişkiler
 ilişkilerde
 ilişkileri
@@ -11990,7 +12049,6 @@ incecik
 inceleme
 incelemede
 incelemeden
-incelemede 
 incelemesi
 incelemesinde
 incelendi
@@ -12060,6 +12118,7 @@ infiltrasyon
 infiltrasyonlar
 infiltratif
 infindibulum
+infrapopliteal
 infundibulum
 ingiliz
 ingilizce
@@ -12142,6 +12201,7 @@ internet
 interstisyel
 intervertebral
 intestinal
+intestinel
 intiba
 intibalarıni
 intibaını
@@ -12158,6 +12218,7 @@ intralober
 intraperitoneal
 intraskrotal
 intratorasik
+intravenöz
 introducer
 inzarı
 inzibatını
@@ -12380,6 +12441,7 @@ isteğim
 isteğin
 isteğine
 isteğiyle
+isthmus
 istida
 istidaları
 istidaların
@@ -12605,7 +12667,6 @@ içindekileri
 içindekini
 içinden
 içindeydi
-içinde 
 içindi
 içindir
 içine
@@ -13022,6 +13083,7 @@ kalbine
 kalbini
 kalbinin
 kalbinizin
+kalbirasyon
 kalburüstü
 kaldı
 kaldık
@@ -13101,6 +13163,7 @@ kaleye
 kaleyi
 kalibrasyon
 kalibrasyondadır
+kalibrasyonları
 kalibrasyonu
 kaliforniya
 kaliforniyalının
@@ -13288,7 +13351,6 @@ kanallarının
 kanalı
 kanalının
 kanalıyla
-kanal 
 kanamadan
 kanaması
 kanamaya
@@ -13601,6 +13663,7 @@ kardeşlerinin
 kardeşliğine
 kardeşçe
 kardinal
+kardiofrenik
 kardiotorasik
 kardiyak
 kardiyojenik
@@ -13642,6 +13705,7 @@ kart
 kartal
 kartala
 kartalın
+kartilaj
 kartı
 karyola
 karyoladan
@@ -13826,6 +13890,7 @@ katar
 katarak
 katarından
 kateterizasyon
+kateterleri
 kati
 katibe
 katibi
@@ -13845,6 +13910,7 @@ katlanamayacağım
 katlanamıyorum
 katlanmak
 katlanmış
+katlantılar
 katlanır
 katlanıyordum
 katlardan
@@ -14316,6 +14382,7 @@ kemiklerinde
 kemikli
 kemikten
 kemikti
+kemikçikleri
 kemiriyordu
 kemirmeyince
 kemiği
@@ -14463,6 +14530,7 @@ kesitten
 kesiverecek
 kesiyordum
 kesiyorlarmış
+kesişmektedir
 keskin
 keskindir
 kesme
@@ -14686,6 +14754,7 @@ kocatır
 kocaya
 kocayınca
 kod
+kodla
 kodun
 koh
 kohlea
@@ -14792,6 +14861,7 @@ komitesi
 komodinin
 kompartmanları
 kompartımanda
+kompleks
 komplikasyon
 komplo
 komprese
@@ -14876,6 +14946,7 @@ konukların
 konuma
 konumdadır
 konumundan
+konus
 konusu
 konusunda
 konut
@@ -15004,6 +15075,7 @@ kopyalanabilir
 kor
 kora
 kordele
+kordlar
 kordon
 kordu
 korg
@@ -15095,11 +15167,13 @@ korkuyu
 korno
 koro
 koronal
+koroner
 korpus
 korsancılık
 korsanlar
 korteks
 kortikal
+kortikomedüller
 koru
 koruk
 koruma
@@ -15264,6 +15338,7 @@ kralın
 kramp
 kranial
 kranium
+kranyo
 kranyum
 kredinin
 kredisi
@@ -16175,8 +16250,10 @@ kışın
 l3
 l4
 l5
+lab
 labirent
 laboratuar
+laboratuvar
 laboratuvara
 lacivert
 laf
@@ -16202,6 +16279,7 @@ laklaka
 lakırdı
 lakırdıya
 lakırdıyı
+lam
 lama
 lamadan
 lamba
@@ -16226,6 +16304,7 @@ langırdar
 lap
 laparatomiye
 lapası
+larenks
 larry
 lateral
 laterobazal
@@ -16246,6 +16325,7 @@ lazımdır
 lazımmış
 lazımsa
 le
+lead
 lefkoşe
 lefkoşeyi
 lego
@@ -16288,6 +16368,7 @@ liderin
 liderler
 lifli
 lig
+ligaman
 ligamanlar
 limaja
 limana
@@ -16302,6 +16383,7 @@ limonatacıda
 limonlukların
 lions
 lipomatö
+liposkleroze
 lira
 liradan
 liradır
@@ -16330,8 +16412,9 @@ lo
 lob
 lobda
 loblarda
+lobları
 lobta
-lob 
+lobu
 loca
 localar
 localardan
@@ -16346,6 +16429,7 @@ lokalizasyon
 lokalizasyonda
 lokalizasyondadır
 lokalizasyonu
+lokalizasyonunda
 lokantada
 lokantamiz
 lokantaya
@@ -16394,6 +16478,7 @@ lüzumu
 lüzumum
 lüzumunu
 m
+m/sn
 maalesef
 maamafih
 maarif
@@ -16428,6 +16513,7 @@ madde
 maddeler
 maddenin
 maddesi
+maddeye
 maddi
 madem
 mademki
@@ -16548,6 +16634,7 @@ maksat
 maksatla
 maksatsız
 maksiller
+maksillo
 maksillofasiyal
 maktoufun
 maktulün
@@ -16950,6 +17037,7 @@ mesajınız
 mesajınızı
 mesane
 mesanede
+mesanenin
 mesela
 mesele
 meseleler
@@ -16982,6 +17070,7 @@ mesut
 mesuttu
 mesuttum
 meta
+metafizi
 metafor
 metal
 metastatik
@@ -17073,6 +17162,7 @@ meşk
 meşru
 meşrudur
 mg
+mhz
 mi
 mide
 mideden
@@ -17092,6 +17182,7 @@ mihnet
 mihriye
 mika
 miken
+mikrokalsifikasyonlar
 mikrop
 miksiyon
 miktar
@@ -17153,6 +17244,7 @@ misyonlarda
 misyonu
 mitchell’dir
 mitral
+mix
 miyancının
 miydi
 miydim
@@ -17225,6 +17317,7 @@ muayene
 muayeneden
 muayenehanesi
 muayenehanesinde
+muayenesi
 muayenesine
 muayeneye
 muayyen
@@ -17299,6 +17392,7 @@ mukozası
 muktedir
 multinodüler
 multipl
+multiplanar
 multiple
 multislice
 mum
@@ -17649,6 +17743,7 @@ naziksiniz
 naziktin
 nazikçe
 nazlı
+nazofarenks
 nazofarinks
 nağmesine
 ne
@@ -17879,6 +17974,7 @@ noktayı
 noldu
 nollendorf
 nolmuş
+nolu
 noluyor
 nonspesifiktir
 norm
@@ -18316,6 +18412,7 @@ olmuşlardı
 olmuşsun
 olmuştu
 olmuştum
+olmuştur
 olmuşum
 olsa
 olsak
@@ -18505,6 +18602,7 @@ ormanımızı
 ormanın
 ornithomediada
 oro
+orofarenks
 orofarinks
 orospu
 orospuya
@@ -18883,10 +18981,13 @@ parankim
 parankimal
 parankimi
 parankiminde
+parankimine
 parankımal
+parantez
 paranı
 paranın
 paranız
+parasellar
 parasternal
 parası
 parasından
@@ -19069,6 +19170,7 @@ paşalar
 pcr
 peder
 pedere
+pedis
 pehlivan
 pek
 pekala
@@ -19137,6 +19239,7 @@ perişan
 perişandı
 perişanlığa
 perişanmış
+perkin’s
 permiyen
 perona
 pervane
@@ -19149,6 +19252,7 @@ pes
 pete
 peteği
 petroperitoneal
+petröz
 peyda
 peygamber
 peynir
@@ -19249,7 +19353,7 @@ planı
 planım
 planın
 planınız
-plateleri 
+plateleri
 plevra
 plevral
 pnömonisinde
@@ -19273,13 +19377,16 @@ politikamız
 politikası
 ponksiyon
 ponksiyondan
+ponksiyonun
 pons
 poole
 pop
+popliteal
 popov
 popüler
 popülerdir
 popülerliğini
+porifom
 porselen
 port
 portakal
@@ -19300,6 +19407,7 @@ postası
 postbulber
 posterior
 posterolateral
+postkontrast
 postuna
 postunda
 postvoiding
@@ -19310,6 +19418,7 @@ potinler
 poturları
 pozisyon
 pozisyonlarda
+pozisyonlarında
 pozisyonunda
 pozisyonunuz
 pozitif
@@ -19319,6 +19428,7 @@ praga
 praglıydı
 praglıyım
 pragın
+pre
 prednol
 prens
 prenses
@@ -19331,9 +19441,12 @@ pretibial
 prevertabral
 prezervatif
 prifom
+priform
 prilep
 prizrende
 priştinenin
+prob
+probla
 problem
 problemim
 problemin
@@ -19368,6 +19481,7 @@ projelerine
 projenin
 projesi
 projeye
+proksimal
 prostat
 prostatın
 proteoliz
@@ -19583,7 +19697,9 @@ rezidü
 rezidüel
 rezil
 rezillikten
+rezolüsyonlu
 reçete
+reçeteli
 rica
 ricardio
 rifat
@@ -19617,6 +19733,7 @@ romanyalıyız
 romanyanın
 romanyaya
 romanı
+romatizmal
 rondu
 ronküs
 ronküsleri
@@ -19931,6 +20048,7 @@ sallaya
 sallayarak
 sallayıp
 sallıyorsun
+salmonella
 salon
 salona
 salonda
@@ -20243,6 +20361,7 @@ saydım
 sayemde
 sayende
 sayesinde
+sayfası
 saygı
 saygısız
 sayma
@@ -20398,6 +20517,7 @@ segmentte
 sehpalarının
 sehpası
 sek
+sekanslarda
 seke
 sekel
 seken
@@ -20410,6 +20530,7 @@ sekizden
 sekize
 sekizi
 sekizinci
+sekmesi
 sekresyonu
 sekreter
 seksen
@@ -20442,6 +20563,7 @@ selmine
 selâm
 selâmlaştık
 selâmlaştıktan
+selüllerin
 semer
 semiha
 seminal
@@ -20805,11 +20927,13 @@ seçti
 seçtin
 seçtiğim
 seğirttim
+sfa
 sfenoidal
 sft
 sha
 shakespearei
 sheppard’ın
+shigella
 show
 si
 sicili
@@ -20880,6 +21004,7 @@ sinemada
 sinemalar
 sinemaya
 sinemdeki
+sineözofagografisi
 sinin
 sinir
 sinirden
@@ -20932,6 +21057,7 @@ sistemde
 sisteme
 sistemi
 sisteminde
+sisto
 sistoüretrografi
 siteler
 sitem
@@ -20963,9 +21089,11 @@ sizindir
 sizinle
 sizleri
 sizsiniz
+skapholunat
 skapula
 sklerotik
 skleroze
+skopik
 skoriç
 skorla
 skoru
@@ -21042,7 +21170,6 @@ sola
 solar
 solda
 soldaki
-solda 
 solgun
 solid
 solo
@@ -21110,7 +21237,6 @@ sonuçlarla
 sonuçlarının
 sonuçta
 sonuçtan
-sonuç 
 sopa
 sopadan
 sopalarla
@@ -21273,6 +21399,7 @@ spondilolizis
 spor
 spora
 sporcu
+spır
 stabil
 standart
 standartları
@@ -21287,6 +21414,8 @@ street’tir
 strictly
 striktür
 strüktür
+strüktürleri
+strüktürü
 su
 sual
 suali
@@ -21307,6 +21436,7 @@ subglottik
 subkarinal
 subklavyan
 subklavyen
+subkortikal
 submandibular
 submandibuler
 suboptimaldir
@@ -21350,6 +21480,7 @@ sunshine
 sunulacak
 sunulmuştu
 sunuyor
+superior
 supratentoryal
 sur
 surat
@@ -21360,6 +21491,7 @@ suretle
 surette
 suriyeli
 surlar
+surrenal
 surun
 survey
 sus
@@ -21669,6 +21801,7 @@ süngüyü
 sünneti
 sünnet’te
 süper
+süperficial
 süpüren
 süpürüp
 sür
@@ -21776,10 +21909,12 @@ sütsüz
 sütten
 süttür
 sütunlar
+sütunları
 sütunu
 sütunun
 sütü
 sütünü
+sütür
 süvari
 süvarinin
 süvarisi
@@ -21895,6 +22030,7 @@ sınırlar
 sınırlarda
 sınırlardadır
 sınırları
+sınırlarında
 sınırlayabilirler
 sınırı
 sıpa
@@ -22035,6 +22171,9 @@ sığmış
 sığıntı
 sığınıp
 sığır
+t1
+t1a
+t2
 ta
 taaa
 tababetin
@@ -22154,6 +22293,7 @@ taktik
 taktı
 takunya
 takunyalı
+takılamadı
 takılarak
 takıldı
 takıldım
@@ -23031,6 +23171,7 @@ toplayamıyordu
 toplayamıyorum
 toplayanların
 toplayarak
+toplayıcı
 toplayıp
 toplu
 topluiğneyle
@@ -23071,12 +23212,14 @@ torbayı
 tornavida
 toronto
 torrance
+tortıyozitesi
 torunu
 torununun
 torunuysa
 tosunlar
 tosunum
 toulouse
+towne
 town’da
 toz
 tozar
@@ -23123,6 +23266,7 @@ trene
 treni
 trenin
 treniyle
+triangüler
 tribünlerde
 triküspit
 tromboemboli
@@ -23131,6 +23275,7 @@ trombozu
 trombüs
 troponin
 trunkus
+tse
 tuba
 tuhaf
 tuhafiye
@@ -23337,6 +23482,7 @@ tüyü
 tüzelkişi
 tıbbiyede
 tıbbiyedeymiş
+tıger
 tıka
 tıkadı
 tıkadılar
@@ -23671,7 +23817,6 @@ uyumaya
 uyumaz
 uyumlu
 uyumludur
-uyumlu 
 uyumsuzluğun
 uyumu
 uyumuyor
@@ -23894,6 +24039,7 @@ uğursuzun
 uşak
 uşaktan
 uşağı
+v.safena
 vaat
 vaay
 vadede
@@ -23943,6 +24089,7 @@ valla
 vallahi
 vallekula
 vallekulalar
+vallekülalar
 vals
 valsalva
 valvden
@@ -24095,6 +24242,7 @@ ventralde
 ventrikül
 ventriküler
 ventriküller
+venz
 venöz
 ver
 verdi
@@ -24255,7 +24403,6 @@ vertebra
 vertebral
 vertebralar
 vertebraların
-vertebra 
 ves
 vesaire
 vesaireyi
@@ -24267,10 +24414,10 @@ vestibül
 vetevendosje
 veya
 vezikal
+veziko
 vezikoüreteral
 veziküllerle
 veznedar
-ve 
 vicdan
 vicdansız
 vida
@@ -24301,10 +24448,12 @@ vizeli
 vizesiz
 vizitede
 vizitesinden
+vizüalize
 vişne
 vişnesi
 vodvil
 voiding
+vokal
 volga’yı
 volta
 votka
@@ -25616,6 +25765,7 @@ yerleşemiyorlardı
 yerleşik
 yerleşim
 yerleşimi
+yerleşimlerinde
 yerleşimli
 yerleşmek
 yerleşmeye
@@ -26152,10 +26302,12 @@ yüzde
 yüzden
 yüze
 yüzebilmektedir
+yüzeyel
 yüzeyi
 yüzeyler
 yüzeyleri
 yüzeyli
+yüzeysel
 yüzlerce
 yüzlercesi
 yüzleri
@@ -26730,6 +26882,7 @@ zıt
 çapan
 çapkın
 çapkınlıktan
+çapları
 çaprazlayan
 çaput
 çapı
@@ -26954,6 +27107,7 @@ zıt
 çektirmedi
 çektiği
 çektiğini
+çekum
 çelebi
 çeliğin
 çemberin
@@ -27774,6 +27928,7 @@ zıt
 önerdi
 öneri
 öneride
+önerildi
 önerilere
 önerilerin
 önerilerine
@@ -28073,10 +28228,13 @@ zıt
 ünlüdür
 üre-kreatinin
 üredi
+üremedi
+üreteral
 üreterin
 üreterler
 üreterlerde
 üretero
+üreterografi
 üretim
 üretime
 üretiminden
@@ -28213,7 +28371,6 @@ zıt
 üçüncü
 üçüncüde
 üçüncüsü
-üç 
 üşenenin
 üşer
 üşüdün
@@ -28226,6 +28383,7 @@ zıt
 üşüyen
 üşüyorsun
 üşüyorum
+ı
 ılık
 ırak
 ırgatın
@@ -28291,6 +28449,8 @@ zıt
 ısıtıvermez
 ıv
 ızdıraptan
+ıı
+ııı
 ışık
 ışıkla
 ışıklar
@@ -28387,6 +28547,7 @@ zıt
 şarkısını
 şarkıyı
 şart
+şartlarda
 şartlarını
 şartsız
 şartım
@@ -28672,5 +28833,3 @@ zıt
 şırıltı
 şırıltısı
 şşş
- 
- liposkleroze

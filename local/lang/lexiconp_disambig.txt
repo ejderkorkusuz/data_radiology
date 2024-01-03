@@ -73,7 +73,7 @@ değerlerinde	1.0	d_B e:_I r_I l_I e_I r_I i_I n_I d_I e_E
 ön	1.0	2_B n_E
 planda	1.0	p_B i_I 5_I a_I n_I d_I a_E
 belirgin	1.0	b_B e_I l_I i_I r_I gj_I i_I n_E
-bir	1.0	b_B i_I r_E
+bir	1.0	b_B i_I r_E #1
 anormallik	1.0	a_B n_I o_I r_I m_I a_I l_I l_I i_I c_E
 izlenmediği	1.0	i_B z_I l_I e_I n_I m_I e_I d_I i:_E
 izlenmediği	1.0	i_B z_I l_I e_I n_I m_I e_I d_I i_I G_I i_E
@@ -135,7 +135,7 @@ görüntüler	1.0	gj_B 2_I r_I y_I n_I t_I y_I l_I e_I r_E
 izlendi	1.0	i_B z_I l_I e_I n_I d_I i_E
 veya	1.0	v_B e_I j_I a_E
 farklılık	1.0	f_B a_I r_I k_I 5_I 1_I 5_I 1_I k_E
-sürrenal	1.0	s_B y_I r_I r_I e_I n_I a_I 5_E
+sürrenal	1.0	s_B y_I r_I r_I e_I n_I a_I 5_E #1
 gland	1.0	gj_B 1_I 5_I a_I n_I d_E #1
 lateral	1.0	5_B a_I t_I e_I r_I a_I 5_E
 krusunda	1.0	k_B 1_I r_I u_I s_I u_I n_I d_I a_E
@@ -165,7 +165,7 @@ yüksek	1.0	j_B y_I c_I s_I e_I c_E
 raporlandığı	1.0	r_B a_I p_I o_I r_I 5_I a_I n_I d_I 1:_E
 raporlandığı	1.0	r_B a_I p_I o_I r_I 5_I a_I n_I d_I 1_I G_I 1_E
 yirmi	1.0	j_B i_I r_I m_I i_E
-yedi	1.0	j_B e_I d_I i_E
+yedi	1.0	j_B e_I d_I i_E #1
 on	1.0	o_B n_E
 bin	1.0	b_B i_I n_E
 sıfır	1.0	s_B 1_I f_I 1_I r_E
@@ -756,7 +756,7 @@ normaldir	1.0	n_B o_I r_I m_I a_I 5_I d_I i_I r_E
 çıkan	1.0	tS_B 1_I k_I a_I n_E
 aort	1.0	a_B o_I r_I t_E
 ap	1.0	e_B a_I p_I e_E
-ap	1.0	e_B j_I p_I i:_E
+ap	1.0	e_B j_I p_I i:_E #1
 etken	1.0	e_B t_I c_I e_I n_E
 identifikasyonuna	1.0	i_B d_I e_I n_I t_I i_I f_I i_I k_I a_I s_I j_I o_I n_I u_I n_I a_E
 yönelik	1.0	j_B 2_I n_I e_I l_I i_I c_E
@@ -844,7 +844,7 @@ laboratuar	1.0	5_B a_I b_I r_I o_I t_I u_I v_I a_I r_E
 laboratuar	1.0	5_B a_I b_I r_I a_I t_I u_I v_I a_I r_E
 laboratuar	1.0	5_B a_I b_I r_I a_I t_I u_I a_I r_E
 laboratuar	1.0	5_B a_I b_I o_I r_I a_I t_I u_I a_I r_E
-laboratuar	1.0	5_B a_I b_I o_I r_I a_I t_I u_I v_I a_I r_E
+laboratuar	1.0	5_B a_I b_I o_I r_I a_I t_I u_I v_I a_I r_E #1
 bulgularla	1.0	b_B u_I 5_I g_I u_I 5_I a_I r_I 5_I a_E
 yan	1.0	j_B a_I n_E
 yakınlarının	1.0	j_B a_I k_I 1_I n_I 5_I a_I r_I 1_I n_I 1_I n_E
@@ -17592,7 +17592,7 @@ tutuklusun	1.0	t_B u_I t_I u_I k_I 5_I u_I s_I u_I n_E
 unutmuştu	1.0	u_B n_I u_I t_I m_I u_I S_I t_I u_E
 çıldırdınız	1.0	tS_B 1_I 5_I d_I 1_I r_I d_I 1_I n_I 1_I z_E
 götüremediysen	1.0	gj_B 2_I t_I y_I r_I e_I m_I e_I d_I i_I j_I s_I e_I n_E
-arıyor	1.0	a_B r_I 1_I j_I o_E
+arıyor	1.0	a_B r_I 1_I j_I o_E #1
 arıyor	1.0	a_B r_I 1_I j_I o_I r_E
 durdukça	1.0	d_B u_I r_I d_I u_I k_I tS_I a_E
 hayri	1.0	h_B a_I j_I r_I i_E
@@ -20076,7 +20076,7 @@ kovulmak	1.0	k_B o_I w_I u_I 5_I m_I a_I k_E
 canlarına	1.0	dZ_B a_I n_I 5_I a_I r_I 1_I n_I a_E
 canlarına	1.0	dZ_B a_I n_I n_I a_I r_I 1_I n_I a_E
 çekerdi	1.0	tS_B e_I c_I e_I r_I d_I i_E
-pire	1.0	p_B i_I r_I e_E
+pire	1.0	p_B i_I r_I e_E #1
 yakılmaz	1.0	j_B a_I k_I 1_I 5_I m_I a_I z_E
 sorarım	1.0	s_B o_I r_I a_I r_I 1_I m_E
 böylesini	1.0	b_B 2_I j_I l_I e_I s_I i_I n_I i_E
@@ -33859,7 +33859,7 @@ perikard	1.0	p_B e_I r_I i_I k_I a_I r_I d_E
 perikard	1.0	p_B e_I r_I i_I k_I a_I r_I t_E
 ekoları	1.0	e_B k_I o_I 5_I a_I r_I 1_E
 sinüs	1.0	s_B i_I n_I y_I s_E
-aksiyel	1.0	a_B k_I s_I i_I j_I e_I 5_E
+aksiyel	1.0	a_B k_I s_I i_I j_I e_I 5_E #1
 koronal	1.0	k_B o_I r_I o_I n_I a_I 5_E
 paranazal	1.0	p_B a_I r_I a_I n_I a_I z_I a_I 5_E
 temporal	1.0	t_B e_I m_I p_I o_I r_I a_I 5_E
@@ -34115,9 +34115,9 @@ ekstra	1.0	e_B c_I s_I t_I r_I a_E
 oküler	1.0	o_B c_I y_I l_I e_I r_E
 kaslar	1.0	k_B a_I s_I 5_I a_I r_E
 maxillo	1.0	m_B a_I ks_I i_I 5_I 5_I o_E
-maxillo	1.0	m_B a_I k_I s_I i_I 5_I 5_I o_E
-fasiyal	1.0	f_B a_I s_I i_I j_I a_I 5_E
-fasiyal	1.0	f_B a_I s_I j_I a_I 5_E
+maxillo	1.0	m_B a_I k_I s_I i_I 5_I 5_I o_E #1
+fasiyal	1.0	f_B a_I s_I i_I j_I a_I 5_E #1
+fasiyal	1.0	f_B a_I s_I j_I a_I 5_E #1
 strüktür	1.0	s_B t_I r_I y_I k_I t_I y_I r_E
 strüktür	1.0	s_B y_I t_I r_I y_I k_I t_I y_I r_E #1
 strüktür	1.0	s_B i_I t_I r_I y_I k_I t_I y_I r_E #1
@@ -34490,7 +34490,7 @@ radyoopak	1.0	r_B a_I d_I j_I o_I o_I p_I a_I k_E
 radyoopak	1.0	r_B a_I d_I j_I o_I p_I a_I k_E
 fokal	1.0	f_B o_I k_I a_I 5_E
 prifom	1.0	p_B r_I i_I f_I o_I m_E
-prifom	1.0	p_B i_I r_I i_I f_I o_I m_E
+prifom	1.0	p_B i_I r_I i_I f_I o_I m_E #1
 vallekulalar	1.0	v_B a_I 5_I 5_I e_I k_I u_I 5_I a_I 5_I a_I r_E
 vallekulalar	1.0	v_B a_I 5_I e_I k_I u_I 5_I a_I 5_I a_I r_E
 doğaldır	1.0	d_B o:_I a_I 5_I d_I 1_I r_E
@@ -35069,3 +35069,300 @@ triküspit	1.0	t_B r_I i_I k_I y_I s_I p_I i_I t_E
 triküspit	1.0	t_B i_I r_I i_I k_I y_I s_I p_I i_I t_E
 yetersizliği	1.0	j_B e_I t_I e_I r_I s_I i_I z_I l_I i:_E
 yetersizliği	1.0	j_B e_I t_I e_I r_I s_I i_I z_I l_I i_I G_I i_E
+skapholunat	1.0	s_B k_I a_I p_I h_I o_I 5_I u_I n_I a_I t_E
+skapholunat	1.0	s_B 1_I k_I a_I p_I o_I 5_I u_I n_I a_I t_E
+skapholunat	1.0	s_B 1_I k_I a_I p_I h_I o_I 5_I u_I n_I a_I t_E
+skapholunat	1.0	s_B 1_I k_I a_I p_I h_I o_I 5_I n_I a_I t_E
+ligaman	1.0	5_B i_I gj_I a_I m_I a_I n_E
+triangüler	1.0	t_B r_I i_I a_I n_I gj_I y_I 5_I e_I r_E
+triangüler	1.0	t_B i_I r_I i_I j_I a_I n_I gj_I y_I 5_I e_I r_E
+triangüler	1.0	t_B i_I r_I i_I a_I n_I gj_I y_I 5_I e_I r_E
+fibro	1.0	f_B i_I b_I r_I o_E
+kartilaj	1.0	k_B a_I r_I t_I i_I 5_I a_I Z_E
+kompleks	1.0	k_B o_I m_I p_I l_I e_I c_I s_E
+skopik	1.0	s_B k_I o_I p_I i_I k_E
+skopik	1.0	s_B 1_I k_I o_I p_I i_I k_E
+t1	1.0	t_B e_I b_I i_I r_E
+t1	1.0	t_B i:_I v_I a_I n_E
+t2	1.0	t_B e_I i_I k_I i_E
+t2	1.0	t_B i:_I t_I u:_E
+pre	1.0	p_B r_I e_E
+pre	1.0	p_B i_I r_I e_E #2
+postkontrast	1.0	p_B o_I s_I t_I k_I o_I n_I t_I r_I a_I s_I t_E
+postkontrast	1.0	p_B o_I s_I t_I k_I o_I n_I t_I r_I a_I s_I 1_I t_E
+multiplanar	1.0	m_B u_I 5_I t_I i_I p_I 5_I a_I n_I a_I r_E
+multiplanar	1.0	m_B u_I 5_I t_I i_I p_I i_I 5_I a_I n_I a_I r_E
+multiplanar	1.0	m_B a_I 5_I t_I i_I p_I i_I 5_I a_I n_I a_I r_E
+intravenöz	1.0	i_B n_I t_I r_I a_I v_I e_I n_I 2_I z_E
+intravenöz	1.0	i_B n_I i_I t_I r_I a_I v_I e_I n_I 2_I z_E
+enjeksiyonu	1.0	e_B n_I Z_I e_I c_I s_I i_I j_I o_I n_I u_E
+edilmiştir	1.0	e_B d_I i_I l_I m_I i_I S_I t_I i_I r_E
+sınırlarında	1.0	s_B 1_I n_I 1_I r_I 5_I a_I r_I 1_I n_I d_I a_E
+böbreğin	1.0	b_B 2_I b_I r_I e_I G_I i_I n_E
+böbreğin	1.0	b_B 2_I b_I r_I e_I j_I i_I n_E
+böbreğin	1.0	b_B 2_I b_I r_I i:_I n_E
+toplayıcı	1.0	t_B o_I p_I 5_I a_I j_I 1_I dZ_I 1_E
+sisto	1.0	s_B i_I s_I t_I o_E
+sisto	1.0	s_B i_I s_I i_I t_I o_E
+üreterografi	1.0	y_B r_I e_I t_I e_I r_I o_I gj_I r_I a_I f_I i_E
+üreterografi	1.0	y_B r_I e_I t_I e_I r_I o_I gj_I 1_I r_I a_I f_I i_E
+surrenal	1.0	s_B u_I r_I r_I e_I n_I a_I 5_E
+surrenal	1.0	s_B y_I r_I e_I n_I a_I 5_E
+surrenal	1.0	s_B y_I r_I r_I e_I n_I a_I 5_E #2
+yerleşimlerinde	1.0	j_B e_I r_I l_I e_I S_I i_I m_I l_I e_I r_I i_I n_I d_I e_E
+sineözofagografisi	1.0	s_B i_I n_I e_I 2_I z_I o_I f_I a_I gj_I o_I gj_I r_I a_I f_I i_I s_I i_E
+sineözofagografisi	1.0	s_B i_I n_I e_I 2_I z_I o_I f_I a_I gj_I o_I gj_I 1_I r_I a_I f_I i_I s_I i_E
+düs	1.0	d_B y_I s_E
+nolu	1.0	n_B o_I 5_I u_E
+lokalizasyonunda	1.0	5_B o_I k_I a_I 5_I i_I z_I a_I s_I j_I o_I n_I u_I n_I d_I a_E
+mix	1.0	m_B i_I ks_E
+mix	1.0	m_B i_I k_I s_E
+mix	1.0	m_B i_I k_I i_I s_E
+barsakların	1.0	b_B a_I r_I s_I a_I k_I 5_I a_I r_I 1_I n_E
+çapları	1.0	tS_B a_I p_I 5_I a_I r_I 1_E
+nazofarenks	1.0	n_B a_I z_I o_I f_I a_I r_I e_I n_I k_I s_E
+nazofarenks	1.0	n_B a_I z_I o_I r_I a_I f_I e_I n_I k_I i_I s_E
+orofarenks	1.0	o_B r_I o_I f_I a_I r_I e_I n_I k_I s_E
+orofarenks	1.0	o_B r_I o_I f_I a_I r_I a_I n_I k_I i_I s_E
+hipofarenks	1.0	h_B i_I p_I o_I f_I a_I r_I e_I n_I k_I s_E
+hipofarenks	1.0	h_B i_I p_I o_I f_I a_I r_I e_I n_I k_I i_I s_E
+larenks	1.0	5_B a_I r_I e_I n_I k_I s_E
+larenks	1.0	5_B a_I r_I e_I n_I k_I i_I s_E
+sütunları	1.0	s_B y_I t_I u_I n_I 5_I a_I r_I 1_E
+sütunları	1.0	s_B y_I t_I u_I n_I n_I a_I r_I 1_E
+t1a	1.0	t_B e_I b_I i_I r_I a_E
+t1a	1.0	t_B i:_I v_I a_I n_I e_I j_E
+sekanslarda	1.0	s_B e_I k_I a_I n_I s_I 5_I a_I r_I d_I a_E
+gönderilmiştir	1.0	gj_B 2_I n_I d_I e_I r_I i_I l_I m_I i_I S_I t_I i_I r_E
+asetabuler	1.0	a_B s_I e_I t_I a_I b_I u_I 5_I e_I r_E
+açılar	1.0	a_B tS_I 1_I 5_I a_I r_E
+konus	1.0	k_B o_I n_I u_I s_E
+cava	1.0	dZ_B a_I v_I a_E
+superior	1.0	s_B u_I p_I e_I r_I i_I o_I r_E
+superior	1.0	s_B u_I p_I e_I r_I i_I j_I o_I r_E
+superior	1.0	s_B y_I p_I e_I r_I i_I j_I o_I r_E
+mesanenin	1.0	m_B e_I s_I a_I n_I e_I n_I i_I n_E
+doldurulması	1.0	d_B o_I 5_I d_I u_I r_I u_I 5_I m_I a_I s_I 1_E
+veziko	1.0	v_B e_I z_I i_I k_I o_E
+veziko	1.0	v_B e_I s_I i_I k_I o_E
+üreteral	1.0	y_B r_I e_I t_I e_I r_I a_I 5_E
+yüzeyel	1.0	j_B y_I z_I e_I j_I e_I 5_E
+lobları	1.0	5_B o_I b_I 5_I a_I r_I 1_E
+hacim	1.0	h_B a_I dZ_I i_I m_E
+lobu	1.0	5_B o_I b_I u_E
+isthmus	1.0	i_B s_I t_I h_I m_I u_I s_E
+isthmus	1.0	i_B s_I t_I i_I m_I u_I s_E
+amnion	1.0	a_B m_I n_I i_I o_I n_E
+amnion	1.0	a_B m_I n_I i_I j_I o_I n_E
+amniotik	1.0	a_B m_I n_I i_I o_I t_I i_I k_E
+amniotik	1.0	a_B m_I n_I i_I j_I o_I t_I i_I k_E
+amniotik	1.0	a_B m_I i_I n_I i_I j_I o_I t_I i_I k_E
+parantez	1.0	p_B a_I r_I a_I n_I t_I e_I z_E
+ai	1.0	a_B i_E
+ı	1.0	1_S
+ıı	1.0	1_B 1_E
+ııı	1.0	1_B 1_I 1_E
+porifom	1.0	p_B o_I r_I i_I f_I o_I m_E
+kalibrasyonları	1.0	k_B a_I l_I i_I b_I r_I a_I s_I j_I o_I n_I 5_I a_I r_I 1_E
+kalibrasyonları	1.0	k_B a_I l_I i_I b_I r_I a_I s_I j_I o_I n_I n_I a_I r_I 1_E
+haustrasyonları	1.0	h_B a_I u_I s_I t_I r_I a_I s_I j_I o_I n_I 5_I a_I r_I 1_E
+haustrasyonları	1.0	h_B a_I v_I u_I s_I t_I 1_I r_I a_I s_I j_I o_I n_I 5_I a_I r_I 1_E
+ekspansiyonları	1.0	e_B k_I s_I p_I a_I n_I s_I i_I j_I o_I n_I 5_I a_I r_I 1_E
+ekspansiyonları	1.0	e_B k_I i_I s_I p_I a_I n_I s_I i_I j_I o_I n_I 5_I a_I r_I 1_E
+ekspansiyonları	1.0	e_B k_I i_I s_I p_I a_I n_I s_I i_I o_I n_I 5_I a_I r_I 1_E
+farklılığı	1.0	f_B a_I r_I k_I 5_I 1_I 5_I 1:_E
+farklılığı	1.0	f_B a_I r_I k_I 5_I 1_I 5_I 1_I G_I 1_E
+ilişkidedir	1.0	i_B l_I i_I S_I c_I i_I d_I e_I d_I i_I r_E
+eklemleri	1.0	e_B c_I l_I e_I m_I l_I e_I r_I i_E
+petröz	1.0	p_B e_I t_I r_I 2_I z_E
+apeks	1.0	a_B p_I e_I k_I s_E
+apeks	1.0	a_B p_I e_I k_I i_I s_E
+perkin’s	1.0	p_B 2_I r_I k_I i_I n_I s_E
+perkin’s	1.0	p_B e_I r_I k_I i_I n_I s_E
+hattı	1.0	h_B a_I t_I t_I 1_E
+proksimal	1.0	p_B r_I o_I k_I s_I i_I m_I a_I 5_E
+proksimal	1.0	p_B 1_I r_I o_I k_I s_I i_I m_I a_I 5_E
+metafizi	1.0	m_B e_I t_I a_I f_I i_I z_I i_E
+kesişmektedir	1.0	c_B e_I s_I i_I S_I m_I e_I c_I t_I e_I d_I i_I r_E
+parasellar	1.0	p_B a_I r_I a_I s_I e_I 5_I 5_I a_I r_E
+parasellar	1.0	p_B a_I r_I a_I s_I e_I 5_I a_I r_E
+duodeni	1.0	d_B u_I o_I d_I e_I n_I i_E
+duodeni	1.0	d_B o_I d_I e_I n_I i_E
+intestinel	1.0	i_B n_I t_I e_I s_I t_I i_I n_I e_I 5_E
+intestinel	1.0	i_B n_I t_I e_I s_I i_I t_I i_I n_I e_I 5_E
+kalbirasyon	1.0	k_B a_I 5_I b_I i_I r_I a_I s_I j_I o_I n_E
+towne	1.0	t_B o_I w_I n_I e_E
+towne	1.0	t_B a_I v_I n_I e_E
+kemikçikleri	1.0	c_B e_I m_I i_I c_I tS_I i_I c_I l_I e_I r_I i_E
+maksillo	1.0	m_B a_I k_I s_I i_I 5_I 5_I o_E #2
+maksillo	1.0	m_B a_I k_I s_I i_I 5_I o_E
+fasial	1.0	f_B a_I s_I i_I a_I 5_E
+fasial	1.0	f_B a_I s_I i_I j_I a_I 5_E #2
+fasial	1.0	f_B a_I s_I j_I a_I 5_E #2
+dirseğe	1.0	d_B i_I r_I s_I e:_E
+dirseğe	1.0	d_B i_I r_I s_I e_I G_I e_E
+dual	1.0	d_B u_I a_I 5_E
+spır	1.0	s_B p_I 1_I r_E
+spır	1.0	s_B 1_I p_I 1_I r_E
+spır	1.0	s_B i_I p_I i_I r_E
+aksiel	1.0	a_B k_I s_I i_I e_I 5_E
+aksiel	1.0	a_B k_I s_I i_I j_I e_I 5_E #2
+tse	1.0	t_B s_I e_E
+tse	1.0	t_B e_I s_I e_I e_E
+tse	1.0	t_B i:_I e_I s_I i:_E
+kardiofrenik	1.0	k_B a_I r_I d_I i_I o_I f_I r_I e_I n_I i_I k_E
+kardiofrenik	1.0	k_B a_I r_I d_I i_I j_I o_I f_I i_I r_I e_I n_I i_I k_E
+v.safena	1.0	v_B s_I a_I f_I e_I n_I a_E
+v.safena	1.0	v_B e_I s_I a_I f_I e_I n_I a_E
+mikrokalsifikasyonlar	1.0	m_B i_I k_I r_I o_I k_I a_I 5_I s_I i_I f_I i_I k_I a_I s_I j_I o_I n_I 5_I a_I r_E
+mikrokalsifikasyonlar	1.0	m_B i_I k_I r_I o_I k_I a_I 5_I i_I s_I i_I f_I i_I k_I a_I s_I i_I j_I o_I n_I 5_I a_I r_E
+degildir	1.0	d_B e_I gj_I i_I 5_I d_I i_I r_E
+arkus	1.0	a_B r_I k_I u_I s_E
+arkus	1.0	a_B r_I 1_I k_I u_I s_E
+kranyo	1.0	k_B r_I a_I n_I j_I o_E
+kranyo	1.0	k_B 1_I r_I a_I n_I j_I o_E
+kranyo	1.0	k_B 1_I r_I a_I n_I i_I j_I o_E
+kranyo	1.0	k_B 1_I r_I a_I n_I i_I o_E
+grafilerde	1.0	gj_B r_I a_I f_I i_I 5_I e_I r_I d_I e_E
+grafilerde	1.0	gj_B 1_I r_I a_I f_I i_I 5_I e_I r_I d_I e_E
+sütür	1.0	s_B y_I t_I y_I r_E
+fontaneller	1.0	f_B o_I n_I t_I a_I n_I e_I 5_I 5_I e_I r_E
+elektif	1.0	e_B 5_I e_I k_I t_I i_I f_E
+elektif	1.0	e_B 5_I e_I k_I i_I t_I i_I f_E
+şartlarda	1.0	S_B a_I r_I t_I 5_I a_I r_I d_I a_E
+frekanslı	1.0	f_B i_I r_I e_I c_I a_I n_I s_I 5_I 1_E
+rezolüsyonlu	1.0	r_B e_I z_I o_I 5_I y_I s_I j_I o_I n_I 5_I u_E
+rezolüsyonlu	1.0	r_B e_I z_I o_I 5_I y_I s_I y_I j_I o_I n_I 5_I u_E
+probla	1.0	p_B r_I o_I b_I 5_I a_E
+probla	1.0	p_B 1_I r_I o_I b_I 5_I a_E
+probla	1.0	p_B u_I r_I o_I b_I 5_I a_E
+probla	1.0	p_B u_I r_I o_I b_I u_I 5_I a_E
+gerektiğinde	1.0	gj_B e_I r_I e_I c_I t_I i_I G_I i_I n_I d_I e_E
+gerektiğinde	1.0	gj_B e_I r_I e_I c_I t_I i:_I n_I d_I e_E
+harmonik	1.0	h_B a_I r_I m_I o_I n_I i_I k_E
+görüntüleme	1.0	gj_B 2_I r_I y_I n_I t_I y_I l_I e_I m_I e_E
+gerçekleştirildi	1.0	gj_B e_I r_I tS_I e_I c_I l_I e_I S_I t_I i_I r_I i_I l_I d_I i_E
+vokal	1.0	v_B o_I k_I a_I 5_E
+kordlar	1.0	k_B o_I r_I d_I 5_I a_I r_E
+epiglot	1.0	e_B p_I i_I gj_I 5_I o_I t_E
+epiglot	1.0	e_B p_I i_I gj_I 1_I 5_I o_I t_E
+ario	1.0	a_B r_I i_I o_E
+ario	1.0	a_B r_I 1_I j_I o_E #2
+ario	1.0	a_B r_I j_I o_E
+epiglottik	1.0	e_B p_I i_I gj_I 5_I o_I t_I t_I i_I k_E
+epiglottik	1.0	e_B p_I i_I gj_I 1_I 5_I o_I t_I i_I k_E
+katlantılar	1.0	k_B a_I t_I 5_I a_I n_I t_I 1_I 5_I a_I r_E
+priform	1.0	p_B r_I i_I f_I o_I r_I m_E
+priform	1.0	p_B i_I r_I i_I f_I o_I r_I u_I m_E
+priform	1.0	p_B i_I r_I i_I f_I o_I r_I m_E
+priform	1.0	p_B i_I r_I i_I f_I o_I m_E #2
+vallekülalar	1.0	v_B a_I 5_I 5_I e_I k_I y_I 5_I a_I 5_I a_I r_E
+vallekülalar	1.0	v_B a_I 5_I e_I k_I y_I 5_I a_I 5_I a_I r_E
+ponksiyonun	1.0	p_B o_I n_I k_I s_I i_I j_I o_I n_I u_I n_E
+ponksiyonun	1.0	p_B o_I n_I u_I k_I s_I i_I j_I o_I n_I u_I n_E
+bulunmamış	1.0	b_B u_I 5_I u_I n_I m_I a_I m_I 1_I S_E
+efor	1.0	e_B f_I o_I r_E
+tıger	1.0	t_B 1_I gj_I e_I r_E
+tıger	1.0	t_B i_I gj_I e_I r_E
+tıger	1.0	t_B a_I j_I gj_I 1_I r_E
+kateterleri	1.0	k_B a_I t_I e_I t_I e_I r_I 5_I e_I r_I i_E
+girilerek	1.0	gj_B i_I r_I i_I l_I e_I r_I e_I c_E
+pozisyonlarında	1.0	p_B o_I z_I i_I s_I j_I o_I n_I 5_I a_I r_I 1_I n_I d_I a_E
+pozisyonlarında	1.0	p_B o_I z_I i_I s_I j_I o_I n_I n_I a_I r_I 1_I n_I d_I a_E
+koroner	1.0	k_B o_I r_I o_I n_I e_I r_E
+arteriografi	1.0	a_B r_I t_I e_I r_I i_I o_I gj_I r_I a_I f_I i_E
+arteriografi	1.0	a_B r_I t_I e_I r_I i_I j_I o_I gj_I 1_I r_I a_I f_I i_I s_I i_E
+subkortikal	1.0	s_B u_I b_I k_I o_I r_I t_I i_I k_I a_I 5_E
+subkortikal	1.0	s_B a_I p_I k_I o_I r_I t_I i_I k_I a_I 5_E
+maddeye	1.0	m_B a_I d_I d_I e_I j_I e_E
+selüllerin	1.0	s_B e_I 5_I y_I 5_I 5_I e_I r_I i_I n_E
+infrapopliteal	1.0	i_B n_I f_I r_I a_I p_I o_I p_I 5_I i_I t_I e_I a_I 5_E
+infrapopliteal	1.0	i_B n_I i_I f_I 1_I r_I a_I p_I o_I p_I 5_I i_I t_I e_I j_I a_I 5_E
+dorsalis	1.0	d_B o_I r_I s_I a_I 5_I i_I s_E
+dorsalis	1.0	d_B o_I r_I u_I s_I a_I 5_I i_I s_E
+pedis	1.0	p_B e_I d_I i_I s_E
+geninormaldir	1.0	gj_B e_I n_I i_I n_I o_I r_I m_I a_I 5_I d_I i_I r_E
+kortikomedüller	1.0	k_B o_I r_I t_I i_I k_I o_I m_I e_I d_I y_I 5_I 5_I e_I r_E
+kortikomedüller	1.0	k_B o_I r_I i_I t_I i_I k_I o_I m_I e_I d_I y_I 5_I 5_I e_I r_E
+aktır	1.0	a_B k_I t_I 1_I r_E
+romatizmal	1.0	r_B o_I m_I a_I t_I i_I z_I m_I a_I 5_E
+salmonella	1.0	s_B a_I 5_I m_I o_I n_I e_I 5_I 5_I a_E
+shigella	1.0	s_B h_I i_I gj_I e_I 5_I 5_I a_E
+shigella	1.0	S_B i_I gj_I e_I 5_I 5_I a_E
+shigella	1.0	S_B i_I gj_I e_I 5_I a_E
+bakteri	1.0	b_B a_I k_I t_I e_I r_I i_E
+üremedi	1.0	y_B r_I e_I m_I e_I d_I i_E
+çekum	1.0	tS_B e_I k_I u_I m_E
+appendiks	1.0	a_B p_I p_I e_I n_I d_I i_I k_I s_E
+appendiks	1.0	a_B p_I e_I n_I d_I i_I k_I i_I s_E
+vizüalize	1.0	v_B i_I z_I y_I a_I 5_I i_I z_I e_E
+vizüalize	1.0	v_B i_I z_I y_I j_I a_I 5_I i_I z_I e_E
+vizüalize	1.0	v_B i_I z_I j_I y_I a_I 5_I i_I z_I e_E
+olmuştur	1.0	o_B 5_I m_I u_I S_I t_I u_I r_E
+7	1.0	j_B e_I d_I i_E #2
+1	1.0	b_B i_I r_E #2
+görünümde	1.0	gj_B 2_I r_I y_I n_I y_I m_I d_I e_E
+m/sn	1.0	m_B e_I t_I r_I e_I b_I 2_I 5_I y_I s_I a_I n_I i_I j_I e_E
+tortıyozitesi	1.0	t_B o_I r_I t_I 1_I j_I o_I z_I i_I t_I e_I s_I i_E
+tortıyozitesi	1.0	t_B o_I r_I t_I i_I j_I o_I z_I i_I t_I e_I s_I i_E
+lead	1.0	5_B e_I a_I d_E
+lead	1.0	5_B e_I j_I a_I d_E
+lead	1.0	5_B i:_I d_E
+takılamadı	1.0	t_B a_I k_I 1_I 5_I a_I m_I a_I d_I 1_E
+5,3	1.0	b_B e_I S_I v_I i_I r_I gj_I y_I 5_I y_I tS_E
+strüktürü	1.0	s_B t_I r_I y_I k_I t_I y_I r_I y_E
+strüktürü	1.0	s_B y_I t_I y_I r_I y_I k_I t_I y_I r_I y_E
+a.p	1.0	a_B p_I e_E
+a.p	1.0	e_B j_I p_I i:_E #2
+a.p	1.0	a_B n_I o_I k_I t_I a_I p_E
+yüzeysel	1.0	j_B y_I z_I e_I j_I s_I e_I l_E
+mhz	1.0	m_B h_I z_E
+mhz	1.0	m_B e_I h_I e_I z_I e_E
+mhz	1.0	e_B m_I e_I j_I tS_I z_I e_I t_E
+prob	1.0	p_B r_I o_I b_E
+prob	1.0	p_B u_I r_I o_I b_E
+prob	1.0	p_B 1_I r_I o_I b_E
+prob	1.0	p_B 1_I r_I o_I p_E
+venz	1.0	v_B e_I n_I z_E
+venz	1.0	v_B e_I n_I i_I z_E
+parankimine	1.0	p_B a_I r_I a_I n_I k_I i_I m_I i_I n_I e_E
+98,1	1.0	d_B o_I k_I s_I a_I n_I s_I e_I k_I i_I z_I v_I i_I r_I gj_I y_I 5_I b_I i_I r_E
+common	1.0	dZ_B o_I m_I m_I o_I n_E
+common	1.0	k_B o_I m_I o_I n_E
+femoral	1.0	f_B e_I m_I o_I r_I a_I 5_E
+cfa	1.0	dZ_B e_I f_I e_I a_E
+cfa	1.0	s_B i:_I e_I f_I e_I j_E
+süperficial	1.0	s_B y_I p_I e_I r_I f_I i_I dZ_I i_I a_I 5_E
+süperficial	1.0	s_B y_I p_I e_I r_I f_I i_I s_I i_I j_I a_I 5_E
+süperficial	1.0	s_B y_I p_I e_I r_I f_I i_I s_I j_I a_I 5_E
+sfa	1.0	s_B f_I a_E
+sfa	1.0	s_B e_I f_I e_I a_E
+sfa	1.0	e_B s_I e_I f_I e_I j_E
+popliteal	1.0	p_B o_I p_I 5_I i_I t_I e_I a_I 5_E
+popliteal	1.0	p_B o_I p_I 5_I i_I t_I e_I j_I a_I 5_E
+popliteal	1.0	p_B o_I p_I i_I 5_I i_I t_I e_I j_I a_I 5_E
+grafilsinde	1.0	gj_B r_I a_I f_I i_I 5_I s_I i_I n_I d_I e_E
+grafilsinde	1.0	gj_B 1_I r_I a_I f_I i_I 5_I s_I i_I n_I d_I e_E
+görülebilen	1.0	gj_B 2_I r_I y_I l_I e_I b_I i_I l_I e_I n_E
+strüktürleri	1.0	s_B t_I r_I y_I k_I t_I y_I r_I 5_I e_I r_I i_E
+strüktürleri	1.0	s_B y_I t_I y_I r_I y_I k_I t_I y_I r_I 5_I e_I r_I i_E
+strüktürleri	1.0	s_B y_I t_I r_I y_I k_I t_I y_I r_I 5_I e_I r_I i_E
+strüktürleri	1.0	s_B i_I t_I r_I y_I k_I t_I y_I r_I 5_I e_I r_I i_E
+endometriumunda	1.0	e_B n_I d_I o_I m_I e_I t_I r_I i_I u_I m_I u_I n_I d_I a_E
+endometriumunda	1.0	e_B n_I d_I o_I m_I e_I t_I r_I i_I j_I u_I m_I u_I n_I d_I a_E
+axillada	1.0	a_B ks_I i_I 5_I 5_I a_I d_I a_E
+axillada	1.0	a_B k_I i_I s_I i_I 5_I 5_I a_I d_I a_E
+axillada	1.0	a_B k_I s_I i_I 5_I 5_I a_I d_I a_E
+lam	1.0	l_B a_I m_E
+lam	1.0	l_B a:_I m_E
+görüntülenmiştir	1.0	gj_B 2_I r_I y_I n_I t_I y_I l_I e_I n_I m_I i_I S_I t_I i_I r_E
+fiziki	1.0	f_B i_I z_I i:_I c_I i:_E
+muayenesi	1.0	m_B u_I a_I j_I e_I n_I e_I s_I i_E
+laboratuvar	1.0	5_B a_I b_I o_I r_I a_I t_I u_I v_I a_I r_E #2
+lab	1.0	5_B a_I b_E
+reçeteli	1.0	r_B e_I tS_I e_I t_I e_I l_I i_E
+kodla	1.0	k_B o_I d_I 5_I a_E
+sekmesi	1.0	s_B e_I c_I m_I e_I s_I i_E
+sayfası	1.0	s_B a_I j_I f_I a_I s_I 1_E
+önerildi	1.0	2_B n_I e_I r_I i_I l_I d_I i_E
+dinlendi	1.0	d_B i_I n_I l_I e_I n_I d_I i_E
