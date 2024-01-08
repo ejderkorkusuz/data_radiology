@@ -35366,3 +35366,124 @@ sekmesi s e c m e s i
 sayfası s a j f a s 1
 önerildi 2 n e r i l d i
 dinlendi d i n l e n d i
+dinlendi d i n n e n d i
+lokalizasyonları 5 o k a 5 i z a s j o n 5 a r 1
+pelvikalisiyal p e 5 v i k a 5 i s i j a 5
+pelvikalisiyal p e 5 i v i k a 5 i s i a 5
+pelvikalisiyal p e 5 v i k a 5 i s j a 5
+sistemleri s i s t e m l e r i
+intraparankimal i n t r a p a r a n k i m a 5
+intraparankimal i n i t r a p a r a n k i m a 5
+olunan o 5 u n a n
+ekleminde e c l e m i n d e
+dislokasyon d i s 5 o k a s j o n
+dislokasyon d i s i 5 o k a s i j o n
+hacimde h a dZ i m d e
+konturlu k o n t u r 5 u
+ekojenitesinde e k o Z e n i t e s i n d e
+subklavian s u b k 5 a v i a n
+subklavian s u b k 1 5 a v i j a n
+subklavian s u b k 1 5 a v j a n
+subklavian s a b k 1 5 a v j a n
+brakial b r a k i a 5
+brakial b 1 r a k i a 5
+brakial b 1 r a k i j a 5
+radial r a d i a 5
+radial r a d j a 5
+ivkme i v k m e
+ivkme i v i k m e
+zamanlı z a m a n 5 1
+zamanlı z a m a n n 1
+fonksiyona f o N k s i j o n a
+girmektedir gj i r m e c t e d i r
+sonografi s o n o gj r a f i
+sonografi s o n o gj 1 r a f i
+gözlenmemiştir gj 2 z l e n m e m i S t i r
+sevki s e v c i
+birimimize b i r i m i m i z e
+aspirasyon a s p i r a s j o n
+aspirasyon a s i p i r a s j o n
+biopsisi b i o p s i s i
+biopsisi b i j o p s i s i
+uygulanmıştır u j gj u 5 a n m 1 S t 1 r
+bölgesine b 2 l gj e s i n e
+fronto f r o n t o
+fronto f 1 r o n t o
+fronto f u r o n t o
+resessüsler r e s e s s y s 5 e r
+resessüsler r e s e s y s 5 e r
+pelvis p e 5 v i s
+pelvis p e 5 i v i s
+konum k o n u m
+zeminde z e m i n d e
+gangliyonlar gj a n gj 5 i j o n 5 a r
+intensite i n t e n s i t e
+sınırlarındadır s 1 n 1 r 5 a r 1 n d a d 1 r
+sata s a t a
+doal d o a 5
+bradikardi b r a d i k a r d i
+bradikardi b 1 r a d i k a r d i
+süreli s y r e l i
+sinüsal s i n y s a 5
+atakları a t a k 5 a r 1
+jinekolojik Z i n e c o l o Z i c
+hpv h p v
+hpv h e p e v e
+hpv e j tS p i: v i:
+yapmamıştır j a p m a m 1 S t 1 r
+modunda m o d u n d a
+renkle r e n k l e
+tamdır t a m d 1 r
+pw p w
+pw p e v w
+spektrum s p e k t r u m
+spektrum s i p e k t i r u m
+analizinde a n a l i z i n d e
+trifazik t r i f a z i k
+trifazik t i r i f a z i k
+formu f o r m u
+gözlenmiştir gj 2 z l e n m i S t i r
+fasyal f a s j a 5
+fasyal f a s i a 5
+kontraksiyonları k o n t r a k s i j o n 5 a r 1
+aks a k s
+2 i k i
+görüntülerinde gj 2 r y n t y l e r i n d e
+minimal m i n i m a 5
+ddd d d d
+ddd d e d e d e
+implantasyonu i m p 5 a n t a s j o n u
+uyukuda u j u k u d a
+sinus s i n u s
+ritminde r i t m i n d e
+41 k 1 r k b i r
+92 d o k s a n i k i
+seyretmiş s e j r e t m i S
+55 e 5 5 i b e S
+vaskler v a s k 5 e r
+geniliktedir gj e n i 5 i k t e d i r
+taşikardi t a S i c a r d i
+aksillada a k s i 5 5 a d a
+italik i t a l i c
+fontu f o n t u
+sayfa s a j f a
+kaydet k a j d e t
+ekle e c l e
+yazdır j a z d 1 r
+yazdırmak j a z d 1 r m a k
+yazdırma j a z d 1 r m a
+reçeteyi r e tS e t e j i
+enter e n t e r
+enter e n t 1 r
+onayla o n a j 5 a
+okey o k e j
+cancel dZ a n dZ e 5
+cancel k e n s 1 5
+escape e s dZ a p e
+escape e s k e j i p
+sekme s e c m e
+tab t a b
+tamamla t a m a m 5 a
+spontan s p o n t a n
+spontan s 1 p o n t a n
+fazik f a z i k

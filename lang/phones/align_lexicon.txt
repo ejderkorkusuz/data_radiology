@@ -5,6 +5,7 @@
 12 12 o_B n_I i_I k_I i_E
 13 13 o_B n_I y_I tS_E
 15 15 o_B n_I b_I e_I S_E
+2 2 i_B k_I i_E
 24 24 j_B i_I r_I m_I i_I d_I 2_I r_I t_E
 26 26 j_B i_I r_I m_I i_I a_I 5_I t_I 1_E
 28 28 j_B i_I r_I m_I i_I s_I e_I k_I i_I z_E
@@ -17,10 +18,12 @@
 37 37 o_B t_I u_I z_I j_I e_I d_I i_E
 4 4 d_B 2_I r_I t_E
 40 40 k_B 1_I r_I k_E
+41 41 k_B 1_I r_I k_I b_I i_I r_E
 44 44 k_B 1_I r_I 1_I k_I d_I 2_I r_I t_E
 44 44 k_B 1_I r_I k_I d_I 2_I r_I t_E
 5 5 b_B e_I S_E
 5,3 5,3 b_B e_I S_I v_I i_I r_I gj_I y_I 5_I y_I tS_E
+55 55 e_B 5_I 5_I i_I b_I e_I S_E
 5f 5f b_B e_I S_I e_I f_E
 5f 5f b_B e_I S_I f_I e_E
 6 6 a_B 5_I t_I 1_E
@@ -29,6 +32,7 @@
 64 64 a_B 5_I t_I m_I 1_I S_I d_I 2_I r_I t_E
 64 64 a_B t_I m_I 1_I S_I d_I 2_I r_I t_E
 7 7 j_B e_I d_I i_E
+92 92 d_B o_I k_I s_I a_I n_I i_I k_I i_E
 98 98 d_B o_I k_I s_I a_I n_I s_I e_I k_I i_I z_E
 98,1 98,1 d_B o_I k_I s_I a_I n_I s_I e_I k_I i_I z_I v_I i_I r_I gj_I y_I 5_I b_I i_I r_E
 <UNK> <UNK> SPN_S
@@ -413,6 +417,7 @@ akrabası akrabası a_B k_I r_I a:_I b_I a:_I s_I 1_E
 akrabaya akrabaya a_B k_I r_I a:_I b_I a:_I j_I a_E
 akratılan akratılan a_B k_I r_I a_I t_I 1_I 5_I a_I n_E
 akrep akrep a_B k_I r_I e_I p_E
+aks aks a_B k_I s_E
 aksak aksak a_B k_I s_I a_I k_E
 aksamak aksamak a_B k_I s_I a_I m_I a_I k_E
 aksaraya aksaraya a_B k_I s_I a_I r_I a_I j_I a_E
@@ -422,6 +427,7 @@ aksi aksi a_B k_I s_I i_E
 aksiel aksiel a_B k_I s_I i_I e_I 5_E
 aksiel aksiel a_B k_I s_I i_I j_I e_I 5_E
 aksilla aksilla a_B k_I s_I i_I 5_I 5_I a_E
+aksillada aksillada a_B k_I s_I i_I 5_I 5_I a_I d_I a_E
 aksiller aksiller a_B k_I s_I i_I 5_I 5_I e_I r_E
 aksine aksine a_B k_I s_I i_I n_I e_E
 aksiyel aksiyel a_B k_I s_I i_I j_I e_I 5_E
@@ -969,6 +975,7 @@ anahtarın anahtarın a_B n_I a_I h_I t_I a_I r_I 1_I n_E
 analist analist a_B n_I a_I l_I i_I s_I t_E
 analistler analistler a_B n_I a_I l_I i_I s_I t_I l_I e_I r_E
 analizi analizi a_B n_I a_I l_I i_I z_I i_E
+analizinde analizinde a_B n_I a_I l_I i_I z_I i_I n_I d_I e_E
 analı analı a_B n_I a_I 5_I 1_E
 analık analık a_B n_I a_I 5_I 1_I k_E
 anam anam a_B n_I a_I m_E
@@ -1989,6 +1996,8 @@ asma asma a_B s_I m_I a_E
 asmadıklarına asmadıklarına a_B s_I m_I a_I d_I 1_I k_I 5_I a_I r_I 1_I n_I a_E
 asmadım asmadım a_B s_I m_I a_I d_I 1_I m_E
 asmış asmış a_B s_I m_I 1_I S_E
+aspirasyon aspirasyon a_B s_I i_I p_I i_I r_I a_I s_I j_I o_I n_E
+aspirasyon aspirasyon a_B s_I p_I i_I r_I a_I s_I j_I o_I n_E
 aspirinin aspirinin a_B s_I p_I i_I r_I i_I n_I i_I n_E
 assendan assendan a_B s_I s_I e_I n_I d_I a_I n_E
 astar astar a_B s_I t_I a_I r_E
@@ -2013,6 +2022,7 @@ atacağı atacağı a_B t_I a_I dZ_I a:_E
 atacağı atacağı a_B t_I a_I dZ_I a_I 1_E
 atacağı atacağı a_B t_I a_I dZ_I a_I G_I 1_E
 atadan atadan a_B t_I a_I d_I a_I n_E
+atakları atakları a_B t_I a_I k_I 5_I a_I r_I 1_E
 ataktı ataktı a_B t_I a_I k_I t_I 1_E
 atalar atalar a_B t_I a_I 5_I a_I r_E
 ataların ataların a_B t_I a_I 5_I a_I r_I 1_I n_E
@@ -4921,6 +4931,8 @@ binmiş binmiş b_B i_I n_I m_I i_I S_E
 binmişti binmişti b_B i_I n_I m_I i_I S_I t_I i_E
 binse binse b_B i_I n_I s_I e_E
 binsin binsin b_B i_I n_I s_I i_I n_E
+biopsisi biopsisi b_B i_I j_I o_I p_I s_I i_I s_I i_E
+biopsisi biopsisi b_B i_I o_I p_I s_I i_I s_I i_E
 bir bir b_B i_I r_E
 bira bira b_B i_I r_I a_E
 birader birader b_B i_I r_I a:_I d_I e_I r_E
@@ -4967,6 +4979,7 @@ birikmişti birikmişti b_B i_I r_I i_I c_I m_I i_I S_I t_I i_E
 birileri birileri b_B i_I r_I i_I l_I e_I r_I i_E
 birim birim b_B i_I r_I i_I m_E
 birimi birimi b_B i_I r_I i_I m_I i_E
+birimimize birimimize b_B i_I r_I i_I m_I i_I m_I i_I z_I e_E
 birimiz birimiz b_B i_I r_I i_I m_I i_I z_E
 birimler birimler b_B i_I r_I i_I m_I l_I e_I r_E
 birimlerin birimlerin b_B i_I r_I i_I m_I l_I e_I r_I i_I n_E
@@ -5415,6 +5428,11 @@ boşuna boşuna b_B o_I S_I u_I n_I a_E
 boşver boşver b_B o_I S_I v_I e_I r_E
 boşversene boşversene b_B o_I S_I v_I e_I r_I s_I e_I n_I e_E
 bph bph b_B e_I p_I e_I h_I a_I S_E
+bradikardi bradikardi b_B 1_I r_I a_I d_I i_I k_I a_I r_I d_I i_E
+bradikardi bradikardi b_B r_I a_I d_I i_I k_I a_I r_I d_I i_E
+brakial brakial b_B 1_I r_I a_I k_I i_I a_I 5_E
+brakial brakial b_B 1_I r_I a_I k_I i_I j_I a_I 5_E
+brakial brakial b_B r_I a_I k_I i_I a_I 5_E
 brakiosefalik brakiosefalik b_B 1_I r_I a_I k_I i_I j_I o_I s_I e_I f_I a_I 5_I i_I k_E
 brakiosefalik brakiosefalik b_B 1_I r_I a_I k_I i_I o_I s_I e_I f_I a_I 5_I i_I k_E
 brakiosefalik brakiosefalik b_B r_I a_I k_I i_I o_I s_I e_I f_I a_I 5_I i_I k_E
@@ -5895,6 +5913,7 @@ bölgesel bölgesel b_B 2_I l_I gj_I e_I s_I e_I l_E
 bölgesi bölgesi b_B 2_I l_I gj_I e_I s_I i_E
 bölgesinde bölgesinde b_B 2_I l_I gj_I e_I s_I i_I n_I d_I e_E
 bölgesindeki bölgesindeki b_B 2_I l_I gj_I e_I s_I i_I n_I d_I e_I c_I i_E
+bölgesine bölgesine b_B 2_I l_I gj_I e_I s_I i_I n_I e_E
 bölgesi’dir bölgesi’dir b_B 2_I 5_I gj_I e_I s_I i_I d_I i_I r_E
 bölgeye bölgeye b_B 2_I l_I gj_I e_I j_I e_E
 bölmüyorumdur bölmüyorumdur b_B 2_I 5_I m_I y_I j_I o_I r_I u_I m_I d_I u_I r_E
@@ -6231,6 +6250,8 @@ canavarların canavarların dZ_B a_I n_I a_I v_I a_I r_I 5_I a_I r_I 1_I n_E
 canavarı canavarı dZ_B a_I n_I a_I v_I a_I r_I 1_E
 canavarım canavarım dZ_B a_I n_I a_I v_I a_I r_I 1_I m_E
 canayakın canayakın dZ_B a_I n_I a_I j_I a_I k_I 1_I n_E
+cancel cancel dZ_B a_I n_I dZ_I e_I 5_E
+cancel cancel k_B e_I n_I s_I 1_I 5_E
 candan candan dZ_B a_I n_I d_I a_I n_E
 candarma candarma dZ_B a_I n_I d_I a_I r_I m_I a_E
 candarmadan candarmadan dZ_B a_I n_I d_I a_I r_I m_I a_I d_I a_I n_E
@@ -6959,6 +6980,8 @@ dağıtıyorsun dağıtıyorsun d_B a_I 1_I t_I 1_I j_I o_I s_I u_I n_E
 dağıtıyorsun dağıtıyorsun d_B a_I G_I 1_I t_I 1_I j_I o_I r_I s_I u_I n_E
 dağıtıyorsun dağıtıyorsun d_B a_I G_I 1_I t_I 1_I j_I o_I s_I u_I n_E
 daşşağı daşşağı d_B a_I S_I S_I a_I G_I 1_E
+ddd ddd d_B d_I d_E
+ddd ddd d_B e_I d_I e_I d_I e_E
 ddr ddr d_B d_I r_E
 ddr ddr d_B e_I d_I e_I r_I e_E
 ddr ddr d_B i:_I d_I i:_I a_I r_E
@@ -7985,6 +8008,7 @@ dinlemiyorum dinlemiyorum d_B i_I n_I n_I e_I m_I i_I j_I o_I r_I u_I m_E
 dinlen dinlen d_B i_I n_I l_I e_I n_E
 dinlen dinlen d_B i_I n_I n_I e_I n_E
 dinlendi dinlendi d_B i_I n_I l_I e_I n_I d_I i_E
+dinlendi dinlendi d_B i_I n_I n_I e_I n_I d_I i_E
 dinlendikten dinlendikten d_B i_I n_I l_I e_I n_I d_I i_I c_I t_I e_I n_E
 dinlendikten dinlendikten d_B i_I n_I n_I e_I n_I d_I i_I c_I t_I e_I n_E
 dinlendim dinlendim d_B i_I n_I l_I e_I n_I d_I i_I m_E
@@ -8132,6 +8156,8 @@ dirseğiyle dirseğiyle d_B i_I r_I s_I i:_I j_I l_I e_E
 diseksiyon diseksiyon d_B i_I s_I e_I k_I s_I i_I j_I o_I n_E
 disk disk d_B i_I s_I k_E
 disko disko d_B i_I s_I k_I o_E
+dislokasyon dislokasyon d_B i_I s_I 5_I o_I k_I a_I s_I j_I o_I n_E
+dislokasyon dislokasyon d_B i_I s_I i_I 5_I o_I k_I a_I s_I i_I j_I o_I n_E
 distal distal d_B i_I s_I t_I a_I 5_E
 distale distale d_B i_I s_I t_I a_I 5_I e_E
 distandü distandü d_B i_I s_I t_I a_I n_I d_I y_E
@@ -8243,6 +8269,7 @@ dişleriyle dişleriyle d_B i_I S_I l_I e_I r_I i_I j_I l_I e_E
 dişsiz dişsiz d_B i_I S_I s_I i_I z_E
 dişten dişten d_B i_I S_I t_I e_I n_E
 dişçi dişçi d_B i_I S_I tS_I i_E
+doal doal d_B o_I a_I 5_E
 doboyda doboyda d_B o_I b_I o_I j_I d_I a_E
 dock dock d_B o_I k_E
 dodiki dodiki d_B o_I d_I i_I k_I i_E
@@ -9848,9 +9875,11 @@ ekinler ekinler e_B c_I i_I n_I n_I e_I r_E
 ekinleri ekinleri e_B c_I i_I n_I l_I e_I r_I i_E
 ekinleri ekinleri e_B c_I i_I n_I n_I e_I r_I i_E
 ekip ekip e_B c_I i_I p_E
+ekle ekle e_B c_I l_I e_E
 eklem eklem e_B c_I l_I e_I m_E
 ekleme ekleme e_B c_I l_I e_I m_I e_E
 eklemi eklemi e_B c_I l_I e_I m_I i_E
+ekleminde ekleminde e_B c_I l_I e_I m_I i_I n_I d_I e_E
 eklemini eklemini e_B c_I l_I e_I m_I i_I n_I i_E
 eklemler eklemler e_B c_I l_I e_I m_I l_I e_I r_E
 eklemleri eklemleri e_B c_I l_I e_I m_I l_I e_I r_I i_E
@@ -9888,6 +9917,7 @@ ekmeğiyle ekmeğiyle e_B c_I m_I i:_I j_I l_I e_E
 ekmişler ekmişler e_B c_I m_I i_I S_I l_I e_I r_E
 eko eko e_B k_I o_E
 ekojenitesi ekojenitesi e_B k_I o_I Z_I e_I n_I i_I t_I e_I s_I i_E
+ekojenitesinde ekojenitesinde e_B k_I o_I Z_I e_I n_I i_I t_I e_I s_I i_I n_I d_I e_E
 ekokardiyografik ekokardiyografik e_B k_I o_I k_I a_I r_I d_I i_I j_I o_I gj_I 1_I r_I a_I f_I i_I k_E
 ekokardiyografik ekokardiyografik e_B k_I o_I k_I a_I r_I d_I i_I j_I o_I gj_I r_I a_I f_I i_I k_E
 ekoları ekoları e_B k_I o_I 5_I a_I r_I 1_E
@@ -10205,6 +10235,8 @@ ensesine ensesine e_B n_I s_I e_I s_I i_I n_I e_E
 entarisini entarisini e_B n_I t_I a:_I r_I i_I s_I i_I n_I i_E
 entarisinin entarisinin e_B n_I t_I a:_I r_I i_I s_I i_I n_I i_I n_E
 entelektüel entelektüel e_B n_I t_I e_I l_I e_I c_I t_I y_I e_I l_E
+enter enter e_B n_I t_I 1_I r_E
+enter enter e_B n_I t_I e_I r_E
 enterasandır enterasandır e_B n_I t_I e_I r_I a_I s_I a_I n_I d_I 1_I r_E
 enteresan enteresan e_B n_I t_I e_I r_I e_I s_I a_I n_E
 envai envai e_B n_I v_I a_I i_E
@@ -10311,6 +10343,8 @@ esas esas e_B s_I a_I s_E
 esasiye esasiye e_B s_I a_I s_I i_I j_I e_E
 esaslı esaslı e_B s_I a_I s_I 5_I 1_E
 esası esası e_B s_I a:_I s_I 1_E
+escape escape e_B s_I dZ_I a_I p_I e_E
+escape escape e_B s_I k_I e_I j_I i_I p_E
 esefle esefle e_B s_I e_I f_I l_I e_E
 esen esen e_B s_I e_I n_E
 eser eser e_B s_I e_I r_E
@@ -10997,6 +11031,8 @@ fasiyal fasiyal f_B a_I s_I i_I j_I a_I 5_E
 fasiyal fasiyal f_B a_I s_I j_I a_I 5_E
 fasulye fasulye f_B a_I s_I u_I l_I j_I e_E
 fasulyeler fasulyeler f_B a_I s_I u_I l_I j_I e_I l_I e_I r_E
+fasyal fasyal f_B a_I s_I i_I a_I 5_E
+fasyal fasyal f_B a_I s_I j_I a_I 5_E
 fasılalarla fasılalarla f_B a:_I s_I 1_I 5_I a_I 5_I a_I r_I 5_I a_E
 fatma fatma f_B a_I t_I m_I a_E
 fatmacığı fatmacığı f_B a_I t_I m_I a_I dZ_I 1_I G_I 1_E
@@ -11010,6 +11046,7 @@ faydası faydası f_B a_I j_I d_I a_I s_I 1_E
 faydasını faydasını f_B a_I j_I d_I a_I s_I 1_I n_I 1_E
 faydasız faydasız f_B a_I j_I d_I a_I s_I 1_I z_E
 faydasızlığıma faydasızlığıma f_B a_I j_I d_I a_I s_I 1_I z_I 5_I 1_I G_I 1_I m_I a_E
+fazik fazik f_B a_I z_I i_I k_E
 faziletini faziletini f_B a_I z_I i:_I l_I e_I t_I i_I n_I i_E
 fazla fazla f_B a_I z_I 5_I a_E
 fazladır fazladır f_B a_I z_I 5_I a_I d_I 1_I r_E
@@ -11193,6 +11230,7 @@ fokstrot fokstrot f_B o_I k_I s_I t_I r_I o_I t_E
 folklor folklor f_B o_I 5_I k_I l_I o_I r_E
 folliküller folliküller f_B o_I 5_I 5_I i_I k_I y_I 5_I 5_I e_I r_E
 folliküller folliküller f_B o_I 5_I i_I k_I y_I 5_I 5_I e_I r_E
+fonksiyona fonksiyona f_B o_I N_I k_I s_I i_I j_I o_I n_I a_E
 fonksiyonları fonksiyonları f_B o_I N_I k_I s_I i_I j_I o_I n_I 5_I a_I r_I 1_E
 fonksiyonları fonksiyonları f_B o_I N_I k_I s_I i_I j_I o_I n_I n_I a_I r_I 1_E
 fonlar fonlar f_B o_I n_I 5_I a_I r_E
@@ -11201,6 +11239,7 @@ fonların fonların f_B o_I n_I 5_I a_I r_I 1_I n_E
 fonların fonların f_B o_I n_I n_I a_I r_I 1_I n_E
 fontaneller fontaneller f_B o_I n_I t_I a_I n_I e_I 5_I 5_I e_I r_E
 fontlar fontlar f_B o_I n_I t_I 5_I a_I r_E
+fontu fontu f_B o_I n_I t_I u_E
 fonun fonun f_B o_I n_I u_I n_E
 fora fora f_B o_I r_I a_E
 foramenler foramenler f_B o_I r_I a_I m_I e_I n_I 5_I e_I r_E
@@ -11212,6 +11251,7 @@ formatı formatı f_B o_I r_I m_I a_I t_I 1_E
 formda formda f_B o_I r_I m_I d_I a_E
 formları formları f_B o_I r_I m_I 5_I a_I r_I 1_E
 formlarında formlarında f_B o_I r_I m_I 5_I a_I r_I 1_I n_I d_I a_E
+formu formu f_B o_I r_I m_I u_E
 formula formula f_B o_I r_I m_I u_I 5_I a_E
 fossa fossa f_B o_I s_I s_I a_E
 fossadan fossadan f_B o_I s_I a_I d_I a_I n_E
@@ -11247,6 +11287,9 @@ frenklere frenklere f_B r_I e_I n_I k_I 5_I e_I r_I e_E
 frenkçe frenkçe f_B r_I e_I n_I k_I tS_I e_E
 frontal frontal f_B 1_I r_I o_I n_I t_I a_I 5_E
 frontal frontal f_B r_I o_I n_I t_I a_I 5_E
+fronto fronto f_B 1_I r_I o_I n_I t_I o_E
+fronto fronto f_B r_I o_I n_I t_I o_E
+fronto fronto f_B u_I r_I o_I n_I t_I o_E
 fs fs e_B f_I e_I s_E
 fs fs f_B e_I s_I e_E
 fs fs f_B s_E
@@ -11338,6 +11381,7 @@ gamdan gamdan g_B a_I m_I d_I a_I n_E
 gamlara gamlara gj_B a_I m_I 5_I a_I r_I a_E
 gamlılık gamlılık gj_B a_I m_I 5_I 1_I 5_I 1_I k_E
 gammaz gammaz gj_B a_I m_I m_I a_I z_E
+gangliyonlar gangliyonlar gj_B a_I n_I gj_I 5_I i_I j_I o_I n_I 5_I a_I r_E
 garaj garaj gj_B a_I r_I a_I Z_E
 garanti garanti gj_B a_I r_I a_I n_I t_I i_E
 gardiyan gardiyan g_B a_I r_I d_I i_I j_I a_I n_E
@@ -11716,6 +11760,7 @@ genelde genelde gj_B e_I n_I e_I l_I d_I e_E
 genellikle genellikle gj_B e_I n_I e_I l_I l_I i_I c_I l_I e_E
 general general gj_B e_I n_I e_I r_I a_I l_E
 genili genili gj_B e_I n_I i_I 5_I i_E
+geniliktedir geniliktedir gj_B e_I n_I i_I 5_I i_I k_I t_I e_I d_I i_I r_E
 geninormaldir geninormaldir gj_B e_I n_I i_I n_I o_I r_I m_I a_I 5_I d_I i_I r_E
 genital genital gj_B e_I n_I i_I t_I a_I 5_E
 geniş geniş gj_B e_I n_I i_I S_E
@@ -12323,6 +12368,7 @@ girmedim girmedim gj_B i_I r_I m_I e_I d_I i_I m_E
 girmediğini girmediğini gj_B i_I r_I m_I e_I d_I i:_I n_I i_E
 girmediğini girmediğini gj_B i_I r_I m_I e_I d_I i_I G_I i_I n_I i_E
 girmek girmek gj_B i_I r_I m_I e_I c_E
+girmektedir girmektedir gj_B i_I r_I m_I e_I c_I t_I e_I d_I i_I r_E
 girmelisin girmelisin gj_B i_I r_I m_I e_I l_I i_I s_I i_I n_E
 girmeliyiz girmeliyiz gj_B i_I r_I m_I e_I l_I i_I j_I i_I z_E
 girmem girmem gj_B i_I r_I m_I e_I m_E
@@ -12931,6 +12977,7 @@ görüntülenmemiştir görüntülenmemiştir gj_B 2_I r_I y_I n_I t_I y_I 5_I e
 görüntülenmiştir görüntülenmiştir gj_B 2_I r_I y_I n_I t_I y_I l_I e_I n_I m_I i_I S_I t_I i_I r_E
 görüntüler görüntüler gj_B 2_I r_I y_I n_I t_I y_I l_I e_I r_E
 görüntülerde görüntülerde gj_B 2_I r_I y_I n_I t_I y_I l_I e_I r_I d_I e_E
+görüntülerinde görüntülerinde gj_B 2_I r_I y_I n_I t_I y_I l_I e_I r_I i_I n_I d_I e_E
 görünüm görünüm gj_B 2_I r_I y_I n_I y_I m_E
 görünümde görünümde gj_B 2_I r_I y_I n_I y_I m_I d_I e_E
 görünümdedir görünümdedir gj_B 2_I r_I y_I n_I y_I m_I d_I e_I d_I i_I r_E
@@ -13159,6 +13206,8 @@ gözkapakları gözkapakları gj_B 2_I z_I k_I a_I p_I a_I k_I 5_I a_I r_I 1_E
 gözle gözle gj_B 2_I z_I l_I e_E
 gözlendi gözlendi gj_B 2_I z_I l_I e_I n_I d_I i_E
 gözlenmedi gözlenmedi gj_B 2_I z_I l_I e_I n_I m_I e_I d_I i_E
+gözlenmemiştir gözlenmemiştir gj_B 2_I z_I l_I e_I n_I m_I e_I m_I i_I S_I t_I i_I r_E
+gözlenmiştir gözlenmiştir gj_B 2_I z_I l_I e_I n_I m_I i_I S_I t_I i_I r_E
 gözler gözler gj_B 2_I z_I l_I e_I r_E
 gözlerden gözlerden gj_B 2_I z_I l_I e_I r_I d_I e_I n_E
 gözleri gözleri gj_B 2_I z_I l_I e_I r_I i_E
@@ -13607,6 +13656,7 @@ hacer hacer h_B a_I dZ_I e_I r_E
 hacere hacere h_B a_I dZ_I e_I r_I e_E
 hacet hacet h_B a_I dZ_I e_I t_E
 hacim hacim h_B a_I dZ_I i_I m_E
+hacimde hacimde h_B a_I dZ_I i_I m_I d_I e_E
 hacimdedir hacimdedir h_B a_I dZ_I i_I m_I d_I e_I d_I i_I r_E
 hacmi hacmi h_B a_I dZ_I m_I i_E
 hacı hacı h_B a_I dZ_I 1_E
@@ -14767,6 +14817,9 @@ hoşuma hoşuma h_B o_I S_I u_I m_I a_E
 hoşuna hoşuna h_B o_I S_I u_I n_I a_E
 hoşça hoşça h_B o_I S_I tS_I a_E
 hoşçakal hoşçakal h_B o_I S_I tS_I a_I k_I a_I 5_E
+hpv hpv e_B j_I tS_I p_I i:_I v_I i:_E
+hpv hpv h_B e_I p_I e_I v_I e_E
+hpv hpv h_B p_I v_E
 hrct hrct e_B j_I tS_I a_I r_I s_I i:_I t_I i:_E
 hrct hrct h_B e_I r_I e_I dZ_I e_I t_I e_E
 hrct hrct h_B r_I dZ_I t_E
@@ -15259,6 +15312,7 @@ imparator imparator i_B m_I p_I a_I r_I a_I t_I o_I r_E
 imparatora imparatora i_B m_I p_I a_I r_I a_I t_I o_I r_I a_E
 imparatorun imparatorun i_B m_I p_I a_I r_I a_I t_I o_I r_I u_I n_E
 imparatorunuzu imparatorunuzu i_B m_I p_I a_I r_I a_I t_I o_I r_I u_I n_I u_I z_I u_E
+implantasyonu implantasyonu i_B m_I p_I 5_I a_I n_I t_I a_I s_I j_I o_I n_I u_E
 implasyonu implasyonu i_B m_I p_I 5_I a_I s_I j_I o_I n_I u_E
 implasyonu implasyonu i_B m_I p_I i_I 5_I a_I s_I j_I o_I n_I u_E
 imtihan imtihan i_B m_I t_I i_I h_I a_I n_E
@@ -15533,6 +15587,7 @@ insanız insanız i_B n_I s_I a_I n_I 1_I z_E
 instrumental instrumental i_B n_I s_I t_I r_I u_I m_I e_I n_I t_I a_I 5_E
 intakt intakt i_B n_I t_I a_I k_I t_E
 intakttır intakttır i_B n_I t_I a_I k_I t_I t_I 1_I r_E
+intensite intensite i_B n_I t_I e_I n_I s_I i_I t_I e_E
 intensiteleri intensiteleri i_B n_I t_I e_I n_I s_I i_I t_I e_I 5_I e_I r_I i_E
 intensitesi intensitesi i_B n_I t_I e_I n_I s_I i_I t_I e_I s_I i_E
 interatriyal interatriyal i_B n_I t_I e_I r_I a_I t_I r_I i_I a_I 5_E
@@ -15561,6 +15616,8 @@ intrakranyal intrakranyal i_B n_I t_I r_I a_I k_I 1_I r_I a_I n_I j_I a_I 5_E
 intrakranyal intrakranyal i_B n_I t_I r_I a_I k_I r_I a_I n_I j_I a_I 5_E
 intralobar intralobar i_B n_I t_I r_I a_I 5_I o_I b_I a_I r_E
 intralober intralober i_B n_I t_I r_I a_I 5_I o_I b_I e_I r_E
+intraparankimal intraparankimal i_B n_I i_I t_I r_I a_I p_I a_I r_I a_I n_I k_I i_I m_I a_I 5_E
+intraparankimal intraparankimal i_B n_I t_I r_I a_I p_I a_I r_I a_I n_I k_I i_I m_I a_I 5_E
 intraperitoneal intraperitoneal i_B n_I t_I r_I a_I p_I e_I r_I i_I t_I o_I n_I e_I a_I 5_E
 intraperitoneal intraperitoneal i_B n_I t_I r_I a_I p_I e_I r_I i_I t_I o_I n_I i_I a_I 5_E
 intraskrotal intraskrotal i_B n_I t_I r_I a_I s_I 1_I k_I r_I o_I t_I a_I 5_E
@@ -15904,6 +15961,7 @@ isyan isyan i_B s_I j_I a_I n_E
 it it i_B t_E
 itaat itaat i_B t_I a_I a_I t_E
 itaate itaate i_B t_I a_I a_I t_I e_E
+italik italik i_B t_I a_I l_I i_I c_E
 italyan italyan i_B t_I a_I 5_I j_I a_I n_E
 italya’nın italya’nın i_B t_I a_I 5_I j_I a_I n_I 1_I n_E
 ite ite i_B t_I e_E
@@ -15946,6 +16004,8 @@ itme itme i_B t_I m_I e_E
 itmez itmez i_B t_I m_I e_I z_E
 itte itte i_B t_I t_I e_E
 itti itti i_B t_I t_I i_E
+ivkme ivkme i_B v_I i_I k_I m_I e_E
+ivkme ivkme i_B v_I k_I m_I e_E
 ivp ivp a_B j_I v_I i:_I p_I i:_E
 ivp ivp i:_B v_I e_I p_I e_E
 ivp ivp i_B v_I e_I p_I e_E
@@ -16317,6 +16377,7 @@ jeneratör jeneratör Z_B e_I n_I e_I r_I a_I t_I 2_I r_E
 jestler jestler Z_B e_I s_I t_I l_I e_I r_E
 jetairfly’ın jetairfly’ın Z_B e_I t_I e_I j_I r_I f_I 1_I 5_I a_I j_E
 jimmy jimmy dZ_B i_I m_I i_E
+jinekolojik jinekolojik Z_B i_I n_I e_I c_I o_I l_I o_I Z_I i_I c_E
 joe joe dZ_B o_E
 joelin joelin Z_B o_I e_I 5_I i_I n_E
 john john Z_B o_I h_I n_E
@@ -17748,6 +17809,7 @@ kayboluyordu kayboluyordu k_B a_I j_I b_I o_I 5_I u_I j_I o_I r_I d_I u_E
 kaybı kaybı k_B a_I j_I b_I 1_E
 kaybın kaybın k_B a_I j_I b_I 1_I n_E
 kaydedildi kaydedildi k_B a_I j_I d_I e_I d_I i_I l_I d_I i_E
+kaydet kaydet k_B a_I j_I d_I e_I t_E
 kaydetmesi kaydetmesi k_B a_I j_I d_I e_I t_I m_I e_I s_I i_E
 kaydetti kaydetti k_B a_I j_I d_I e_I t_I t_I i_E
 kaydettik kaydettik k_B a_I j_I d_I e_I t_I t_I i_I c_E
@@ -18752,6 +18814,7 @@ konsolidasyon konsolidasyon k_B o_I n_I s_I o_I l_I i_I d_I a_I s_I j_I o_I n_E
 konsulte konsulte k_B o_I n_I s_I u_I 5_I t_I e_E
 konsültasyon konsültasyon k_B o_I n_I s_I y_I l_I t_I a_I s_I j_I o_I n_E
 kontakt kontakt k_B o_I n_I t_I a_I k_I t_E
+kontraksiyonları kontraksiyonları k_B o_I n_I t_I r_I a_I k_I s_I i_I j_I o_I n_I 5_I a_I r_I 1_E
 kontrast kontrast k_B o_I n_I t_I r_I a_I s_I t_E
 kontrastlanma kontrastlanma k_B o_I n_I t_I r_I a_I s_I t_I 5_I a_I n_I m_I a_E
 kontrastlı kontrastlı k_B o_I n_I t_I r_I a_I s_I t_I 5_I 1_E
@@ -18770,12 +18833,14 @@ kontur kontur k_B o_I n_I t_I u_I r_E
 konturlar konturlar k_B o_I n_I t_I u_I r_I 5_I a_I r_E
 konturlarda konturlarda k_B o_I n_I t_I u_I r_I 5_I a_I r_I d_I a_E
 konturları konturları k_B o_I n_I t_I u_I r_I 5_I a_I r_I 1_E
+konturlu konturlu k_B o_I n_I t_I u_I r_I 5_I u_E
 konturludur konturludur k_B o_I n_I t_I u_I r_I 5_I u_I d_I u_I r_E
 konturu konturu k_B o_I n_I t_I u_I r_I u_E
 konu konu k_B o_I n_I u_E
 konuda konuda k_B o_I n_I u_I d_I a_E
 konudaki konudaki k_B o_I n_I u_I d_I a_I c_I i_E
 konukların konukların k_B o_I n_I u_I k_I 5_I a_I r_I 1_I n_E
+konum konum k_B o_I n_I u_I m_E
 konuma konuma k_B o_I n_I u_I m_I a_E
 konumdadır konumdadır k_B o_I n_I u_I m_I d_I a_I d_I 1_I r_E
 konumundan konumundan k_B o_I n_I u_I m_I u_I n_I d_I a_I n_E
@@ -20548,6 +20613,7 @@ lojunda lojunda 5_B o_I Z_I u_I n_I d_I a_E
 lokalizasyon lokalizasyon 5_B o_I k_I a_I 5_I i_I z_I a_I s_I j_I o_I n_E
 lokalizasyonda lokalizasyonda 5_B o_I k_I a_I 5_I i_I z_I a_I s_I j_I o_I n_I d_I a_E
 lokalizasyondadır lokalizasyondadır 5_B o_I k_I a_I 5_I i_I z_I a_I s_I j_I o_I n_I d_I a_I d_I 1_I r_E
+lokalizasyonları lokalizasyonları 5_B o_I k_I a_I 5_I i_I z_I a_I s_I j_I o_I n_I 5_I a_I r_I 1_E
 lokalizasyonu lokalizasyonu 5_B o_I k_I a_I 5_I i_I z_I a_I s_I j_I o_I n_I u_E
 lokalizasyonunda lokalizasyonunda 5_B o_I k_I a_I 5_I i_I z_I a_I s_I j_I o_I n_I u_I n_I d_I a_E
 lokantada lokantada l_B o_I k_I a_I n_I t_I a_I d_I a_E
@@ -21396,6 +21462,7 @@ minderdeki minderdeki m_B i_I n_I d_I e_I r_I d_I e_I c_I i_E
 minderin minderin m_B i_I n_I d_I e_I r_I i_I n_E
 minderlerin minderlerin m_B i_I n_I d_I e_I r_I l_I e_I r_I i_I n_E
 mineralizasyondadır mineralizasyondadır m_B i_I n_I e_I r_I a_I 5_I i_I z_I a_I s_I j_I o_I n_I d_I a_I d_I 1_I r_E
+minimal minimal m_B i_I n_I i_I m_I a_I 5_E
 minimini minimini m_B i_I n_I i_I m_I i_I n_I i_E
 minnet minnet m_B i_I n_I n_I e_I t_E
 minnettar minnettar m_B i_I n_I n_I e_I t_I t_I a_I r_E
@@ -21464,6 +21531,7 @@ modası modası m_B o_I d_I a_I s_I 1_E
 modeli modeli m_B o_I d_I e_I l_I i_E
 modern modern m_B o_I d_I e_I r_I n_E
 modları modları m_B o_I d_I 5_I a_I r_I 1_E
+modunda modunda m_B o_I d_I u_I n_I d_I a_E
 mola mola m_B o_I 5_I a_E
 moldovantilea moldovantilea m_B o_I 5_I d_I o_I v_I a_I n_I t_I i_I 5_I e_I a_E
 momentum momentum m_B o_I m_I e_I n_I t_I u_I m_E
@@ -22388,6 +22456,7 @@ ohhü ohhü o_B h_I h_I y_E
 ohio ohio o_B h_I a_I j_I o_E
 ohri ohri o_B h_I r_I i_E
 ok ok o_B k_E
+okey okey o_B k_I e_I j_E
 okka okka o_B k_I k_I a_E
 okkalı okkalı o_B k_I k_I a_I 5_I 1_E
 okkası okkası o_B k_I k_I a_I s_I 1_E
@@ -22777,6 +22846,7 @@ oluklardan oluklardan o_B 5_I u_I k_I 5_I a_I r_I d_I a_I n_E
 olumlu olumlu o_B 5_I u_I m_I 5_I u_E
 olumsuz olumsuz o_B 5_I u_I m_I s_I u_I z_E
 olun olun o_B 5_I u_I n_E
+olunan olunan o_B 5_I u_I n_I a_I n_E
 olunca olunca o_B 5_I u_I n_I dZ_I a_E
 oluncaya oluncaya o_B 5_I u_I n_I dZ_I a_I j_I a_E
 olunmasını olunmasını o_B 5_I u_I n_I m_I a_I s_I 1_I n_I 1_E
@@ -22845,6 +22915,7 @@ omzuna omzuna o_B m_I z_I u_I n_I a_E
 on on o_B n_E
 ona ona o_B n_I a_E
 onay onay o_B n_I a_I j_E
+onayla onayla o_B n_I a_I j_I 5_I a_E
 onaylamıyor onaylamıyor o_B n_I a_I j_I 5_I a_I m_I 1_I j_I o_E
 onaylamıyor onaylamıyor o_B n_I a_I j_I 5_I a_I m_I 1_I j_I o_I r_E
 onaylandı onaylandı o_B n_I a_I j_I 5_I a_I n_I d_I 1_E
@@ -23697,6 +23768,11 @@ pektoral pektoral p_B e_I k_I t_I o_I r_I a_I 5_E
 pekâlâ pekâlâ p_B e_I k_I e_I a_I 5_I e_I a_E
 pelikan pelikan p_B e_I l_I i_I c_I a_I n_E
 pelvik pelvik p_B e_I 5_I v_I i_I k_E
+pelvikalisiyal pelvikalisiyal p_B e_I 5_I i_I v_I i_I k_I a_I 5_I i_I s_I i_I a_I 5_E
+pelvikalisiyal pelvikalisiyal p_B e_I 5_I v_I i_I k_I a_I 5_I i_I s_I i_I j_I a_I 5_E
+pelvikalisiyal pelvikalisiyal p_B e_I 5_I v_I i_I k_I a_I 5_I i_I s_I j_I a_I 5_E
+pelvis pelvis p_B e_I 5_I i_I v_I i_I s_E
+pelvis pelvis p_B e_I 5_I v_I i_I s_E
 pembe pembe p_B e_I m_I b_I e_E
 pembelik pembelik p_B e_I m_I b_I e_I l_I i_I c_E
 penaltılarda penaltılarda p_B e_I n_I a_I 5_I t_I 1_I 5_I a_I r_I d_I a_E
@@ -24087,6 +24163,8 @@ pulun pulun p_B u_I 5_I u_I n_E
 pupa pupa p_B u_I p_I a_E
 pusuya pusuya p_B u_I s_I u_I j_I a_E
 puşt puşt p_B u_I S_I t_E
+pw pw p_B e_I v_I w_E
+pw pw p_B w_E
 pyelografi pyelografi p_B i_I e_I 5_I o_I gj_I 1_I r_I a_I f_I i_E
 pyelografi pyelografi p_B i_I j_I e_I 5_I o_I gj_I 1_I r_I a_I f_I i_E
 pyelografi pyelografi p_B j_I e_I 5_I o_I gj_I r_I a_I f_I i_E
@@ -24110,6 +24188,8 @@ r r a_B r_E
 r r r_B e_E
 r r r_S
 radara radara r_B a_I d_I a_I r_I a_E
+radial radial r_B a_I d_I i_I a_I 5_E
+radial radial r_B a_I d_I j_I a_I 5_E
 radyal radyal r_B a_I d_I i_I a_I 5_E
 radyal radyal r_B a_I d_I i_I j_I a_I 5_E
 radyal radyal r_B a_I d_I j_I a_I 5_E
@@ -24253,6 +24333,7 @@ rengidir rengidir r_B e_I n_I gj_I i_I d_I i_I r_E
 rengine rengine r_B e_I n_I gj_I i_I n_I e_E
 rengini rengini r_B e_I n_I gj_I i_I n_I i_E
 renk renk r_B e_I n_I k_E
+renkle renkle r_B e_I n_I k_I l_I e_E
 renkleri renkleri r_B e_I n_I k_I l_I e_I r_I i_E
 renkleriyle renkleriyle r_B e_I n_I k_I l_I e_I r_I i_I j_I l_I e_E
 renkli renkli r_B e_I n_I k_I l_I i_E
@@ -24261,6 +24342,8 @@ renkteki renkteki r_B e_I n_I k_I t_I e_I c_I i_E
 renkti renkti r_B e_I n_I k_I t_I i_E
 rençper rençper r_B e_I n_I tS_I p_I e_I r_E
 replasmanı replasmanı r_B e_I p_I 5_I a_I s_I m_I a_I n_I 1_E
+resessüsler resessüsler r_B e_I s_I e_I s_I s_I y_I s_I 5_I e_I r_E
+resessüsler resessüsler r_B e_I s_I e_I s_I y_I s_I 5_I e_I r_E
 resim resim r_B e_I s_I i_I m_E
 resimde resimde r_B e_I s_I i_I m_I d_I e_E
 resimle resimle r_B e_I s_I i_I m_I l_I e_E
@@ -24303,6 +24386,7 @@ rezolüsyonlu rezolüsyonlu r_B e_I z_I o_I 5_I y_I s_I j_I o_I n_I 5_I u_E
 rezolüsyonlu rezolüsyonlu r_B e_I z_I o_I 5_I y_I s_I y_I j_I o_I n_I 5_I u_E
 reçete reçete r_B e_I tS_I e_I t_I e_E
 reçeteli reçeteli r_B e_I tS_I e_I t_I e_I l_I i_E
+reçeteyi reçeteyi r_B e_I tS_I e_I t_I e_I j_I i_E
 rica rica r_B i_I dZ_I a_E
 ricardio ricardio r_B i_I k_I a_I r_I d_I i_I j_I o_E
 ricardio ricardio r_B i_I k_I a_I r_I d_I i_I o_E
@@ -24317,6 +24401,7 @@ ritm ritm r_B i_I t_I i_I m_E
 ritm ritm r_B i_I t_I m_E
 ritm ritm r_B j_I h_I t_I i_I m_E
 ritmik ritmik r_B i_I t_I m_I i_I c_E
+ritminde ritminde r_B i_I t_I m_I i_I n_I d_I e_E
 rivayet rivayet r_B i_I v_I a_I j_I e_I t_E
 rivayetleri rivayetleri r_B i_I v_I a_I j_I e_I t_I l_I e_I r_I i_E
 rivayetlerin rivayetlerin r_B i_I v_I a_I j_I e_I t_I l_I e_I r_I i_I n_E
@@ -24949,6 +25034,7 @@ sarıyor sarıyor s_B a_I r_I 1_I j_I o_I r_E
 sarığıdır sarığıdır s_B a_I r_I 1_I G_I 1_I d_I 1_I r_E
 sarışın sarışın s_B a_I r_I 1_I S_I 1_I n_E
 sat sat s_B a_I t_E
+sata sata s_B a_I t_I a_E
 satabilseydi satabilseydi s_B a_I t_I a_I b_I i_I l_I s_I e_I j_I d_I i_E
 satamayacağını satamayacağını s_B a_I t_I a_I m_I a_I j_I a_I dZ_I a:_I n_I 1_E
 satamayacağını satamayacağını s_B a_I t_I a_I m_I a_I j_I a_I dZ_I a_I 1_I n_I 1_E
@@ -25044,6 +25130,7 @@ saydım saydım s_B a_I j_I d_I 1_I m_E
 sayemde sayemde s_B a_I j_I e_I m_I d_I e_E
 sayende sayende s_B a_I j_I e_I n_I d_I e_E
 sayesinde sayesinde s_B a_I j_I e_I s_I i_I n_I d_I e_E
+sayfa sayfa s_B a_I j_I f_I a_E
 sayfası sayfası s_B a_I j_I f_I a_I s_I 1_E
 saygı saygı s_B a_I j_I gj_I 1_E
 saygısız saygısız s_B a_I j_I gj_I 1_I s_I 1_I z_E
@@ -25268,6 +25355,7 @@ sekizden sekizden s_B e_I c_I i_I z_I d_I e_I n_E
 sekize sekize s_B e_I c_I i_I z_I e_E
 sekizi sekizi s_B e_I c_I i_I z_I i_E
 sekizinci sekizinci s_B e_I c_I i_I z_I i_I n_I dZ_I i_E
+sekme sekme s_B e_I c_I m_I e_E
 sekmesi sekmesi s_B e_I c_I m_I e_I s_I i_E
 sekresyonu sekresyonu s_B e_I k_I r_I e_I s_I j_I o_I n_I u_E
 sekreter sekreter s_B e_I c_I r_I e_I t_I e_I r_E
@@ -25598,6 +25686,7 @@ sevişmeyi sevişmeyi s_B e_I v_I i_I S_I m_I e_I j_I i_E
 seviştik seviştik s_B e_I v_I i_I S_I t_I i_I c_E
 seviştiler seviştiler s_B e_I v_I i_I S_I t_I i_I l_I e_I r_E
 sevk sevk s_B e_I v_I k_E
+sevki sevki s_B e_I v_I c_I i_E
 sevmedim sevmedim s_B e_I v_I m_I e_I d_I i_I m_E
 sevmedin sevmedin s_B e_I v_I m_I e_I d_I i_I n_E
 sevmediği sevmediği s_B e_I v_I m_I e_I d_I i:_E
@@ -25655,6 +25744,7 @@ seyrekleşti seyrekleşti s_B e_I j_I r_I e_I c_I l_I e_I S_I t_I i_E
 seyret seyret s_B e_I j_I r_I e_I t_E
 seyretmekte seyretmekte s_B e_I j_I r_I e_I t_I m_I e_I c_I t_I e_E
 seyretmeye seyretmeye s_B e_I j_I r_I e_I t_I m_I e_I j_I e_E
+seyretmiş seyretmiş s_B e_I j_I r_I e_I t_I m_I i_I S_E
 seyretti seyretti s_B e_I j_I r_I e_I t_I t_I i_E
 seyrettik seyrettik s_B e_I j_I r_I e_I t_I t_I i_I c_E
 seyrettikten seyrettikten s_B e_I j_I r_I e_I t_I t_I i_I c_I t_I e_I n_E
@@ -25851,12 +25941,14 @@ sintigrafik sintigrafik s_B i_I n_I t_I i_I gj_I 1_I r_I a_I f_I i_I k_E
 sintigrafik sintigrafik s_B i_I n_I t_I i_I gj_I r_I a_I f_I i_I k_E
 sintigrafisi sintigrafisi s_B i_I n_I t_I i_I gj_I r_I a_I f_I i_I s_I i_E
 sintinede sintinede s_B i_I n_I t_I i_I n_I e_I d_I e_E
+sinus sinus s_B i_I n_I u_I s_E
 sinyal sinyal s_B i_I n_I j_I a_I 5_E
 sinyali sinyali s_B i_I n_I j_I a_I l_I i_E
 sinyaller sinyaller s_B i_I n_I j_I a_I 5_I l_I e_I r_E
 sinyalleri sinyalleri s_B i_I n_I j_I a_I 5_I l_I e_I r_I i_E
 sinyalsiz sinyalsiz s_B i_I n_I j_I a_I 5_I s_I i_I z_E
 sinüs sinüs s_B i_I n_I y_I s_E
+sinüsal sinüsal s_B i_I n_I y_I s_I a_I 5_E
 sinüsler sinüsler s_B i_I n_I y_I s_I l_I e_I r_E
 sinüslerin sinüslerin s_B i_I n_I y_I s_I l_I e_I r_I i_I n_E
 sipariş sipariş s_B i_I p_I a_I r_I i_I S_E
@@ -25882,6 +25974,7 @@ sistemde sistemde s_B i_I s_I t_I e_I m_I d_I e_E
 sisteme sisteme s_B i_I s_I t_I e_I m_I e_E
 sistemi sistemi s_B i_I s_I t_I e_I m_I i_E
 sisteminde sisteminde s_B i_I s_I t_I e_I m_I i_I n_I d_I e_E
+sistemleri sistemleri s_B i_I s_I t_I e_I m_I l_I e_I r_I i_E
 sisto sisto s_B i_I s_I i_I t_I o_E
 sisto sisto s_B i_I s_I t_I o_E
 sistoüretrografi sistoüretrografi s_B i_I s_I i_I t_I o_I y_I r_I e_I t_I i_I r_I o_I gj_I 1_I r_I a_I f_I i_E
@@ -26065,6 +26158,8 @@ sonlarına sonlarına s_B o_I n_I 5_I a_I r_I 1_I n_I a_E
 sonlarına sonlarına s_B o_I n_I n_I a_I r_I 1_I n_I a_E
 sonlarında sonlarında s_B o_I n_I 5_I a_I r_I 1_I n_I d_I a_E
 sonlarında sonlarında s_B o_I n_I n_I a_I r_I 1_I n_I d_I a_E
+sonografi sonografi s_B o_I n_I o_I gj_I 1_I r_I a_I f_I i_E
+sonografi sonografi s_B o_I n_I o_I gj_I r_I a_I f_I i_E
 sonografik sonografik s_B o_I n_I o_I gj_I r_I a_I f_I i_I k_E
 sonra sonra s_B o_I n_I r_I a_E
 sonradan sonradan s_B o_I n_I r_I a_I d_I a_I n_E
@@ -26294,6 +26389,8 @@ soğutmalı soğutmalı s_B o_I G_I u_I t_I m_I a_I 5_I 1_E
 spektral spektral s_B i_I p_I e_I k_I t_I i_I r_I a_I 5_E
 spektral spektral s_B i_I p_I e_I k_I t_I r_I a_I 5_E
 spektral spektral s_B p_I e_I k_I t_I r_I a_I 5_E
+spektrum spektrum s_B i_I p_I e_I k_I t_I i_I r_I u_I m_E
+spektrum spektrum s_B p_I e_I k_I t_I r_I u_I m_E
 spesifik spesifik s_B i_I p_I e_I s_I i_I f_I i_I c_E
 spinal spinal s_B i_I p_I i_I n_I a_I 5_E
 spinal spinal s_B p_I i_I n_I a_I 5_E
@@ -26303,6 +26400,8 @@ spondilolistezis spondilolistezis s_B 1_I p_I o_I n_I d_I i_I 5_I o_I 5_I i_I s_
 spondilolistezis spondilolistezis s_B p_I o_I n_I d_I i_I 5_I o_I 5_I i_I s_I t_I e_I z_I i_I s_E
 spondilolizis spondilolizis s_B 1_I p_I o_I n_I d_I i_I 5_I o_I 5_I i_I z_I i_I s_E
 spondilolizis spondilolizis s_B p_I o_I n_I d_I i_I 5_I o_I 5_I i_I z_I i_I s_E
+spontan spontan s_B 1_I p_I o_I n_I t_I a_I n_E
+spontan spontan s_B p_I o_I n_I t_I a_I n_E
 spor spor s_B 1_I p_I o_I r_E
 spora spora s_B 1_I p_I o_I r_I a_E
 sporcu sporcu s_B 1_I p_I o_I r_I dZ_I u_E
@@ -26366,6 +26465,10 @@ subglottik subglottik s_B a_I p_I gj_I 1_I 5_I o_I t_I i_I k_E
 subglottik subglottik s_B u_I b_I gj_I 1_I 5_I o_I t_I i_I k_E
 subglottik subglottik s_B u_I b_I gj_I 5_I o_I t_I t_I i_I k_E
 subkarinal subkarinal s_B u_I b_I k_I a_I r_I i_I n_I a_I 5_E
+subklavian subklavian s_B a_I b_I k_I 1_I 5_I a_I v_I j_I a_I n_E
+subklavian subklavian s_B u_I b_I k_I 1_I 5_I a_I v_I i_I j_I a_I n_E
+subklavian subklavian s_B u_I b_I k_I 1_I 5_I a_I v_I j_I a_I n_E
+subklavian subklavian s_B u_I b_I k_I 5_I a_I v_I i_I a_I n_E
 subklavyan subklavyan s_B u_I b_I k_I 5_I a_I v_I j_I a_I n_E
 subklavyen subklavyen s_B a_I b_I k_I 1_I 5_I a_I v_I i_I j_I e_I n_E
 subklavyen subklavyen s_B u_I b_I k_I 1_I 5_I a_I v_I i_I j_I e_I n_E
@@ -26847,6 +26950,7 @@ sürecinin sürecinin s_B y_I r_I e_I dZ_I i_I n_I i_I n_E
 sürede sürede s_B y_I r_I e_I d_I e_E
 süredir süredir s_B y_I r_I e_I d_I i_I r_E
 sürekli sürekli s_B y_I r_I e_I c_I l_I i_E
+süreli süreli s_B y_I r_I e_I l_I i_E
 süreliğine süreliğine s_B y_I r_I e_I l_I i:_I n_I e_E
 süreliğine süreliğine s_B y_I r_I e_I l_I i_I G_I i_I n_I e_E
 süren süren s_B y_I r_I e_I n_E
@@ -27073,6 +27177,7 @@ sınırlarda sınırlarda s_B 1_I n_I 1_I r_I 5_I a_I r_I d_I a_E
 sınırlardadır sınırlardadır s_B 1_I n_I 1_I r_I 5_I a_I r_I d_I a_I d_I 1_I r_E
 sınırları sınırları s_B 1_I n_I 1_I r_I 5_I a_I r_I 1_E
 sınırlarında sınırlarında s_B 1_I n_I 1_I r_I 5_I a_I r_I 1_I n_I d_I a_E
+sınırlarındadır sınırlarındadır s_B 1_I n_I 1_I r_I 5_I a_I r_I 1_I n_I d_I a_I d_I 1_I r_E
 sınırlayabilirler sınırlayabilirler s_B 1_I n_I 1_I r_I 5_I a_I j_I a_I b_I i_I l_I i_I r_I l_I e_I r_E
 sınırı sınırı s_B 1_I n_I 1_I r_I 1_E
 sıpa sıpa s_B 1_I p_I a_E
@@ -27246,6 +27351,7 @@ t2 t2 t_B e_I i_I k_I i_E
 t2 t2 t_B i:_I t_I u:_E
 ta ta t_B a_E
 taaa taaa t_B a_I a_I a_E
+tab tab t_B a_I b_E
 tababetin tababetin t_B a_I b_I a_I b_I e_I t_I i_I n_E
 tabak tabak t_B a_I b_I a_I k_E
 tabaka tabaka t_B a_I b_I a_I k_I a_E
@@ -27418,6 +27524,7 @@ tamam tamam t_B a_I m_I a_I m_E
 tamamdı tamamdı t_B a_I m_I a_I m_I d_I 1_E
 tamamdır tamamdır t_B a_I m_I a_I m_I d_I 1_I r_E
 tamamen tamamen t_B a_I m_I a_I m_I e_I n_E
+tamamla tamamla t_B a_I m_I a_I m_I 5_I a_E
 tamamladı tamamladı t_B a_I m_I a_I m_I 5_I a_I d_I 1_E
 tamamladıktan tamamladıktan t_B a_I m_I a_I m_I 5_I a_I d_I 1_I k_I t_I a_I n_E
 tamamladığı tamamladığı t_B a_I m_I a_I m_I 5_I a_I d_I 1:_E
@@ -27436,6 +27543,7 @@ tamamı tamamı t_B a_I m_I a:_I m_I 1_E
 tamamıyla tamamıyla t_B a_I m_I a:_I m_I 1_I j_I 5_I a_E
 tamamıyla tamamıyla t_B a_I m_I a_I m_I 1_I j_I 5_I a_E
 tamamız tamamız t_B a_I m_I a:_I m_I 1_I z_E
+tamdır tamdır t_B a_I m_I d_I 1_I r_E
 tamir tamir t_B a_I m_I i_I r_E
 tamirden tamirden t_B a_I m_I i_I r_I d_I e_I n_E
 tamire tamire t_B a_I m_I i_I r_I e_E
@@ -27761,6 +27869,7 @@ taşarsa taşarsa t_B a_I S_I a_I r_I s_I a_E
 taşağı taşağı t_B a_I S_I a:_E
 taşağı taşağı t_B a_I S_I a_I 1_E
 taşağı taşağı t_B a_I S_I a_I G_I 1_E
+taşikardi taşikardi t_B a_I S_I i_I c_I a_I r_I d_I i_E
 taşla taşla t_B a_I S_I 5_I a_E
 taşlama taşlama t_B a_I S_I 5_I a_I m_I a_E
 taşlamışlar taşlamışlar t_B a_I S_I 5_I a_I m_I 1_I S_I 5_I a_I r_E
@@ -28448,6 +28557,8 @@ triangüler triangüler t_B i_I r_I i_I j_I a_I n_I gj_I y_I 5_I e_I r_E
 triangüler triangüler t_B r_I i_I a_I n_I gj_I y_I 5_I e_I r_E
 tribünlerde tribünlerde t_B i_I i_I r_I i_I b_I y_I n_I l_I e_I r_I d_I e_E
 tribünlerde tribünlerde t_B i_I i_I r_I i_I b_I y_I n_I n_I e_I r_I d_I e_E
+trifazik trifazik t_B i_I r_I i_I f_I a_I z_I i_I k_E
+trifazik trifazik t_B r_I i_I f_I a_I z_I i_I k_E
 triküspit triküspit t_B i_I r_I i_I k_I y_I s_I p_I i_I t_E
 triküspit triküspit t_B r_I i_I k_I y_I s_I p_I i_I t_E
 tromboemboli tromboemboli t_B 1_I r_I o_I m_I b_I o_I e_I m_I b_I o_I 5_I i_E
@@ -29030,6 +29141,7 @@ uygulanan uygulanan u_B j_I gj_I u_I 5_I a_I n_I a_I n_E
 uygulanmaları uygulanmaları u_B j_I gj_I u_I 5_I a_I n_I m_I a_I 5_I a_I r_I 1_E
 uygulanmayacak uygulanmayacak u_B j_I gj_I u_I 5_I a_I n_I m_I a_I j_I a_I dZ_I a_I k_E
 uygulanmış uygulanmış u_B j_I gj_I u_I 5_I a_I n_I m_I 1_I S_E
+uygulanmıştır uygulanmıştır u_B j_I gj_I u_I 5_I a_I n_I m_I 1_I S_I t_I 1_I r_E
 uygulayacak uygulayacak u_B j_I gj_I u_I 5_I a_I j_I a_I dZ_I a_I k_E
 uygun uygun u_B j_I gj_I u_I n_E
 uygundu uygundu u_B j_I gj_I u_I n_I d_I u_E
@@ -29070,6 +29182,7 @@ uyuduğunu uyuduğunu u_B j_I u_I d_I u_I G_I u_I n_I u_E
 uyuklayan uyuklayan u_B j_I u_I k_I 5_I a_I j_I a_I n_E
 uyukluyor uyukluyor u_B j_I u_I k_I 5_I u_I j_I o_E
 uyukluyor uyukluyor u_B j_I u_I k_I 5_I u_I j_I o_I r_E
+uyukuda uyukuda u_B j_I u_I k_I u_I d_I a_E
 uyuldu uyuldu u_B j_I u_I 5_I d_I u_E
 uyum uyum u_B j_I u_I m_E
 uyuma uyuma u_B j_I u_I m_I a_E
@@ -29569,6 +29682,7 @@ vasiyet vasiyet v_B a_I s_I i_I j_I e_I t_E
 vasiyetimdir vasiyetimdir v_B a_I s_I i_I j_I e_I t_I i_I m_I d_I i_I r_E
 vasiyetinde vasiyetinde v_B a_I s_I i_I j_I e_I t_I i_I n_I d_I e_E
 vasiyetlerini vasiyetlerini v_B a_I s_I i_I j_I e_I t_I l_I e_I r_I i_I n_I i_E
+vaskler vaskler v_B a_I s_I k_I 5_I e_I r_E
 vaskülaritesi vaskülaritesi v_B a_I s_I k_I y_I 5_I a_I r_I i_I t_I e_I s_I i_E
 vaskülarizasyonu vaskülarizasyonu v_B a_I s_I k_I y_I 5_I a_I r_I i_I z_I a_I s_I j_I o_I n_I u_E
 vasküler vasküler v_B a_I s_I k_I y_I 5_I e_I r_E
@@ -30565,6 +30679,7 @@ yapmamı yapmamı j_B a_I p_I m_I a_I m_I 1_E
 yapmamız yapmamız j_B a_I p_I m_I a_I m_I 1_I z_E
 yapmamızı yapmamızı j_B a_I p_I m_I a_I m_I 1_I z_I 1_E
 yapmamıştım yapmamıştım j_B a_I p_I m_I a_I m_I 1_I S_I t_I 1_I m_E
+yapmamıştır yapmamıştır j_B a_I p_I m_I a_I m_I 1_I S_I t_I 1_I r_E
 yapman yapman j_B a_I p_I m_I a_I n_E
 yapmana yapmana j_B a_I p_I m_I a_I n_I a_E
 yapmanın yapmanın j_B a_I p_I m_I a_I n_I 1_I n_E
@@ -31155,7 +31270,10 @@ yazdılar yazdılar j_B a_I z_I d_I 1_I 5_I a_I r_E
 yazdım yazdım j_B a_I z_I d_I 1_I m_E
 yazdın yazdın j_B a_I z_I d_I 1_I n_E
 yazdınız yazdınız j_B a_I z_I d_I 1_I n_I 1_I z_E
+yazdır yazdır j_B a_I z_I d_I 1_I r_E
 yazdırdıktan yazdırdıktan j_B a_I z_I d_I 1_I r_I d_I 1_I k_I t_I a_I n_E
+yazdırma yazdırma j_B a_I z_I d_I 1_I r_I m_I a_E
+yazdırmak yazdırmak j_B a_I z_I d_I 1_I r_I m_I a_I k_E
 yazdırıp yazdırıp j_B a_I z_I d_I 1_I r_I 1_I p_E
 yazdığı yazdığı j_B a_I z_I d_I 1:_E
 yazdığı yazdığı j_B a_I z_I d_I 1_I G_I 1_E
@@ -32439,6 +32557,8 @@ zamanlarında zamanlarında z_B a_I m_I a_I n_I 5_I a_I r_I 1_I n_I d_I a_E
 zamanlarında zamanlarında z_B a_I m_I a_I n_I n_I a_I r_I 1_I n_I d_I a_E
 zamanlarını zamanlarını z_B a_I m_I a_I n_I 5_I a_I r_I 1_I n_I 1_E
 zamanlarını zamanlarını z_B a_I m_I a_I n_I n_I a_I r_I 1_I n_I 1_E
+zamanlı zamanlı z_B a_I m_I a_I n_I 5_I 1_E
+zamanlı zamanlı z_B a_I m_I a_I n_I n_I 1_E
 zamanı zamanı z_B a_I m_I a:_I n_I 1_E
 zamanıdır zamanıdır z_B a_I m_I a:_I n_I 1_I d_I 1_I r_E
 zamanım zamanım z_B a_I m_I a:_I n_I 1_I m_E
@@ -32562,6 +32682,7 @@ zelber zelber z_B e_I 5_I b_I e_I r_E
 zelzeleyi zelzeleyi z_B e_I l_I z_I e_I l_I e_I j_I i_E
 zemheride zemheride z_B e_I m_I h_I e_I r_I i_I d_I e_E
 zemheriden zemheriden z_B e_I m_I h_I e_I r_I i_I d_I e_I n_E
+zeminde zeminde z_B e_I m_I i_I n_I d_I e_E
 zenciler zenciler z_B e_I n_I dZ_I i_I l_I e_I r_E
 zengin zengin z_B e_I n_I gj_I i_I n_E
 zengince zengince z_B e_I n_I gj_I i_I n_I dZ_I e_E
