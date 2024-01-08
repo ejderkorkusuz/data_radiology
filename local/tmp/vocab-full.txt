@@ -4,6 +4,7 @@
 12
 13
 15
+2
 24
 26
 28
@@ -14,14 +15,17 @@
 37
 4
 40
+41
 44
 5
 5,3
+55
 5f
 6
 60
 64
 7
+92
 98
 98,1
 </s>
@@ -360,6 +364,7 @@ akrabası
 akrabaya
 akratılan
 akrep
+aks
 aksak
 aksamak
 aksaraya
@@ -367,6 +372,7 @@ aksediyordu
 aksi
 aksiel
 aksilla
+aksillada
 aksiller
 aksine
 aksiyel
@@ -852,6 +858,7 @@ anahtarın
 analist
 analistler
 analizi
+analizinde
 analı
 analık
 anam
@@ -1547,6 +1554,7 @@ asma
 asmadıklarına
 asmadım
 asmış
+aspirasyon
 aspirinin
 assendan
 astar
@@ -1569,6 +1577,7 @@ ata
 atacak
 atacağı
 atadan
+atakları
 ataktı
 atalar
 ataların
@@ -3704,6 +3713,7 @@ binmiş
 binmişti
 binse
 binsin
+biopsisi
 bir
 bira
 birader
@@ -3749,6 +3759,7 @@ birikmişti
 birileri
 birim
 birimi
+birimimize
 birimiz
 birimler
 birimlerin
@@ -4124,6 +4135,8 @@ boşuna
 boşver
 boşversene
 bph
+bradikardi
+brakial
 brakiosefalik
 brantford
 branş
@@ -4500,6 +4513,7 @@ bölgesel
 bölgesi
 bölgesinde
 bölgesindeki
+bölgesine
 bölgesi’dir
 bölgeye
 bölmüyorumdur
@@ -4784,6 +4798,7 @@ canavarların
 canavarı
 canavarım
 canayakın
+cancel
 candan
 candarma
 candarmadan
@@ -5362,6 +5377,7 @@ dağıtılsın
 dağıtılıyor
 dağıtıyorsun
 daşşağı
+ddd
 ddr
 de
 dean
@@ -6112,6 +6128,7 @@ dirseğiyle
 diseksiyon
 disk
 disko
+dislokasyon
 distal
 distale
 distandü
@@ -6201,6 +6218,7 @@ dişleriyle
 dişsiz
 dişten
 dişçi
+doal
 doboyda
 dock
 dodiki
@@ -7466,9 +7484,11 @@ ekinimi
 ekinler
 ekinleri
 ekip
+ekle
 eklem
 ekleme
 eklemi
+ekleminde
 eklemini
 eklemler
 eklemleri
@@ -7492,6 +7512,7 @@ ekmeğiyle
 ekmişler
 eko
 ekojenitesi
+ekojenitesinde
 ekokardiyografik
 ekoları
 ekonomi
@@ -7757,6 +7778,7 @@ ensesine
 entarisini
 entarisinin
 entelektüel
+enter
 enterasandır
 enteresan
 envai
@@ -7843,6 +7865,7 @@ esas
 esasiye
 esaslı
 esası
+escape
 esefle
 esen
 eser
@@ -8372,6 +8395,7 @@ fasial
 fasiyal
 fasulye
 fasulyeler
+fasyal
 fasılalarla
 fatma
 fatmacığı
@@ -8385,6 +8409,7 @@ faydası
 faydasını
 faydasız
 faydasızlığıma
+fazik
 faziletini
 fazla
 fazladır
@@ -8551,11 +8576,13 @@ fokal
 fokstrot
 folklor
 folliküller
+fonksiyona
 fonksiyonları
 fonlar
 fonların
 fontaneller
 fontlar
+fontu
 fonun
 fora
 foramenler
@@ -8566,6 +8593,7 @@ formatı
 formda
 formları
 formlarında
+formu
 formula
 fossa
 fossadan
@@ -8591,6 +8619,7 @@ frekanslı
 frenklere
 frenkçe
 frontal
+fronto
 fs
 fuara
 fuarda
@@ -8674,6 +8703,7 @@ gamdan
 gamlara
 gamlılık
 gammaz
+gangliyonlar
 garaj
 garanti
 gardiyan
@@ -8984,6 +9014,7 @@ genelde
 genellikle
 general
 genili
+geniliktedir
 geninormaldir
 genital
 geniş
@@ -9469,6 +9500,7 @@ girmedik
 girmedim
 girmediğini
 girmek
+girmektedir
 girmelisin
 girmeliyiz
 girmem
@@ -9957,6 +9989,7 @@ görüntülenmemiştir
 görüntülenmiştir
 görüntüler
 görüntülerde
+görüntülerinde
 görünüm
 görünümde
 görünümdedir
@@ -10143,6 +10176,8 @@ gözkapakları
 gözle
 gözlendi
 gözlenmedi
+gözlenmemiştir
+gözlenmiştir
 gözler
 gözlerden
 gözleri
@@ -10503,6 +10538,7 @@ hacer
 hacere
 hacet
 hacim
+hacimde
 hacimdedir
 hacmi
 hacı
@@ -11514,6 +11550,7 @@ hoşuma
 hoşuna
 hoşça
 hoşçakal
+hpv
 hrct
 hristiyan
 hristiyanlığın
@@ -11974,6 +12011,7 @@ imparator
 imparatora
 imparatorun
 imparatorunuzu
+implantasyonu
 implasyonu
 imtihan
 imtihana
@@ -12192,6 +12230,7 @@ insanız
 instrumental
 intakt
 intakttır
+intensite
 intensiteleri
 intensitesi
 interatriyal
@@ -12215,6 +12254,7 @@ intrakranial
 intrakranyal
 intralobar
 intralober
+intraparankimal
 intraperitoneal
 intraskrotal
 intratorasik
@@ -12490,6 +12530,7 @@ isyan
 it
 itaat
 itaate
+italik
 italyan
 italya’nın
 ite
@@ -12532,6 +12573,7 @@ itme
 itmez
 itte
 itti
+ivkme
 ivp
 iyi
 iyice
@@ -12848,6 +12890,7 @@ jeneratör
 jestler
 jetairfly’ın
 jimmy
+jinekolojik
 joe
 joelin
 john
@@ -14054,6 +14097,7 @@ kayboluyordu
 kaybı
 kaybın
 kaydedildi
+kaydet
 kaydetmesi
 kaydetti
 kaydettik
@@ -14920,6 +14964,7 @@ konsolidasyon
 konsulte
 konsültasyon
 kontakt
+kontraksiyonları
 kontrast
 kontrastlanma
 kontrastlı
@@ -14937,12 +14982,14 @@ kontur
 konturlar
 konturlarda
 konturları
+konturlu
 konturludur
 konturu
 konu
 konuda
 konudaki
 konukların
+konum
 konuma
 konumdadır
 konumundan
@@ -16428,6 +16475,7 @@ lojunda
 lokalizasyon
 lokalizasyonda
 lokalizasyondadır
+lokalizasyonları
 lokalizasyonu
 lokalizasyonunda
 lokantada
@@ -17207,6 +17255,7 @@ minderdeki
 minderin
 minderlerin
 mineralizasyondadır
+minimal
 minimini
 minnet
 minnettar
@@ -17268,6 +17317,7 @@ modası
 modeli
 modern
 modları
+modunda
 mola
 moldovantilea
 momentum
@@ -18126,6 +18176,7 @@ ohhü
 ohio
 ohri
 ok
+okey
 okka
 okkalı
 okkası
@@ -18427,6 +18478,7 @@ oluklardan
 olumlu
 olumsuz
 olun
+olunan
 olunca
 oluncaya
 olunmasını
@@ -18489,6 +18541,7 @@ omzuna
 on
 ona
 onay
+onayla
 onaylamıyor
 onaylandı
 onaylansaydı
@@ -19186,6 +19239,8 @@ pektoral
 pekâlâ
 pelikan
 pelvik
+pelvikalisiyal
+pelvis
 pembe
 pembelik
 penaltılarda
@@ -19504,6 +19559,7 @@ pulun
 pupa
 pusuya
 puşt
+pw
 pyelografi
 pörsüyen
 pösteki
@@ -19522,6 +19578,7 @@ queensland
 qveri
 r
 radara
+radial
 radyal
 radyatöre
 radyo
@@ -19655,6 +19712,7 @@ rengidir
 rengine
 rengini
 renk
+renkle
 renkleri
 renkleriyle
 renkli
@@ -19663,6 +19721,7 @@ renkteki
 renkti
 rençper
 replasmanı
+resessüsler
 resim
 resimde
 resimle
@@ -19700,6 +19759,7 @@ rezillikten
 rezolüsyonlu
 reçete
 reçeteli
+reçeteyi
 rica
 ricardio
 rifat
@@ -19711,6 +19771,7 @@ riski
 ritim
 ritm
 ritmik
+ritminde
 rivayet
 rivayetleri
 rivayetlerin
@@ -20279,6 +20340,7 @@ sarıyor
 sarığıdır
 sarışın
 sat
+sat'a
 satabilseydi
 satamayacağını
 satamaz
@@ -20361,6 +20423,7 @@ saydım
 sayemde
 sayende
 sayesinde
+sayfa
 sayfası
 saygı
 saygısız
@@ -20530,6 +20593,7 @@ sekizden
 sekize
 sekizi
 sekizinci
+sekme
 sekmesi
 sekresyonu
 sekreter
@@ -20820,6 +20884,7 @@ sevişmeyi
 seviştik
 seviştiler
 sevk
+sevki
 sevmedim
 sevmedin
 sevmediği
@@ -20868,6 +20933,7 @@ seyrekleşti
 seyret
 seyretmekte
 seyretmeye
+seyretmiş
 seyretti
 seyrettik
 seyrettikten
@@ -21028,12 +21094,14 @@ sinsin
 sintigrafik
 sintigrafisi
 sintinede
+sinus
 sinyal
 sinyali
 sinyaller
 sinyalleri
 sinyalsiz
 sinüs
+sinüsal
 sinüsler
 sinüslerin
 sipariş
@@ -21057,6 +21125,7 @@ sistemde
 sisteme
 sistemi
 sisteminde
+sistemleri
 sisto
 sistoüretrografi
 siteler
@@ -21205,6 +21274,7 @@ sondu
 sonlara
 sonlarına
 sonlarında
+sonografi
 sonografik
 sonra
 sonradan
@@ -21390,12 +21460,14 @@ soğurum
 soğutma
 soğutmalı
 spektral
+spektrum
 spesifik
 spinal
 spiral
 spokanenin
 spondilolistezis
 spondilolizis
+spontan
 spor
 spora
 sporcu
@@ -21434,6 +21506,7 @@ subaşı
 subdeltoid
 subglottik
 subkarinal
+subklavian
 subklavyan
 subklavyen
 subkortikal
@@ -21834,6 +21907,7 @@ sürecinin
 sürede
 süredir
 sürekli
+süreli
 süreliğine
 süren
 sürer
@@ -22031,6 +22105,7 @@ sınırlarda
 sınırlardadır
 sınırları
 sınırlarında
+sınırlarındadır
 sınırlayabilirler
 sınırı
 sıpa
@@ -22176,6 +22251,7 @@ t1a
 t2
 ta
 taaa
+tab
 tababetin
 tabak
 tabaka
@@ -22341,6 +22417,7 @@ tamam
 tamamdı
 tamamdır
 tamamen
+tamamla
 tamamladı
 tamamladıktan
 tamamladığı
@@ -22357,6 +22434,7 @@ tamamlayıcı
 tamamı
 tamamıyla
 tamamız
+tamdır
 tamir
 tamirden
 tamire
@@ -22651,6 +22729,7 @@ taşa
 taşaklarını
 taşarsa
 taşağı
+taşikardi
 taşla
 taşlama
 taşlamışlar
@@ -23268,6 +23347,7 @@ trenin
 treniyle
 triangüler
 tribünlerde
+trifazik
 triküspit
 tromboemboli
 tromboemboliyi
@@ -23766,6 +23846,7 @@ uygulanan
 uygulanmaları
 uygulanmayacak
 uygulanmış
+uygulanmıştır
 uygulayacak
 uygun
 uygundu
@@ -23802,6 +23883,7 @@ uyuduğum
 uyuduğunu
 uyuklayan
 uyukluyor
+uyukuda
 uyuldu
 uyum
 uyuma
@@ -24167,6 +24249,7 @@ vasiyet
 vasiyetimdir
 vasiyetinde
 vasiyetlerini
+vaskler
 vaskülaritesi
 vaskülarizasyonu
 vasküler
@@ -24987,6 +25070,7 @@ yapmamı
 yapmamız
 yapmamızı
 yapmamıştım
+yapmamıştır
 yapman
 yapmana
 yapmanın
@@ -25449,7 +25533,10 @@ yazdılar
 yazdım
 yazdın
 yazdınız
+yazdır
 yazdırdıktan
+yazdırma
+yazdırmak
 yazdırıp
 yazdığı
 yazdığım
@@ -26470,6 +26557,7 @@ zamanlarda
 zamanlarımda
 zamanlarında
 zamanlarını
+zamanlı
 zamanı
 zamanıdır
 zamanım
@@ -26578,6 +26666,7 @@ zelber
 zelzeleyi
 zemheride
 zemheriden
+zeminde
 zenciler
 zengin
 zengince
