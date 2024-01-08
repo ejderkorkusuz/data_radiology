@@ -20345,7 +20345,7 @@ ngram 3=9504
 -4.996755	sarığıdır	-0.30103
 -4.452686	sarışın	-0.30103
 -4.452686	sat	-0.3424227
--4.996755	sat'a	-0.30103
+-4.996755	sata	-0.30103
 -4.996755	satabilseydi	-0.30103
 -4.996755	satamayacağını	-0.30103
 -4.996755	satamaz	-0.30103
@@ -34892,7 +34892,7 @@ ngram 3=9504
 -4.517133	<s> sarıl
 -4.239004	<s> sarışın
 -4.239004	<s> sat	-0.4771213
--4.56421	<s> sat'a
+-4.56421	<s> sata
 -4.56421	<s> satlıcana
 -4.56421	<s> satıldı
 -4.065533	<s> satılmış
@@ -101465,7 +101465,7 @@ ngram 3=9504
 -1.04124	sat düzenli
 -1.041349	sat satürasyonu
 -1.041371	sat yağızı
--0.3009009	sat'a göre
+-0.3009009	sata göre
 -0.2370849	satabilseydi </s>
 -0.2994446	satamayacağını da
 -0.3010038	satamaz olduk

@@ -35366,4 +35366,125 @@ sekmesi s_B e_I c_I m_I e_I s_I i_E
 sayfası s_B a_I j_I f_I a_I s_I 1_E
 önerildi 2_B n_I e_I r_I i_I l_I d_I i_E
 dinlendi d_B i_I n_I l_I e_I n_I d_I i_E
+dinlendi d_B i_I n_I n_I e_I n_I d_I i_E
+lokalizasyonları 5_B o_I k_I a_I 5_I i_I z_I a_I s_I j_I o_I n_I 5_I a_I r_I 1_E
+pelvikalisiyal p_B e_I 5_I v_I i_I k_I a_I 5_I i_I s_I i_I j_I a_I 5_E
+pelvikalisiyal p_B e_I 5_I i_I v_I i_I k_I a_I 5_I i_I s_I i_I a_I 5_E
+pelvikalisiyal p_B e_I 5_I v_I i_I k_I a_I 5_I i_I s_I j_I a_I 5_E
+sistemleri s_B i_I s_I t_I e_I m_I l_I e_I r_I i_E
+intraparankimal i_B n_I t_I r_I a_I p_I a_I r_I a_I n_I k_I i_I m_I a_I 5_E
+intraparankimal i_B n_I i_I t_I r_I a_I p_I a_I r_I a_I n_I k_I i_I m_I a_I 5_E
+olunan o_B 5_I u_I n_I a_I n_E
+ekleminde e_B c_I l_I e_I m_I i_I n_I d_I e_E
+dislokasyon d_B i_I s_I 5_I o_I k_I a_I s_I j_I o_I n_E
+dislokasyon d_B i_I s_I i_I 5_I o_I k_I a_I s_I i_I j_I o_I n_E
+hacimde h_B a_I dZ_I i_I m_I d_I e_E
+konturlu k_B o_I n_I t_I u_I r_I 5_I u_E
+ekojenitesinde e_B k_I o_I Z_I e_I n_I i_I t_I e_I s_I i_I n_I d_I e_E
+subklavian s_B u_I b_I k_I 5_I a_I v_I i_I a_I n_E
+subklavian s_B u_I b_I k_I 1_I 5_I a_I v_I i_I j_I a_I n_E
+subklavian s_B u_I b_I k_I 1_I 5_I a_I v_I j_I a_I n_E
+subklavian s_B a_I b_I k_I 1_I 5_I a_I v_I j_I a_I n_E
+brakial b_B r_I a_I k_I i_I a_I 5_E
+brakial b_B 1_I r_I a_I k_I i_I a_I 5_E
+brakial b_B 1_I r_I a_I k_I i_I j_I a_I 5_E
+radial r_B a_I d_I i_I a_I 5_E
+radial r_B a_I d_I j_I a_I 5_E
+ivkme i_B v_I k_I m_I e_E
+ivkme i_B v_I i_I k_I m_I e_E
+zamanlı z_B a_I m_I a_I n_I 5_I 1_E
+zamanlı z_B a_I m_I a_I n_I n_I 1_E
+fonksiyona f_B o_I N_I k_I s_I i_I j_I o_I n_I a_E
+girmektedir gj_B i_I r_I m_I e_I c_I t_I e_I d_I i_I r_E
+sonografi s_B o_I n_I o_I gj_I r_I a_I f_I i_E
+sonografi s_B o_I n_I o_I gj_I 1_I r_I a_I f_I i_E
+gözlenmemiştir gj_B 2_I z_I l_I e_I n_I m_I e_I m_I i_I S_I t_I i_I r_E
+sevki s_B e_I v_I c_I i_E
+birimimize b_B i_I r_I i_I m_I i_I m_I i_I z_I e_E
+aspirasyon a_B s_I p_I i_I r_I a_I s_I j_I o_I n_E
+aspirasyon a_B s_I i_I p_I i_I r_I a_I s_I j_I o_I n_E
+biopsisi b_B i_I o_I p_I s_I i_I s_I i_E
+biopsisi b_B i_I j_I o_I p_I s_I i_I s_I i_E
+uygulanmıştır u_B j_I gj_I u_I 5_I a_I n_I m_I 1_I S_I t_I 1_I r_E
+bölgesine b_B 2_I l_I gj_I e_I s_I i_I n_I e_E
+fronto f_B r_I o_I n_I t_I o_E
+fronto f_B 1_I r_I o_I n_I t_I o_E
+fronto f_B u_I r_I o_I n_I t_I o_E
+resessüsler r_B e_I s_I e_I s_I s_I y_I s_I 5_I e_I r_E
+resessüsler r_B e_I s_I e_I s_I y_I s_I 5_I e_I r_E
+pelvis p_B e_I 5_I v_I i_I s_E
+pelvis p_B e_I 5_I i_I v_I i_I s_E
+konum k_B o_I n_I u_I m_E
+zeminde z_B e_I m_I i_I n_I d_I e_E
+gangliyonlar gj_B a_I n_I gj_I 5_I i_I j_I o_I n_I 5_I a_I r_E
+intensite i_B n_I t_I e_I n_I s_I i_I t_I e_E
+sınırlarındadır s_B 1_I n_I 1_I r_I 5_I a_I r_I 1_I n_I d_I a_I d_I 1_I r_E
+sata s_B a_I t_I a_E
+doal d_B o_I a_I 5_E
+bradikardi b_B r_I a_I d_I i_I k_I a_I r_I d_I i_E
+bradikardi b_B 1_I r_I a_I d_I i_I k_I a_I r_I d_I i_E
+süreli s_B y_I r_I e_I l_I i_E
+sinüsal s_B i_I n_I y_I s_I a_I 5_E
+atakları a_B t_I a_I k_I 5_I a_I r_I 1_E
+jinekolojik Z_B i_I n_I e_I c_I o_I l_I o_I Z_I i_I c_E
+hpv h_B p_I v_E
+hpv h_B e_I p_I e_I v_I e_E
+hpv e_B j_I tS_I p_I i:_I v_I i:_E
+yapmamıştır j_B a_I p_I m_I a_I m_I 1_I S_I t_I 1_I r_E
+modunda m_B o_I d_I u_I n_I d_I a_E
+renkle r_B e_I n_I k_I l_I e_E
+tamdır t_B a_I m_I d_I 1_I r_E
+pw p_B w_E
+pw p_B e_I v_I w_E
+spektrum s_B p_I e_I k_I t_I r_I u_I m_E
+spektrum s_B i_I p_I e_I k_I t_I i_I r_I u_I m_E
+analizinde a_B n_I a_I l_I i_I z_I i_I n_I d_I e_E
+trifazik t_B r_I i_I f_I a_I z_I i_I k_E
+trifazik t_B i_I r_I i_I f_I a_I z_I i_I k_E
+formu f_B o_I r_I m_I u_E
+gözlenmiştir gj_B 2_I z_I l_I e_I n_I m_I i_I S_I t_I i_I r_E
+fasyal f_B a_I s_I j_I a_I 5_E
+fasyal f_B a_I s_I i_I a_I 5_E
+kontraksiyonları k_B o_I n_I t_I r_I a_I k_I s_I i_I j_I o_I n_I 5_I a_I r_I 1_E
+aks a_B k_I s_E
+2 i_B k_I i_E
+görüntülerinde gj_B 2_I r_I y_I n_I t_I y_I l_I e_I r_I i_I n_I d_I e_E
+minimal m_B i_I n_I i_I m_I a_I 5_E
+ddd d_B d_I d_E
+ddd d_B e_I d_I e_I d_I e_E
+implantasyonu i_B m_I p_I 5_I a_I n_I t_I a_I s_I j_I o_I n_I u_E
+uyukuda u_B j_I u_I k_I u_I d_I a_E
+sinus s_B i_I n_I u_I s_E
+ritminde r_B i_I t_I m_I i_I n_I d_I e_E
+41 k_B 1_I r_I k_I b_I i_I r_E
+92 d_B o_I k_I s_I a_I n_I i_I k_I i_E
+seyretmiş s_B e_I j_I r_I e_I t_I m_I i_I S_E
+55 e_B 5_I 5_I i_I b_I e_I S_E
+vaskler v_B a_I s_I k_I 5_I e_I r_E
+geniliktedir gj_B e_I n_I i_I 5_I i_I k_I t_I e_I d_I i_I r_E
+taşikardi t_B a_I S_I i_I c_I a_I r_I d_I i_E
+aksillada a_B k_I s_I i_I 5_I 5_I a_I d_I a_E
+italik i_B t_I a_I l_I i_I c_E
+fontu f_B o_I n_I t_I u_E
+sayfa s_B a_I j_I f_I a_E
+kaydet k_B a_I j_I d_I e_I t_E
+ekle e_B c_I l_I e_E
+yazdır j_B a_I z_I d_I 1_I r_E
+yazdırmak j_B a_I z_I d_I 1_I r_I m_I a_I k_E
+yazdırma j_B a_I z_I d_I 1_I r_I m_I a_E
+reçeteyi r_B e_I tS_I e_I t_I e_I j_I i_E
+enter e_B n_I t_I e_I r_E
+enter e_B n_I t_I 1_I r_E
+onayla o_B n_I a_I j_I 5_I a_E
+okey o_B k_I e_I j_E
+cancel dZ_B a_I n_I dZ_I e_I 5_E
+cancel k_B e_I n_I s_I 1_I 5_E
+escape e_B s_I dZ_I a_I p_I e_E
+escape e_B s_I k_I e_I j_I i_I p_E
+sekme s_B e_I c_I m_I e_E
+tab t_B a_I b_E
+tamamla t_B a_I m_I a_I m_I 5_I a_E
+spontan s_B p_I o_I n_I t_I a_I n_E
+spontan s_B 1_I p_I o_I n_I t_I a_I n_E
+fazik f_B a_I z_I i_I k_E
 <eps> SIL
